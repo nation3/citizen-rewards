@@ -1,2 +1,2 @@
-# citizen-rewards
+# Citizen Rewards
 A record of citizen rewards
