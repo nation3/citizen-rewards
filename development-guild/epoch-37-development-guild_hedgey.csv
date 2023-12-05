@@ -1,0 +1,3 @@
+Recipient address,Token amount,Unlock date
+<WALLET_ADDRESS>,<AMOUNT_OF_TOKENS>,<UNLOCK_DATE_IN_FORMAT_yyyy-mm-dd>
+<WALLET_ADDRESS>,<AMOUNT_OF_TOKENS>,<UNLOCK_DATE_IN_FORMAT_yyyy-mm-dd>
