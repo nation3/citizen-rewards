@@ -8,7 +8,7 @@ Coordinape Circle: https://app.coordinape.com/welcome/22d0f86e-f4d1-4538-bd10-13
 
 Payout CSV file: [`epoch-41-development-guild_hedgey.csv`](epoch-41-development-guild_hedgey.csv).
 
-Epoch budget: 8 `$NATION`
+Epoch budget: 16 `$NATION`
 
 JohnMark13
 - Development contributions: 1
@@ -22,7 +22,7 @@ Aahna Ashina
 
 Payout CSV file: [`epoch-40-development-guild_hedgey.csv`](epoch-40-development-guild_hedgey.csv).
 
-Epoch budget: 8 `$NATION`
+Epoch budget: 16 `$NATION`
 
 Aahna Ashina
 - Development contributions: 8
@@ -40,7 +40,7 @@ Yahia
 
 Payout CSV file: [`epoch-39-development-guild_hedgey.csv`](epoch-39-development-guild_hedgey.csv).
 
-Epoch budget: 8 `$NATION`
+Epoch budget: 16 `$NATION`
 
 Aahna Ashina
 - Development contributions: 7
@@ -54,7 +54,7 @@ Yahia
 
 Payout CSV file: [`epoch-38-development-guild_hedgey.csv`](epoch-38-development-guild_hedgey.csv).
 
-Epoch budget: 8 `$NATION`
+Epoch budget: 16 `$NATION`
 
 Yahia
 - Development contributions: 9
@@ -72,7 +72,7 @@ JohnMark13
 
 Payout CSV file: [`epoch-37-development-guild_hedgey.csv`](epoch-37-development-guild_hedgey.csv).
 
-Epoch budget: 8 `$NATION`
+Epoch budget: 16 `$NATION`
 
 Aahna Ashina
 - Development contributions: 9
