@@ -10,7 +10,21 @@ Coordinape Circle: https://app.coordinape.com/welcome/22d0f86e-f4d1-4538-bd10-13
 
 ## Coordinape Epoch #40: Nov 21 - 28
 
-...
+Payout CSV file: [`epoch-40-development-guild_hedgey.csv`](epoch-40-development-guild_hedgey.csv).
+
+Epoch budget: 8 `$NATION`
+
+Aahna Ashina
+- Development contributions: 8
+- Development hours: 22h
+
+JohnMark13
+- Development contributions: 2
+- Development hours: 4h?
+
+Yahia
+- Development contributions: 3
+- Development hours: 2h
 
 ## Coordinape Epoch #39: Oct 15 - 22
 
@@ -24,7 +38,7 @@ Aahna Ashina
 
 Yahia
 - Development contributions: 1
-- Development hours: 2h?
+- Development hours: 2h
 
 ## Coordinape Epoch #38: Oct 8 - 15
 
