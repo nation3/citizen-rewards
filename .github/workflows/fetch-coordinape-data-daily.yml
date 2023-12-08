@@ -1,0 +1,84 @@
+name: Fetch Coordinape Data (Daily Cron Job)
+
+on:
+  # A new interval every day (midnight)
+  schedule:
+    - cron: 0 0 * * * # 00:00 UTC
+  push:
+    branches:
+      # Allows us to test this workflow
+      - "fetch-coordinape-data-trigger-*"
+
+jobs:
+  coordinape_users:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: development-guild/contributions/
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pull changes
+        run: |
+          git fetch
+          git pull
+
+      - name: Use Node.js 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+          cache-dependency-path: development-guild/contributions/package-lock.json
+      
+      - name: Install Node.js Packages 🔧
+        run: npm install
+
+        # Fetch Coordinape users and store them in a CSV file 🧮
+      - run: node fetch-users.js
+      
+      - name: Commit Changes
+        run: |
+          git config user.name 'NationCred bot'
+          git config user.email 'nationcred.bot@nation3.org'
+          git add output/*
+          git commit --allow-empty -m 'fetch coordinape users'
+      
+      - name: Push Changes
+        run: git push
+
+  coordinape_contributions:
+    needs: coordinape_users
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: development-guild/contributions/
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pull changes
+        run: |
+          git fetch
+          git pull
+
+      - name: Use Node.js 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+          cache-dependency-path: development-guild/contributions/package-lock.json
+      
+      - name: Install Node.js Packages 🔧
+        run: npm install
+
+        # Fetch Coordinape contributions and store them in a CSV file 🧮
+      - run: node fetch-contributions.js
+      
+      - name: Commit Changes
+        run: |
+          git config user.name 'NationCred bot'
+          git config user.email 'nationcred.bot@nation3.org'
+          git add output/*
+          git commit --allow-empty -m 'fetch coordinape contributions'
+      
+      - name: Push Changes
+        run: git push
