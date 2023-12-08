@@ -1,11 +1,11 @@
-# Coordinape Contributions - ⚙️ Ops Guild
+# Coordinape Contributions - 🎥 Marketing Guild
 
 ## Coordinape Users
 
 Fetch Coordinape users and store them in a CSV file, [coordinape-users.csv](coordinape-users.csv).
 
 ```
-cd ops-guild/contributions/
+cd marketing-guild/contributions/
 npm install
 node fetch-users.js
 ```
@@ -15,7 +15,7 @@ node fetch-users.js
 Fetch Coordinape contributions and store them in a CSV file, [coordinape-contributions.csv](coordinape-contributions.csv).
 
 ```
-cd ops-guild/contributions/
+cd marketing-guild/contributions/
 npm install
 node fetch-contributions.js
 ```

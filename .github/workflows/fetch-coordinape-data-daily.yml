@@ -88,3 +88,43 @@ jobs:
       
       - name: Push Changes
         run: git push
+
+  marketing_guild:
+    needs: ops_guild
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: marketing-guild/contributions/
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pull changes
+        run: |
+          git fetch
+          git pull
+
+      - name: Use Node.js 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+          cache-dependency-path: marketing-guild/contributions/package-lock.json
+      
+      - name: Install Node.js Packages 🔧
+        run: npm install
+
+        # Fetch Coordinape users and store them in a CSV file 🧮
+      - run: node fetch-users.js
+
+        # Fetch Coordinape contributions and store them in a CSV file 🧮
+      - run: node fetch-contributions.js
+      
+      - name: Commit Changes
+        run: |
+          git config user.name 'NationCred bot'
+          git config user.email 'nationcred.bot@nation3.org'
+          git add output/*
+          git commit --allow-empty -m 'fetch coordinape contributions - marketing guild'
+      
+      - name: Push Changes
+        run: git push
