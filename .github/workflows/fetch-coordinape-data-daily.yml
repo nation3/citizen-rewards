@@ -10,7 +10,7 @@ on:
       - "fetch-coordinape-data-trigger-*"
 
 jobs:
-  coordinape_users:
+  development_guild:
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -35,23 +35,26 @@ jobs:
 
         # Fetch Coordinape users and store them in a CSV file 🧮
       - run: node fetch-users.js
+
+        # Fetch Coordinape contributions and store them in a CSV file 🧮
+      - run: node fetch-contributions.js
       
       - name: Commit Changes
         run: |
           git config user.name 'NationCred bot'
           git config user.email 'nationcred.bot@nation3.org'
           git add output/*
-          git commit --allow-empty -m 'fetch coordinape users'
+          git commit --allow-empty -m 'fetch coordinape contributions - development guild'
       
       - name: Push Changes
         run: git push
 
-  coordinape_contributions:
-    needs: coordinape_users
+  ops_guild:
+    needs: development_guild
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: development-guild/contributions/
+        working-directory: ops-guild/contributions/
     steps:
       - uses: actions/checkout@v3
 
@@ -65,10 +68,13 @@ jobs:
         with:
           node-version: 18.x
           cache: npm
-          cache-dependency-path: development-guild/contributions/package-lock.json
+          cache-dependency-path: ops-guild/contributions/package-lock.json
       
       - name: Install Node.js Packages 🔧
         run: npm install
+
+        # Fetch Coordinape users and store them in a CSV file 🧮
+      - run: node fetch-users.js
 
         # Fetch Coordinape contributions and store them in a CSV file 🧮
       - run: node fetch-contributions.js
@@ -78,7 +84,7 @@ jobs:
           git config user.name 'NationCred bot'
           git config user.email 'nationcred.bot@nation3.org'
           git add output/*
-          git commit --allow-empty -m 'fetch coordinape contributions'
+          git commit --allow-empty -m 'fetch coordinape contributions - ops guild'
       
       - name: Push Changes
         run: git push

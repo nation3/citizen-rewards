@@ -1,4 +1,4 @@
-# Coordinape Contributions - 🧙 Development Guild
+# Coordinape Contributions - ⚙️ Ops Guild
 
 ## Coordinape Users
 
