@@ -57,8 +57,8 @@ Aahna Ashina
 - Development hours: 14h
 
 Yahia
-- Development contributions: 1
-- Development hours: 2h
+- Development contributions: 3
+- Development hours: 5h
 
 ## Coordinape Epoch #38: Oct 8 - 15
 
