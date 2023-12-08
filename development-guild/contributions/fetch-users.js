@@ -1,5 +1,6 @@
 const fs = require('fs');
 const { stringify } = require('csv-stringify');
+const coordinapeConfig = require('./coordinape_config.json');
 
 const GRAPHQL_URL = 'https://coordinape-prod.hasura.app/v1/graphql';
 console.log('GRAPHQL_URL:', GRAPHQL_URL);
@@ -10,7 +11,7 @@ async function fetchUsers() {
     const response = await fetch(GRAPHQL_URL, {
         method: 'POST',
         headers: {
-            'Authorization': 'Bearer api|E0WXWOBQRpU4S1DTXSiCSkKEcZJ09m0sM7QKwETu',
+            'Authorization': `Bearer ${coordinapeConfig.circle_api_key}`,
             'content-type': 'application/json'
         },
         body: JSON.stringify({
