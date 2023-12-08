@@ -1,52 +1,19 @@
 id,user_id,updated_at,description
-981376,22071,2023-11-27T05:04:22.178591+00:00,[0.5h] Reviewed weekly NationCred dataset generation - https://github.com/nation3/nationcred-datasets/actions/runs/6992350470
-981908,22071,2023-11-28T10:36:44.324163+00:00,[0.5h] Reviewed and merged weekly grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/214
-977740,22071,2023-11-19T14:25:25.119233+00:00,[0.5h] Reviewed and tested https://github.com/nation3/website/pull/19
-978058,22071,2023-11-19T16:50:19.360454+00:00,[1h] Tested John's Snapshot PR -  https://github.com/nation3/snapshot-strategies/pull/4#pullrequestreview-1738672434
-969818,22071,2023-11-05T15:22:20.636682+00:00,[4h] Return zero when locked amount lower than threshold [#80](https://github.com/nation3/nationcred-contracts/pull/80)
-982973,22071,2023-11-30T05:29:33.378936+00:00,[0.5h] Reviewed app [PR](https://github.com/nation3/website/pull/20#pullrequestreview-1756646894).
-983800,22071,2023-12-02T10:08:19.472203+00:00,[0.5h] PR review website.
-983802,22071,2023-12-02T10:34:57.949826+00:00,[1h] Implement PRs for N3GOV-55 - https://app.dework.xyz/nation3/development-guild-43499?taskId=10e1cec9-cc8c-43dc-a7a9-2969a3281672
-974806,22071,2023-11-11T09:09:22.393004+00:00,[0.5h] Merged PR - https://github.com/nation3/nationcred-contracts/pull/80
-979302,162971,2023-11-21T15:16:24.206007+00:00,synced with Dework Ops team on fixing bug
+991247,22071,2023-12-08T08:54:43.840555+00:00,[5h] Fetch contributions from Coordinape's GraphQL endpoint - [Dework task](https://app.dework.xyz/nation3/development-guild-43499?taskId=cdd17875-c2c2-4bdf-ae4f-1bae1369d8a3)
 988655,162955,2023-12-04T19:32:41.650611+00:00,PR for manifesto video. 
-974949,22071,2023-11-12T09:51:01.404073+00:00,[0.5h] Updated changes from `upstream snapshot-labs:master` - https://github.com/nation3/snapshot-strategies/commit/d9b5eeba005f69094a276d303d643f3a2635ddee
-975137,22071,2023-11-13T08:02:19.152873+00:00,[1h] Reviewed John's [Snapshot PR](https://github.com/nation3/snapshot-strategies/pull/4#pullrequestreview-1726669808).
+983802,22071,2023-12-02T10:34:57.949826+00:00,[1h] Implement PRs for N3GOV-55 - https://app.dework.xyz/nation3/development-guild-43499?taskId=10e1cec9-cc8c-43dc-a7a9-2969a3281672
+983800,22071,2023-12-02T10:08:19.472203+00:00,[0.5h] PR review website.
+982973,22071,2023-11-30T05:29:33.378936+00:00,[0.5h] Reviewed app [PR](https://github.com/nation3/website/pull/20#pullrequestreview-1756646894).
+981908,22071,2023-11-28T10:36:44.324163+00:00,[0.5h] Reviewed and merged weekly grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/214
+981376,22071,2023-11-27T05:04:22.178591+00:00,[0.5h] Reviewed weekly NationCred dataset generation - https://github.com/nation3/nationcred-datasets/actions/runs/6992350470
+979302,162971,2023-11-21T15:16:24.206007+00:00,synced with Dework Ops team on fixing bug
+978058,22071,2023-11-19T16:50:19.360454+00:00,[1h] Tested John's Snapshot PR -  https://github.com/nation3/snapshot-strategies/pull/4#pullrequestreview-1738672434
+977740,22071,2023-11-19T14:25:25.119233+00:00,[0.5h] Reviewed and tested https://github.com/nation3/website/pull/19
 975607,162955,2023-11-14T11:33:45.465617+00:00,[1h] Added Manifesto Video to Website 
-519403,162955,2023-10-23T22:06:47.204682+00:00,"Help reviewing Rename ""Voting Power"" to ""Voting Escrow"" - 
-
-https://github.com/nation3/citizen-directory/pull/45
-
-
-"
-512946,162955,2023-10-23T22:06:47.204682+00:00,"Closing the PR at https://github.com/nation3/app/pull/145
-"
-514760,162955,2023-10-23T22:06:47.204682+00:00,"Fixing the Constitution link - https://github.com/nation3/docs/pull/3
-"
-514759,162955,2023-10-23T22:06:47.204682+00:00,"Reporting the broken Constitution link - https://github.com/nation3/docs/issues/2
-"
-514764,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the SourceCred chart PR
-"
-514761,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing and updating the pages at docs.nation3.org
-"
-514763,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the Dework chart PR
-"
-514762,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the citizen directory chart PR
-"
-514765,162955,2023-10-23T22:06:47.204682+00:00,Reviewing the Display veNATION PR
-513173,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the heap out of memory PR
-"
-516099,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the Link a Profile to Github PR
-
-https://github.com/nation3/citizen-directory/pull/44"
-516100,162955,2023-10-23T22:06:47.204682+00:00,"Fiding and Fixing a typo in the Read Me file 
-
-https://github.com/nation3/sourcecred-instance/pull/190
-"
-520264,162955,2023-10-23T22:06:47.204682+00:00,creating webflow Account : hi@nation3.org 
-515062,162955,2023-10-23T22:06:47.204682+00:00,"Created a governance proposal for the ""Weekly Nation3 DAO Budget"" 
-
-https://github.com/nation3/gov-proposals/pull/74"
+975137,22071,2023-11-13T08:02:19.152873+00:00,[1h] Reviewed John's [Snapshot PR](https://github.com/nation3/snapshot-strategies/pull/4#pullrequestreview-1726669808).
+974949,22071,2023-11-12T09:51:01.404073+00:00,[0.5h] Updated changes from `upstream snapshot-labs:master` - https://github.com/nation3/snapshot-strategies/commit/d9b5eeba005f69094a276d303d643f3a2635ddee
+974806,22071,2023-11-11T09:09:22.393004+00:00,[0.5h] Merged PR - https://github.com/nation3/nationcred-contracts/pull/80
+969818,22071,2023-11-05T15:22:20.636682+00:00,[4h] Return zero when locked amount lower than threshold [#80](https://github.com/nation3/nationcred-contracts/pull/80)
 515066,162955,2023-10-23T22:06:47.204682+00:00,"Change ownership of DAO smart contracts 
 
 
@@ -272,3 +239,37 @@ https://app.dework.xyz/nation3/nationcred-p?taskId=575acb44-2a55-4f71-8789-1ecef
 530629,22071,2023-10-23T22:06:47.204682+00:00,[0.5h] Reviewed and merged weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/198
 531660,22071,2023-10-23T22:06:47.204682+00:00,[1h] Configured Vercel for new deployment of the updated website.
 671884,22071,2023-10-23T22:06:47.204682+00:00,[7h] [Add smart contract for checking passport status](https://app.dework.xyz/nation3/development-guild-43499?taskId=ef8f4630-791a-4129-b75c-6c829088dfd2)
+519403,162955,2023-10-23T22:06:47.204682+00:00,"Help reviewing Rename ""Voting Power"" to ""Voting Escrow"" - 
+
+https://github.com/nation3/citizen-directory/pull/45
+
+
+"
+512946,162955,2023-10-23T22:06:47.204682+00:00,"Closing the PR at https://github.com/nation3/app/pull/145
+"
+514760,162955,2023-10-23T22:06:47.204682+00:00,"Fixing the Constitution link - https://github.com/nation3/docs/pull/3
+"
+514759,162955,2023-10-23T22:06:47.204682+00:00,"Reporting the broken Constitution link - https://github.com/nation3/docs/issues/2
+"
+514764,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the SourceCred chart PR
+"
+514761,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing and updating the pages at docs.nation3.org
+"
+514763,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the Dework chart PR
+"
+514762,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the citizen directory chart PR
+"
+514765,162955,2023-10-23T22:06:47.204682+00:00,Reviewing the Display veNATION PR
+513173,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the heap out of memory PR
+"
+516099,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the Link a Profile to Github PR
+
+https://github.com/nation3/citizen-directory/pull/44"
+516100,162955,2023-10-23T22:06:47.204682+00:00,"Fiding and Fixing a typo in the Read Me file 
+
+https://github.com/nation3/sourcecred-instance/pull/190
+"
+520264,162955,2023-10-23T22:06:47.204682+00:00,creating webflow Account : hi@nation3.org 
+515062,162955,2023-10-23T22:06:47.204682+00:00,"Created a governance proposal for the ""Weekly Nation3 DAO Budget"" 
+
+https://github.com/nation3/gov-proposals/pull/74"
