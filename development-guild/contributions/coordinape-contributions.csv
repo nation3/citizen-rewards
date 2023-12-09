@@ -1,0 +1,275 @@
+id,user_id,updated_at,description
+991247,22071,2023-12-08T08:54:43.840555+00:00,[5h] Fetch contributions from Coordinape's GraphQL endpoint - [Dework task](https://app.dework.xyz/nation3/development-guild-43499?taskId=cdd17875-c2c2-4bdf-ae4f-1bae1369d8a3)
+988655,162955,2023-12-04T19:32:41.650611+00:00,PR for manifesto video. 
+983802,22071,2023-12-02T10:34:57.949826+00:00,[1h] Implement PRs for N3GOV-55 - https://app.dework.xyz/nation3/development-guild-43499?taskId=10e1cec9-cc8c-43dc-a7a9-2969a3281672
+983800,22071,2023-12-02T10:08:19.472203+00:00,[0.5h] PR review website.
+982973,22071,2023-11-30T05:29:33.378936+00:00,[0.5h] Reviewed app [PR](https://github.com/nation3/website/pull/20#pullrequestreview-1756646894).
+981908,22071,2023-11-28T10:36:44.324163+00:00,[0.5h] Reviewed and merged weekly grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/214
+981376,22071,2023-11-27T05:04:22.178591+00:00,[0.5h] Reviewed weekly NationCred dataset generation - https://github.com/nation3/nationcred-datasets/actions/runs/6992350470
+979302,162971,2023-11-21T15:16:24.206007+00:00,synced with Dework Ops team on fixing bug
+978058,22071,2023-11-19T16:50:19.360454+00:00,[1h] Tested John's Snapshot PR -  https://github.com/nation3/snapshot-strategies/pull/4#pullrequestreview-1738672434
+977740,22071,2023-11-19T14:25:25.119233+00:00,[0.5h] Reviewed and tested https://github.com/nation3/website/pull/19
+975607,162955,2023-11-14T11:33:45.465617+00:00,[1h] Added Manifesto Video to Website 
+975137,22071,2023-11-13T08:02:19.152873+00:00,[1h] Reviewed John's [Snapshot PR](https://github.com/nation3/snapshot-strategies/pull/4#pullrequestreview-1726669808).
+974949,22071,2023-11-12T09:51:01.404073+00:00,[0.5h] Updated changes from `upstream snapshot-labs:master` - https://github.com/nation3/snapshot-strategies/commit/d9b5eeba005f69094a276d303d643f3a2635ddee
+974806,22071,2023-11-11T09:09:22.393004+00:00,[0.5h] Merged PR - https://github.com/nation3/nationcred-contracts/pull/80
+969818,22071,2023-11-05T15:22:20.636682+00:00,[4h] Return zero when locked amount lower than threshold [#80](https://github.com/nation3/nationcred-contracts/pull/80)
+515066,162955,2023-10-23T22:06:47.204682+00:00,"Change ownership of DAO smart contracts 
+
+
+-DAO Critical Agent Address
+
+
+-DAO Agent Address
+
+https://github.com/nation3/gov-app/pull/21"
+526004,162955,2023-10-23T22:06:47.204682+00:00,Reviewing NationCred smart contract PR
+527956,162955,2023-10-23T22:06:47.204682+00:00,[1h] Adding the env deployment server at Citizen Directory Docs 
+526220,162955,2023-10-23T22:06:47.204682+00:00,[3h] trying to find a way to write the webFlow code back into the webFlow account we created 
+526678,162955,2023-10-23T22:06:47.204682+00:00,"[3h] finding a bug with viewing the NFT passport on Citizen Directory 
+
+https://github.com/nation3/citizen-directory/issues/47"
+530722,162955,2023-10-23T22:06:47.204682+00:00,"created github issue : https://github.com/nation3/docs/issues/5
+"
+531524,162955,2023-10-23T22:06:47.204682+00:00,"Inspect website and add issue to legacy website : https://github.com/nation3/website/issues/13
+"
+531525,162955,2023-10-23T22:06:47.204682+00:00,"Inspect website and add issue to legacy website : https://github.com/nation3/website/issues/12
+"
+531159,162955,2023-10-23T22:06:47.204682+00:00,"[3h] Transferred the webFlow Website to our new webFlow account 
+"
+531160,162955,2023-10-23T22:06:47.204682+00:00,"[3h] Fixed the Legacy website for Nation3.org 
+"
+529574,162955,2023-10-23T22:06:47.204682+00:00,"[1h] Review Upgrade NationCred (#98)  PR 
+
+https://github.com/nation3/n3bi/pull/99#event-10558722264
+"
+531657,162955,2023-10-23T22:06:47.204682+00:00,review PR : chore: set address of latest nationcred version : https://github.com/nation3/nationcred-datasets/pull/108
+531841,162955,2023-10-23T22:06:47.204682+00:00,remove the webflow website from production at : https://nation3.webflow.io/ 
+531566,162955,2023-10-23T22:06:47.204682+00:00,"Inspect website and add issue to legacy website : https://github.com/nation3/website/issues/14
+"
+531567,162955,2023-10-23T22:06:47.204682+00:00,"Inspect website and add issue to legacy website : https://github.com/nation3/website/issues/15
+"
+531568,162955,2023-10-23T22:06:47.204682+00:00,[5h] fix the Legacy website issues : https://github.com/nation3/website/pull/17 
+530720,162955,2023-10-23T22:06:47.204682+00:00,"created gitub issue : https://github.com/nation3/gov-proposals/issues/75
+"
+707017,162955,2023-10-23T22:06:47.204682+00:00,Review PR : https://github.com/nation3/nationcred-contracts/pull/71
+707096,162955,2023-10-23T22:06:47.204682+00:00,Review PR : https://github.com/nation3/nationcred-contracts/pull/77
+19969,33664,2023-10-23T22:06:47.204682+00:00,just some PRs
+18298,33664,2023-10-23T22:06:47.204682+00:00,reviewed a few PRs
+12312,22071,2023-10-23T22:06:47.204682+00:00,PR reviews
+13,22071,2023-10-23T22:06:47.204682+00:00,"[14h] Refactor Apple Wallet code (improve push notifications) 
+https://app.dework.xyz/nation3/passport-services-p?taskId=ae6efa25-b222-4700-afc8-63e65b870cb9"
+14,22071,2023-10-23T22:06:47.204682+00:00,"[10] Started building a Citizen Directory (NationCred integration) 
+https://app.dework.xyz/nation3/nationcred-p?taskId=0475162d-c8ef-4aa6-8a29-47c939eb922a"
+12,22071,2023-10-23T22:06:47.204682+00:00,"[9h] Review and testing of the PR for ""Icon displays with black borders"" https://app.dework.xyz/nation3/app-2?taskId=070b38d5-aa6a-4938-825c-99769678284f"
+58,22071,2023-10-23T22:06:47.204682+00:00,"[8h] Apple Wallet:  Add mock testing of APN provider  
+https://app.dework.xyz/nation3/passport-services-p?taskId=ae804733-1ba1-4d29-b1a7-8b27a01f1a06"
+91,22071,2023-10-23T22:06:47.204682+00:00,"[8h] Add more integration tests to nation3/gov-app 
+https://app.dework.xyz/nation3/develop-1?taskId=f3681c7e-8c22-4ca5-86c8-37b3e84c8475"
+117,22071,2023-10-23T22:06:47.204682+00:00,"[6h] Google Pay:  Create a pass object 
+https://app.dework.xyz/nation3/passport-services-p?taskId=a58f1da4-fe09-40ab-aa61-4a6e97aec6bd"
+170,22071,2023-10-23T22:06:47.204682+00:00,"[2h] Court:  Enable CI in nation3/court 
+https://app.dework.xyz/nation3/develop-1?taskId=23c69449-98d7-407c-8f87-75b7924ae183"
+171,22071,2023-10-23T22:06:47.204682+00:00,"[1h] Court:  PR review
+https://app.dework.xyz/nation3/nation3-court-v1-p?taskId=058cc0a4-6e3f-4f4d-bbc7-2392dd7a678e"
+225,22071,2023-10-23T22:06:47.204682+00:00,"[3h] Citizen Directory:  Add chart visualizing total and active citizens
+https://app.dework.xyz/nation3/develop-1?taskId=c10ba9d7-83da-4be1-ab6e-5af1bf181fd0"
+219,22071,2023-10-23T22:06:47.204682+00:00,"[2h] Enable integration testing in nation3/court 
+https://app.dework.xyz/nation3/develop-1?taskId=af2f000a-6687-46cd-a823-2571dabb0d18"
+227,22071,2023-10-23T22:06:47.204682+00:00,"[1h] Google Pay:  Create a pass object 
+https://app.dework.xyz/nation3/passport-services-p?taskId=a58f1da4-fe09-40ab-aa61-4a6e97aec6bd"
+553,22071,2023-10-23T22:06:47.204682+00:00,"[1.5h] nation3/app:  Fix unhandled runtime error in AllowanceWarning  
+https://app.dework.xyz/nation3/citizen-app-p?taskId=f39147d2-96d7-4423-8473-8f0a9db82628"
+559,22071,2023-10-23T22:06:47.204682+00:00,"[2h] Citizen Directory:  Fetch chart data from datasets repo  
+https://app.dework.xyz/nation3/nationcred-p?taskId=06273af6-2304-45f9-9fb7-c33c4ab73b58"
+775,22071,2023-10-23T22:06:47.204682+00:00,"[6h] List all addresses holding a Nation3 NFT passport  
+https://app.dework.xyz/nation3/nationcred-p?taskId=9c04cf93-6d69-4591-bd12-2873233a377c"
+813,22071,2023-10-23T22:06:47.204682+00:00,"[4h] Citizen Directory:  Display voting power per citizen  
+https://app.dework.xyz/nation3/nationcred-p?taskId=44ff5cb1-92da-43be-9804-6498ca5c0088"
+892,22071,2023-10-23T22:06:47.204682+00:00,"[10h] Citizen Directory:  Add Citizen profile page  
+https://app.dework.xyz/nation3/nationcred-p?taskId=246b633c-5075-4ba4-a6d1-e8e62bd96ffc"
+867,22071,2023-10-23T22:06:47.204682+00:00,"[8h] Citizen Directory:  Fix build error and deploy to Vercel
+https://app.dework.xyz/nation3/nationcred-p?taskId=386ecebc-e988-4f98-9cf6-ab90586683b4"
+869,22071,2023-10-23T22:06:47.204682+00:00,[0.5h] PR review:  https://github.com/nation3/app/pull/160#pullrequestreview-1180243558
+906,22071,2023-10-23T22:06:47.204682+00:00,"[4h] Add ENS name and avatar to profile page  
+https://app.dework.xyz/nation3/nationcred-p?taskId=0207b178-4e8d-491e-b1f3-a1920c86e579"
+902,22071,2023-10-23T22:06:47.204682+00:00,"[2h] Citizen Directory:  Add Dework to profile page  
+https://app.dework.xyz/nation3/nationcred-p?taskId=bf976a69-8fb3-4323-9c91-600cbeac7a96"
+3236,22071,2023-10-23T22:06:47.204682+00:00,"- Add smart contracts for storing NationCred data  
+https://app.dework.xyz/nation3/nationcred-p?taskId=a13963f8-a968-4df5-bb63-c8d2246c2175#"
+3859,22071,2023-10-23T22:06:47.204682+00:00,"Add GitHub smart contract
+- https://app.dework.xyz/nation3/nationcred-p?taskId=575acb44-2a55-4f71-8789-1ecef10d496a"
+3194,22071,2023-10-23T22:06:47.204682+00:00,- Updated SourceCred's GitHub plugin with new repos
+3473,22071,2023-10-23T22:06:47.204682+00:00,- Debug Apple pass push notifications.
+3474,22071,2023-10-23T22:06:47.204682+00:00,"- Add GitHub smart contract for Citizen Directory  
+https://app.dework.xyz/nation3/nationcred-p?taskId=575acb44-2a55-4f71-8789-1ecef10d496a"
+4776,22071,2023-10-23T22:06:47.204682+00:00,"Citizen Directory: shorten profile URL  
+- https://github.com/nation3/citizen-directory/pull/25"
+4777,22071,2023-10-23T22:06:47.204682+00:00,nationcred-contracts:  Add GitHub smart contract
+9141,22071,2023-10-23T22:06:47.204682+00:00,"Citizen Directory:  Link a profile to GitHub  
+- https://app.dework.xyz/nation3/nationcred-p?taskId=e4cb4fc9-dd1e-456c-a833-41c052df237f"
+5397,22071,2023-10-23T22:06:47.204682+00:00,"Citizen Directory:  Link a profile to GitHub  
+- https://app.dework.xyz/nation3/nationcred-p?taskId=e4cb4fc9-dd1e-456c-a833-41c052df237f"
+5398,22071,2023-10-23T22:06:47.204682+00:00,PR reviews
+8320,22071,2023-10-23T22:06:47.204682+00:00,"Citizen Directory:  Link a profile to GitHub  
+- https://app.dework.xyz/nation3/nationcred-p?taskId=e4cb4fc9-dd1e-456c-a833-41c052df237f"
+8811,22071,2023-10-23T22:06:47.204682+00:00,"Citizen Directory:  Visualize historical voting power per citizen  
+- https://app.dework.xyz/nation3/nationcred-p?taskId=2b628c92-c2d9-4421-b30f-be4572edd168"
+8813,22071,2023-10-23T22:06:47.204682+00:00,Citizen Directory:  Link a profile to GitHub
+5713,22071,2023-10-23T22:06:47.204682+00:00,"SourceCred:  Store all existing payoutAddresses in lower-case  
+- https://app.dework.xyz/nation3/nationcred-p?taskId=37c8fc69-5190-4e4c-b3f8-5ae893c6e3f4"
+5793,22071,2023-10-23T22:06:47.204682+00:00,"Citizen Directory:  Link a profile to GitHub  
+- https://app.dework.xyz/nation3/nationcred-p?taskId=e4cb4fc9-dd1e-456c-a833-41c052df237f"
+7951,22071,2023-10-23T22:06:47.204682+00:00,PR review
+10284,22071,2023-10-23T22:06:47.204682+00:00,[2h] SourceCred maintenance
+9400,22071,2023-10-23T22:06:47.204682+00:00,Citizen Directory:  Link a profile to GitHub
+10282,22071,2023-10-23T22:06:47.204682+00:00,"[2h] nation3/app:  Remove code related to the $veNATION rewards multiplier  
+- https://app.dework.xyz/nation3/develop-1?taskId=6e7e7e5c-7aee-4934-af85-6867f87fc2de"
+9885,22071,2023-10-23T22:06:47.204682+00:00,[4h] Went through all the Nation3 smart contracts and made sure that none of them had the compromised _Nation3: Deployer_ account set as owner/admin.
+10283,22071,2023-10-23T22:06:47.204682+00:00,"[2h] Citizen Directory:  Visualize historical voting power per citizen
+- https://app.dework.xyz/nation3/nationcred-p?taskId=2b628c92-c2d9-4421-b30f-be4572edd168"
+15819,22071,2023-10-23T22:06:47.204682+00:00,"[1h] nation3/nationcred-datasets:  Fix problem with Git commit access 
+- https://app.dework.xyz/nation3/nationcred-p?taskId=28390251-8ac0-498e-8d42-6140404160cf"
+10491,22071,2023-10-23T22:06:47.204682+00:00,"[3h] SourceCred:  Store all payoutAddresses in lower-case  
+- https://app.dework.xyz/nation3/nationcred-p?taskId=37c8fc69-5190-4e4c-b3f8-5ae893c6e3f4"
+10697,22071,2023-10-23T22:06:47.204682+00:00,Citizen Directory:  Link a profile to GitHub
+13968,22071,2023-10-23T22:06:47.204682+00:00,[1h] Reviewed NationCred smart contract code.
+15382,22071,2023-10-23T22:06:47.204682+00:00,"[3h] nation3/nationcred-datasets:  Fixed dataset generation bug, and manually generated weekly data
+- https://app.dework.xyz/nation3/nationcred-p/view/board-l58b1zlf?taskId=d6b21727-2cc0-462b-9b0b-79ebc82fa708"
+15385,22071,2023-10-23T22:06:47.204682+00:00,"[2h] nation3/citizen-directory:  Link a profile to GitHub (OAuth integration) 
+- https://app.dework.xyz/nation3/nationcred-p?taskId=e4cb4fc9-dd1e-456c-a833-41c052df237f"
+13806,22071,2023-10-23T22:06:47.204682+00:00,"[2h] nation3/nationcred-datasets:  Add number of new citizens per week to citizens dataset
+- https://app.dework.xyz/nation3/nationcred-p?taskId=7e488bc3-a548-465a-a1bc-13164cdc2397"
+13805,22071,2023-10-23T22:06:47.204682+00:00,"[6h] nation3/nationcred-datasets:  Also include weeks with no new passport mints
+- https://app.dework.xyz/nation3/nationcred-p?taskId=c05f0e20-7255-49ec-b29d-99c4ee4a8130"
+11375,22071,2023-10-23T22:06:47.204682+00:00,"[4h] nation3/nationcred-datasets:  Calculate a citizen's NationCred score
+- https://app.dework.xyz/nation3/n3bi?taskId=e501097e-8ed1-4779-9a1c-f4151537b7ee"
+13807,22071,2023-10-23T22:06:47.204682+00:00,"[2h] nation3/nationcred-datasets: Refactor GitHub workflow  
+- https://app.dework.xyz/nation3/nationcred-p?taskId=ca582fd0-5138-4dd4-9347-7b55ea29b483"
+11378,22071,2023-10-23T22:06:47.204682+00:00,"[4h] nation3/nationcred-instance:  Update Raymond's ETH address in SourceCred to match his passport owner address.
+- https://app.dework.xyz/nation3/recurring-tasks?taskId=4fd8b9de-e45c-4ce2-985b-738e2f5b1f86"
+15482,22071,2023-10-23T22:06:47.204682+00:00,"[2h] Add NationCred interface 
+- https://app.dework.xyz/nation3/develop-1/view/board-7697?taskId=32c456fd-9a2d-4d45-b93b-a580657744df"
+11722,22071,2023-10-23T22:06:47.204682+00:00,[3h] nation3/nationcred-datasets:  NationCred score calculation.
+15483,22071,2023-10-23T22:06:47.204682+00:00,"[10h] Add GitHub smart contract and write unit tests
+- https://app.dework.xyz/nation3/nationcred-p/view/board-l58b1zlf?taskId=575acb44-2a55-4f71-8789-1ecef10d496a"
+11762,22071,2023-10-23T22:06:47.204682+00:00,[2h] nation3/mobile-passport:  Tested push notifications (APNs).
+15488,22071,2023-10-23T22:06:47.204682+00:00,"[2h] Prepare for deployment to Goerli testnet 
+- https://app.dework.xyz/nation3/nationcred-p/view/board-l58b1zlf?taskId=4cbe90c2-fd06-43a2-aaaa-c9cd5a84ef84"
+12313,22071,2023-10-23T22:06:47.204682+00:00,[1h] nation3/nationcred-datasets:  Review weekly dataset generation PRs.
+12314,22071,2023-10-23T22:06:47.204682+00:00,"[10h] nation3/nationcred-datasets:  Generate a weekly list of active Citizens  
+- https://app.dework.xyz/nation3/n3bi/view/board-l8fcz4qy?taskId=2001f94b-c35d-4bf3-9d54-312fd50094bd"
+12173,22071,2023-10-23T22:06:47.204682+00:00,[1h] nation3/nationcred-datasets:  Store historical Snapshot voting activity
+12175,22071,2023-10-23T22:06:47.204682+00:00,NationCred:  Generate a weekly list of active Citizens
+12174,22071,2023-10-23T22:06:47.204682+00:00,[1h] nation3/nationcred-datasets:  Refactoring
+13399,22071,2023-10-23T22:06:47.204682+00:00,"[6h] nation3/nationcred-datasets:  Debugging problem with weekly dataset generation  
+- https://app.dework.xyz/nation3/develop-1/view/board-7697?taskId=257061f3-cd78-4b5b-8ca7-e5b62a7183f8"
+13898,22071,2023-10-23T22:06:47.204682+00:00,"[7h] nation3/nationcred-datasets: Refactor GitHub workflow  
+- https://app.dework.xyz/nation3/nationcred-p?taskId=ca582fd0-5138-4dd4-9347-7b55ea29b483"
+17099,22071,2023-10-23T22:06:47.204682+00:00,[2h] Fixed Git commit problem with weekly dataset generation
+17180,22071,2023-10-23T22:06:47.204682+00:00,"[2h] nation3/nationcred-contracts:  Prepare for deployment to Goerli testnet 
+- https://app.dework.xyz/nation3/nationcred-p/view/board-l58b1zlf?taskId=4cbe90c2-fd06-43a2-aaaa-c9cd5a84ef84"
+17181,22071,2023-10-23T22:06:47.204682+00:00,"[3h] Deploy GitHub smart contract to Goerli/Mainnet 
+- https://app.dework.xyz/nation3/nationcred-p/view/board-l58b1zlf?taskId=bae3ca08-b9a4-4394-9e16-6d3bbaeb5c99"
+19052,24519,2023-10-23T22:06:47.204682+00:00,Fixed the Snapshot voting bug
+19053,24519,2023-10-23T22:06:47.204682+00:00,Rewrote the Snapshot voting strategy (for better or worse)
+19054,24519,2023-10-23T22:06:47.204682+00:00,"Looked at how we might resolve the NationCred generation issue, but Aahna had already resolved it"
+17301,22071,2023-10-23T22:06:47.204682+00:00,"[4h] Fetch GitHub usernames from smart contract 
+- https://app.dework.xyz/nation3/nationcred-p?taskId=e6e3fa65-26c1-420f-aa88-bc70ef135768"
+17621,22071,2023-10-23T22:06:47.204682+00:00,"[2h] Citizen Directory:  (OAuth) Link a profile to GitHub
+- https://app.dework.xyz/nation3/nationcred-p?taskId=e4cb4fc9-dd1e-456c-a833-41c052df237f"
+17622,22071,2023-10-23T22:06:47.204682+00:00,"[5h] nation3/nationcred-contracts:  Add Discord smart contract 
+- https://app.dework.xyz/nation3/nationcred-p/view/board-l58b1zlf?taskId=8ffcb758-6331-4c17-a689-0460195cd002"
+18507,22071,2023-10-23T22:06:47.204682+00:00,"[2h] nation3/nationcred-datasets:  Debug problem with weekly dataset generation  
+- https://github.com/nation3/nationcred-datasets/actions/runs/3921627402
+- https://discord.com/channels/690584551239581708/1061561741852545104/1064066405214990477"
+18058,22071,2023-10-23T22:06:47.204682+00:00,"[2h] Citizen Directory smart contracts:  Deployed Discord smart contract to Mainnet 
+- https://app.dework.xyz/nation3/nationcred-p/view/board-l58b1zlf?taskId=8ffcb758-6331-4c17-a689-0460195cd002"
+18059,22071,2023-10-23T22:06:47.204682+00:00,"[2h] NationCred datasets:  Fetch Discord usernames from smart contract 
+- https://app.dework.xyz/nation3/nationcred-p?taskId=5db0c38e-ff9f-4035-bc45-96d99b7d8959"
+19138,22071,2023-10-23T22:06:47.204682+00:00,[2h] NationCred datasets:  Fix Git problem during weekly data generation cron job.
+19707,22071,2023-10-23T22:06:47.204682+00:00,[0.5h] First review of Snapshot voting strategy PR.
+340899,22071,2023-10-23T22:06:47.204682+00:00,[0.5h] nation3/app:  Fix wagmi provider typo - https://github.com/nation3/app/pull/168
+396952,22071,2023-10-23T22:06:47.204682+00:00,[0.5h] PR review nation3/app refactoring - https://github.com/nation3/app/pull/171#pullrequestreview-1566485019
+516343,22071,2023-10-23T22:06:47.204682+00:00,[6h] Link a profile to GitHub - https://github.com/nation3/citizen-directory/pull/44
+510899,22071,2023-10-23T22:06:47.204682+00:00,Reviewed app PR.
+514714,22071,2023-10-23T22:06:47.204682+00:00,"[0.5h] Checked if ownership of contracts were transferred to the DAO, found one incomplete smart contract - https://discord.com/channels/690584551239581708/1152475825233465354"
+516383,22071,2023-10-23T22:06:47.204682+00:00,[3h] Debugging integration of `passport-github2` and Next.js - https://github.com/nation3/citizen-directory/pull/44
+519056,22071,2023-10-23T22:06:47.204682+00:00,[6h] Integrate with GitHub OAuth - https://github.com/nation3/citizen-directory/pull/44
+514755,22071,2023-10-23T22:06:47.204682+00:00,[4h] Display veNATION lock details - https://github.com/nation3/citizen-directory/pull/43
+514766,22071,2023-10-23T22:06:47.204682+00:00,Assisted <@700760180811366420> with restoration of the governance forum - https://discord.com/channels/690584551239581708/1144990560504004678/1152545216134381608
+514297,22071,2023-10-23T22:06:47.204682+00:00,[1.5h] Add Dework chart to citizen profile - https://github.com/nation3/citizen-directory/pull/40
+513086,22071,2023-10-23T22:06:47.204682+00:00,[1h] Added multisig transaction for changing the `$NATION` contract's controller - https://discord.com/channels/690584551239581708/1150648530277502987
+519641,22071,2023-10-23T22:06:47.204682+00:00,[6h] GitHub OAuth - https://github.com/nation3/citizen-directory/pull/46
+520823,22071,2023-10-23T22:06:47.204682+00:00,[3h] GitHub OAuth - https://github.com/nation3/citizen-directory/pull/46
+509101,22071,2023-10-23T22:06:47.204682+00:00,Testing of wagmi upgrade PR
+513171,22071,2023-10-23T22:06:47.204682+00:00,Sent reminder to change ownership of the LP rewards contract to the DAO - https://discord.com/channels/690584551239581708/1132949638350127194/1150750954627547167
+510429,22071,2023-10-23T22:06:47.204682+00:00,Testing and review of Wallet Connect upgrade PR.
+508447,22071,2023-10-23T22:06:47.204682+00:00,[1h] Tested wagmi upgrade PR - https://discord.com/channels/690584551239581708/1138379002504028200/1146023864997003315
+506313,22071,2023-10-23T22:06:47.204682+00:00,[1h] Reviewed https://github.com/nation3/app/pull/171
+509806,22071,2023-10-23T22:06:47.204682+00:00,[3h] Regression tested the wagmi upgrade PR and reviewed the code changes - https://app.dework.xyz/bounties?taskId=f79d6851-8d3a-4bc2-84b7-c194d5cc3dc5
+509822,22071,2023-10-23T22:06:47.204682+00:00,Reviewed PRs for wagmi upgrade and Wallet Connect upgrade - https://github.com/nation3/app/pull/179#pullrequestreview-1608322553
+518333,22071,2023-10-23T22:06:47.204682+00:00,[2h] Trying to figure out why environment variables are not loading - https://github.com/nation3/citizen-directory/pull/44
+514540,22071,2023-10-23T22:06:47.204682+00:00,[1.5h] Add SourceCred chart - https://github.com/nation3/citizen-directory/pull/41
+511447,22071,2023-10-23T22:06:47.204682+00:00,Reviewed PR for upgrading Wallet Connect.
+507876,22071,2023-10-23T22:06:47.204682+00:00,[1h] Reviewed wagmi upgrade - https://github.com/nation3/app/pull/178#pullrequestreview-1598248641
+514541,22071,2023-10-23T22:06:47.204682+00:00,[1h] Add passport expiry threshold indicator - https://discord.com/channels/690584551239581708/1138401164526899241/1152218541114798101
+442220,22071,2023-10-23T22:06:47.204682+00:00,Changed base member permission from Read to Write - https://github.com/organizations/nation3/settings/member_privileges
+512738,22071,2023-10-23T22:06:47.204682+00:00,[1h] Added N3GOV-53 - https://discord.com/channels/690584551239581708/1150368726907093056
+512739,22071,2023-10-23T22:06:47.204682+00:00,[0.5h] Fix SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/189
+513977,22071,2023-10-23T22:06:47.204682+00:00,[3h] Add diagram for visualizing `$veNATION` per citizen - https://github.com/nation3/citizen-directory/pull/39
+512151,22071,2023-10-23T22:06:47.204682+00:00,[1h] WalletConnect account creation and domain verification - https://app.dework.xyz/nation3/ops-guild-644/view/board-lkyvcajs?taskId=9f7e535f-be10-4753-ac82-d8129447df0a
+519398,22071,2023-10-23T22:06:47.204682+00:00,"[1h] Rename ""Voting Power"" to ""Voting Escrow"" - https://github.com/nation3/citizen-directory/pull/45"
+522865,22071,2023-10-23T22:06:47.204682+00:00,[5h] Trying to install `node-gyp` for use with https://github.com/nation3/sourcecred-template-instance
+528860,164343,2023-10-23T22:06:47.204682+00:00,[0.1h]fix discord link in nation3 docs https://github.com/nation3/docs/pull/4
+529268,22071,2023-10-23T22:06:47.204682+00:00,[6h] Deployed `NationCred.sol` to Mainnet - https://app.dework.xyz/nation3/development-guild-43499?taskId=eee0a0b1-2337-412e-ae20-b1e094768a17
+528044,22071,2023-10-23T22:06:47.204682+00:00,[9h] [Link citizen profiles to NationCred](https://app.dework.xyz/nation3/development-guild-43499?taskId=a6fde463-6089-44e3-a244-0c5308e81672)
+525640,22071,2023-10-23T22:06:47.204682+00:00,[3h] `nation3/sourcecred-template-instance` - Trying to fix `node-gyp` compilation error.
+527914,22071,2023-10-23T22:06:47.204682+00:00,[6h] Worked on [linking citizen profiles to NationCred](https://app.dework.xyz/nation3/development-guild-43499?taskId=a6fde463-6089-44e3-a244-0c5308e81672#)
+526866,22071,2023-10-23T22:06:47.204682+00:00,[1h] Worked on [linking citizen profiles to NationCred](https://app.dework.xyz/nation3/development-guild-43499?taskId=a6fde463-6089-44e3-a244-0c5308e81672#)
+525646,22071,2023-10-23T22:06:47.204682+00:00,[1h] Added `SOURCECRED_GITHUB_TOKEN` to https://github.com/nation3/sourcecred-template-instance/settings/secrets/actions
+525650,22071,2023-10-23T22:06:47.204682+00:00,[1h] Activate GitHub Pages at https://github.com/nation3/sourcecred-template-instance/settings/pages - https://nation3.github.io/sourcecred-template-instance
+529977,22071,2023-10-23T22:06:47.204682+00:00,[4h] [N3BI: Add smart contract for checking passport status](https://app.dework.xyz/nation3/development-guild-43499?taskId=71dc858b-50e8-4561-ad03-6bcbb885d5cc)
+526773,22071,2023-10-23T22:06:47.204682+00:00,[1h] Worked on [linking citizen profiles to NationCred](https://app.dework.xyz/nation3/development-guild-43499?taskId=a6fde463-6089-44e3-a244-0c5308e81672#)
+526217,22071,2023-10-23T22:06:47.204682+00:00,[4h] Add smart contract for checking passport status - https://github.com/nation3/nationcred-contracts/pull/75
+526679,22071,2023-10-23T22:06:47.204682+00:00,[1h] Worked on [linking citizen profiles to NationCred](https://app.dework.xyz/nation3/development-guild-43499?taskId=a6fde463-6089-44e3-a244-0c5308e81672#)
+526553,22071,2023-10-23T22:06:47.204682+00:00,[1h] Worked on [linking citizen profiles to NationCred](https://app.dework.xyz/nation3/development-guild-43499?taskId=a6fde463-6089-44e3-a244-0c5308e81672#)
+530282,22071,2023-10-23T22:06:47.204682+00:00,[1h] Reviewed Dework bounty submissions.
+531931,22071,2023-10-23T22:06:47.204682+00:00,[2h] SourceCred:  Skip generation of unnecesary CSV files - https://github.com/nation3/sourcecred-instance/pull/206
+530629,22071,2023-10-23T22:06:47.204682+00:00,[0.5h] Reviewed and merged weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/198
+531660,22071,2023-10-23T22:06:47.204682+00:00,[1h] Configured Vercel for new deployment of the updated website.
+671884,22071,2023-10-23T22:06:47.204682+00:00,[7h] [Add smart contract for checking passport status](https://app.dework.xyz/nation3/development-guild-43499?taskId=ef8f4630-791a-4129-b75c-6c829088dfd2)
+519403,162955,2023-10-23T22:06:47.204682+00:00,"Help reviewing Rename ""Voting Power"" to ""Voting Escrow"" - 
+
+https://github.com/nation3/citizen-directory/pull/45
+
+
+"
+512946,162955,2023-10-23T22:06:47.204682+00:00,"Closing the PR at https://github.com/nation3/app/pull/145
+"
+514760,162955,2023-10-23T22:06:47.204682+00:00,"Fixing the Constitution link - https://github.com/nation3/docs/pull/3
+"
+514759,162955,2023-10-23T22:06:47.204682+00:00,"Reporting the broken Constitution link - https://github.com/nation3/docs/issues/2
+"
+514764,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the SourceCred chart PR
+"
+514761,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing and updating the pages at docs.nation3.org
+"
+514763,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the Dework chart PR
+"
+514762,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the citizen directory chart PR
+"
+514765,162955,2023-10-23T22:06:47.204682+00:00,Reviewing the Display veNATION PR
+513173,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the heap out of memory PR
+"
+516099,162955,2023-10-23T22:06:47.204682+00:00,"Reviewing the Link a Profile to Github PR
+
+https://github.com/nation3/citizen-directory/pull/44"
+516100,162955,2023-10-23T22:06:47.204682+00:00,"Fiding and Fixing a typo in the Read Me file 
+
+https://github.com/nation3/sourcecred-instance/pull/190
+"
+520264,162955,2023-10-23T22:06:47.204682+00:00,creating webflow Account : hi@nation3.org 
+515062,162955,2023-10-23T22:06:47.204682+00:00,"Created a governance proposal for the ""Weekly Nation3 DAO Budget"" 
+
+https://github.com/nation3/gov-proposals/pull/74"
