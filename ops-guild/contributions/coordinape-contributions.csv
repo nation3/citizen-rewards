@@ -1,4 +1,12 @@
 id,user_id,updated_at,description
+992210,133209,2023-12-11T22:59:30.429154+00:00,[3h] Deep technological review of idea submissions.
+992211,133209,2023-12-11T22:59:11.272721+00:00,[2h] impact assesment of top voted idea submissions.
+992212,133209,2023-12-11T22:58:35.020339+00:00,[1h] Evaluating and assigning the best idea on Dework
+992080,132125,2023-12-11T10:17:04.142175+00:00,[3h] Technology review of idea submissions.
+992073,132125,2023-12-11T06:48:33.016365+00:00,[1h] Created Mailjet account (for SMTP) - https://discord.com/channels/690584551239581708/1144990560504004678/1183661410920714240
+991865,132125,2023-12-10T06:30:15.59919+00:00,[0.5h] Created Discord webhook for on-chain notifications in the <#974617363234324510> channel.
+991620,132125,2023-12-09T10:08:39.313672+00:00,[1h] Revoked expired passport - [#16](https://etherscan.io/tx/0x1d3fb57b842b5bfed5d12e0a80ad44cc86db159a615226bb5bac159828cd5651)
+991619,132125,2023-12-09T07:54:43.329333+00:00,[1h] Publish N3GOV-57 on Snapshot
 990747,132125,2023-12-07T04:03:46.597314+00:00,[2h] Document skill level expectations for the development guild - https://app.dework.xyz/nation3/ops-guild-644?taskId=d22f327c-def3-4722-b37e-d579cb6bf4d9
 990618,132125,2023-12-06T13:55:05.590557+00:00,[3.5h] Citizen reward distribution - 🧙 Development Guild - [Dework task](https://app.dework.xyz/nation3/ops-guild-644?taskId=ae0dfa76-4f0f-4715-8636-371376da5bf4)
 989302,132125,2023-12-05T08:28:16.716219+00:00,[1h] Draft N3GOV-57 - https://app.dework.xyz/nation3/ops-guild-644?taskId=fe97dd5e-0560-4781-9d3e-3ab16e721f75
@@ -46,14 +54,6 @@ id,user_id,updated_at,description
 965828,163610,2023-11-02T07:35:46.094518+00:00,"sent to coordinape support team about a problem with recording contributions through discord
 "
 964424,132125,2023-11-01T14:54:52.95783+00:00, [0.5h] Reviewed and merged SourceCred grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/209
-511295,132125,2023-10-23T22:06:47.204682+00:00,Posted an introduction to Coordinape for contributors new to Nation3 - https://discord.com/channels/690584551239581708/1148545829976686622
-511952,133209,2023-10-23T22:06:47.204682+00:00,execution of already signed payments for last week Dework bounties
-510425,132125,2023-10-23T22:06:47.204682+00:00,Added <@929427337429270538> as Guild.xyz admin - https://guild.xyz/nation3
-513172,132125,2023-10-23T22:06:47.204682+00:00,"[0.5h] Renamed Special Interest Group from ""housing"" to ""property."""
-510432,132125,2023-10-23T22:06:47.204682+00:00,Added post-join questions to the Discord onboarding.
-514903,132125,2023-10-23T22:06:47.204682+00:00,Reminded 0xGallego to transfer DAO tokens - https://discord.com/channels/690584551239581708/1151860786612945007/1152909887471353896
-509805,132125,2023-10-23T22:06:47.204682+00:00,"Added ""Ops Guild Owner"" as a new role in Guild.xyz - https://guild.xyz/nation3#role-86619"
-509808,132125,2023-10-23T22:06:47.204682+00:00,[1h] Organize creation of Manifesto video.
 509809,132125,2023-10-23T22:06:47.204682+00:00,Guild.xyz troubleshooting.
 513254,133209,2023-10-23T22:06:47.204682+00:00,Uploaded Nation3 video submissions on Snapshot.
 510543,133209,2023-10-23T22:06:47.204682+00:00,added descriptive text for th veNATION holders
@@ -170,3 +170,11 @@ and they agreed to add the option as many DAOs may need this "
 513764,132125,2023-10-23T22:06:47.204682+00:00,[3h] Handled Vault distributions for Epoch #1 --> #5 in the Transition to DAO Coordinape Circle - https://discord.com/channels/690584551239581708/1132988302694285393/1151503987258953809
 509098,132125,2023-10-23T22:06:47.204682+00:00,Deleted Discord spam messages.
 518249,132125,2023-10-23T22:06:47.204682+00:00,[2h] Fixed the broken Guild.xyz Discord bot by re-installing it - https://discord.com/channels/690584551239581708/1154039340184391720/1154065156708499527
+511295,132125,2023-10-23T22:06:47.204682+00:00,Posted an introduction to Coordinape for contributors new to Nation3 - https://discord.com/channels/690584551239581708/1148545829976686622
+511952,133209,2023-10-23T22:06:47.204682+00:00,execution of already signed payments for last week Dework bounties
+510425,132125,2023-10-23T22:06:47.204682+00:00,Added <@929427337429270538> as Guild.xyz admin - https://guild.xyz/nation3
+513172,132125,2023-10-23T22:06:47.204682+00:00,"[0.5h] Renamed Special Interest Group from ""housing"" to ""property."""
+510432,132125,2023-10-23T22:06:47.204682+00:00,Added post-join questions to the Discord onboarding.
+514903,132125,2023-10-23T22:06:47.204682+00:00,Reminded 0xGallego to transfer DAO tokens - https://discord.com/channels/690584551239581708/1151860786612945007/1152909887471353896
+509805,132125,2023-10-23T22:06:47.204682+00:00,"Added ""Ops Guild Owner"" as a new role in Guild.xyz - https://guild.xyz/nation3#role-86619"
+509808,132125,2023-10-23T22:06:47.204682+00:00,[1h] Organize creation of Manifesto video.
