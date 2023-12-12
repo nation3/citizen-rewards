@@ -1,4 +1,9 @@
 id,user_id,updated_at,description
+992075,22071,2023-12-11T07:45:13.917423+00:00,[4h] Add smart contract for storing skill level ratings per citizen role - https://github.com/nation3/nationcred-contracts/pull/83/commits/4a9505f19de0c1d1992b7bcecabc44b86654c812
+992074,22071,2023-12-11T06:53:20.373562+00:00,"[0.5h] Disabled ""Require a pull request before merging"" to prevent ""protected branch hook declined"" error - https://github.com/nation3/citizen-rewards/actions/runs/7161517382/job/19497227148"
+991866,22071,2023-12-10T06:40:13.541281+00:00,[0.5h] Fix wrong directory in [GitHub workflow](https://github.com/nation3/citizen-rewards/pull/9).
+991371,22071,2023-12-08T11:54:04.340818+00:00,[2h] Fetch contributions from Coordinape - https://github.com/nation3/citizen-rewards/pull/6
+991329,22071,2023-12-08T10:59:57.886073+00:00,[0.5h] Review and merge weekly [SourceCred grain distribution](https://github.com/nation3/sourcecred-instance/pull/217#pullrequestreview-1772118269).
 991247,22071,2023-12-08T08:54:43.840555+00:00,[5h] Fetch contributions from Coordinape's GraphQL endpoint - [Dework task](https://app.dework.xyz/nation3/development-guild-43499?taskId=cdd17875-c2c2-4bdf-ae4f-1bae1369d8a3)
 988655,162955,2023-12-04T19:32:41.650611+00:00,PR for manifesto video. 
 983802,22071,2023-12-02T10:34:57.949826+00:00,[1h] Implement PRs for N3GOV-55 - https://app.dework.xyz/nation3/development-guild-43499?taskId=10e1cec9-cc8c-43dc-a7a9-2969a3281672
@@ -14,21 +19,6 @@ id,user_id,updated_at,description
 974949,22071,2023-11-12T09:51:01.404073+00:00,[0.5h] Updated changes from `upstream snapshot-labs:master` - https://github.com/nation3/snapshot-strategies/commit/d9b5eeba005f69094a276d303d643f3a2635ddee
 974806,22071,2023-11-11T09:09:22.393004+00:00,[0.5h] Merged PR - https://github.com/nation3/nationcred-contracts/pull/80
 969818,22071,2023-11-05T15:22:20.636682+00:00,[4h] Return zero when locked amount lower than threshold [#80](https://github.com/nation3/nationcred-contracts/pull/80)
-515066,162955,2023-10-23T22:06:47.204682+00:00,"Change ownership of DAO smart contracts 
-
-
--DAO Critical Agent Address
-
-
--DAO Agent Address
-
-https://github.com/nation3/gov-app/pull/21"
-526004,162955,2023-10-23T22:06:47.204682+00:00,Reviewing NationCred smart contract PR
-527956,162955,2023-10-23T22:06:47.204682+00:00,[1h] Adding the env deployment server at Citizen Directory Docs 
-526220,162955,2023-10-23T22:06:47.204682+00:00,[3h] trying to find a way to write the webFlow code back into the webFlow account we created 
-526678,162955,2023-10-23T22:06:47.204682+00:00,"[3h] finding a bug with viewing the NFT passport on Citizen Directory 
-
-https://github.com/nation3/citizen-directory/issues/47"
 530722,162955,2023-10-23T22:06:47.204682+00:00,"created github issue : https://github.com/nation3/docs/issues/5
 "
 531524,162955,2023-10-23T22:06:47.204682+00:00,"Inspect website and add issue to legacy website : https://github.com/nation3/website/issues/13
@@ -273,3 +263,18 @@ https://github.com/nation3/sourcecred-instance/pull/190
 515062,162955,2023-10-23T22:06:47.204682+00:00,"Created a governance proposal for the ""Weekly Nation3 DAO Budget"" 
 
 https://github.com/nation3/gov-proposals/pull/74"
+515066,162955,2023-10-23T22:06:47.204682+00:00,"Change ownership of DAO smart contracts 
+
+
+-DAO Critical Agent Address
+
+
+-DAO Agent Address
+
+https://github.com/nation3/gov-app/pull/21"
+526004,162955,2023-10-23T22:06:47.204682+00:00,Reviewing NationCred smart contract PR
+527956,162955,2023-10-23T22:06:47.204682+00:00,[1h] Adding the env deployment server at Citizen Directory Docs 
+526220,162955,2023-10-23T22:06:47.204682+00:00,[3h] trying to find a way to write the webFlow code back into the webFlow account we created 
+526678,162955,2023-10-23T22:06:47.204682+00:00,"[3h] finding a bug with viewing the NFT passport on Citizen Directory 
+
+https://github.com/nation3/citizen-directory/issues/47"
