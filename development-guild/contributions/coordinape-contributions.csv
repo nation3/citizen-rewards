@@ -1,4 +1,7 @@
 id,user_id,updated_at,description
+992458,22071,2023-12-12T16:03:57.189421+00:00,[0.3h] SMTP configuration.
+992457,22071,2023-12-12T15:54:20.053974+00:00,[7.5h] N3BI: Implement eligibility check in N3BI.sol
+992297,22071,2023-12-12T10:33:48.926696+00:00,[2h] Deployed `NationCred.sol` on Goerli
 992075,22071,2023-12-11T07:45:13.917423+00:00,[4h] Add smart contract for storing skill level ratings per citizen role - https://github.com/nation3/nationcred-contracts/pull/83/commits/4a9505f19de0c1d1992b7bcecabc44b86654c812
 992074,22071,2023-12-11T06:53:20.373562+00:00,"[0.5h] Disabled ""Require a pull request before merging"" to prevent ""protected branch hook declined"" error - https://github.com/nation3/citizen-rewards/actions/runs/7161517382/job/19497227148"
 991866,22071,2023-12-10T06:40:13.541281+00:00,[0.5h] Fix wrong directory in [GitHub workflow](https://github.com/nation3/citizen-rewards/pull/9).
@@ -19,12 +22,6 @@ id,user_id,updated_at,description
 974949,22071,2023-11-12T09:51:01.404073+00:00,[0.5h] Updated changes from `upstream snapshot-labs:master` - https://github.com/nation3/snapshot-strategies/commit/d9b5eeba005f69094a276d303d643f3a2635ddee
 974806,22071,2023-11-11T09:09:22.393004+00:00,[0.5h] Merged PR - https://github.com/nation3/nationcred-contracts/pull/80
 969818,22071,2023-11-05T15:22:20.636682+00:00,[4h] Return zero when locked amount lower than threshold [#80](https://github.com/nation3/nationcred-contracts/pull/80)
-530722,162955,2023-10-23T22:06:47.204682+00:00,"created github issue : https://github.com/nation3/docs/issues/5
-"
-531524,162955,2023-10-23T22:06:47.204682+00:00,"Inspect website and add issue to legacy website : https://github.com/nation3/website/issues/13
-"
-531525,162955,2023-10-23T22:06:47.204682+00:00,"Inspect website and add issue to legacy website : https://github.com/nation3/website/issues/12
-"
 531159,162955,2023-10-23T22:06:47.204682+00:00,"[3h] Transferred the webFlow Website to our new webFlow account 
 "
 531160,162955,2023-10-23T22:06:47.204682+00:00,"[3h] Fixed the Legacy website for Nation3.org 
@@ -278,3 +275,9 @@ https://github.com/nation3/gov-app/pull/21"
 526678,162955,2023-10-23T22:06:47.204682+00:00,"[3h] finding a bug with viewing the NFT passport on Citizen Directory 
 
 https://github.com/nation3/citizen-directory/issues/47"
+530722,162955,2023-10-23T22:06:47.204682+00:00,"created github issue : https://github.com/nation3/docs/issues/5
+"
+531524,162955,2023-10-23T22:06:47.204682+00:00,"Inspect website and add issue to legacy website : https://github.com/nation3/website/issues/13
+"
+531525,162955,2023-10-23T22:06:47.204682+00:00,"Inspect website and add issue to legacy website : https://github.com/nation3/website/issues/12
+"
