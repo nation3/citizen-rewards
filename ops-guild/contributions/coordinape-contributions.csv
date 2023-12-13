@@ -1,4 +1,6 @@
 id,user_id,updated_at,description
+992298,132125,2023-12-12T11:00:58.942011+00:00,[0.33h] Changed base permission from Write to Read in GitHub org.
+992295,132125,2023-12-12T10:01:56.308723+00:00,[0.3h] Multisig ops
 992210,133209,2023-12-11T22:59:30.429154+00:00,[3h] Deep technological review of idea submissions.
 992211,133209,2023-12-11T22:59:11.272721+00:00,[2h] impact assesment of top voted idea submissions.
 992212,133209,2023-12-11T22:58:35.020339+00:00,[1h] Evaluating and assigning the best idea on Dework
@@ -54,8 +56,6 @@ id,user_id,updated_at,description
 965828,163610,2023-11-02T07:35:46.094518+00:00,"sent to coordinape support team about a problem with recording contributions through discord
 "
 964424,132125,2023-11-01T14:54:52.95783+00:00, [0.5h] Reviewed and merged SourceCred grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/209
-509809,132125,2023-10-23T22:06:47.204682+00:00,Guild.xyz troubleshooting.
-513254,133209,2023-10-23T22:06:47.204682+00:00,Uploaded Nation3 video submissions on Snapshot.
 510543,133209,2023-10-23T22:06:47.204682+00:00,added descriptive text for th veNATION holders
 510544,133209,2023-10-23T22:06:47.204682+00:00,initiated last week Dework payout
 514538,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Guild.xyz configuration.
@@ -178,3 +178,5 @@ and they agreed to add the option as many DAOs may need this "
 514903,132125,2023-10-23T22:06:47.204682+00:00,Reminded 0xGallego to transfer DAO tokens - https://discord.com/channels/690584551239581708/1151860786612945007/1152909887471353896
 509805,132125,2023-10-23T22:06:47.204682+00:00,"Added ""Ops Guild Owner"" as a new role in Guild.xyz - https://guild.xyz/nation3#role-86619"
 509808,132125,2023-10-23T22:06:47.204682+00:00,[1h] Organize creation of Manifesto video.
+509809,132125,2023-10-23T22:06:47.204682+00:00,Guild.xyz troubleshooting.
+513254,133209,2023-10-23T22:06:47.204682+00:00,Uploaded Nation3 video submissions on Snapshot.
