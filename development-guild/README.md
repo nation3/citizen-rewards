@@ -14,6 +14,10 @@ Coordinape Circle: https://app.coordinape.com/welcome/22d0f86e-f4d1-4538-bd10-13
 | 2. Needs improvement 	| - Able to use GitHub for code collaboration and versioning.<br>- Able to download code repositories and compile and run dApps locally.<br>- Able to follow the [contributing guidelines](https://github.com/nation3/.github/blob/main/CONTRIBUTING.md) for Nation3 developers.                                            	| GitHub `Triage`
 | 1. Lacking           	| - Lacks skills listed above.                                                                                                                                                                                                                                                                                             	| GitHub `Read`
 
+### GitHub Access Roles
+
+> ![](https://github.com/nation3/citizen-directory/assets/95955389/730a895f-6683-4763-83f4-47b1871e8962)
+
 ## Coordinape Epoch #41: Nov 28 - Dec 5
 
 Payout CSV file: [`epoch-41-development-guild_hedgey.csv`](epoch-41-development-guild_hedgey.csv).
