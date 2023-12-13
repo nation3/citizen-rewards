@@ -17,7 +17,7 @@ async function fetchContributions() {
         body: JSON.stringify({
             query: `
                 query ContributionsQuery {
-                    contributions(where: {circle_id: {_eq: "${coordinapeConfig.circle_id}"}}, order_by: {updated_at: desc}) {
+                    contributions(where: {circle_id: {_eq: "${coordinapeConfig.circle_id}"}}, order_by: {updated_at: desc, description: asc}) {
                         id
                         user_id
                         updated_at
