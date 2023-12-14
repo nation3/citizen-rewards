@@ -14,8 +14,10 @@ Coordinape Circle: https://app.coordinape.com/welcome/1004711a-fd5f-4e5d-8600-a0
 | 2. Needs improvement 	| - ...<br>- ...               	|
 | 1. Lacking           	| - Lacks skills listed above. 	|
 
-## Coordinape Epochs
+## Coordinape Contributions
 
-### ...
+See [`contributions/`](contributions/)
 
-### ...
+## Contribution Rewards
+
+See [`rewards/`](rewards/)
