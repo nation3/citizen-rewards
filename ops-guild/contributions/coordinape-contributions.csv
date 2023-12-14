@@ -1,4 +1,10 @@
 id,user_id,updated_at,description
+992555,132125,2023-12-13T12:07:49.013492+00:00,[2.5h] Organize GitHub access role by developer skill level - https://github.com/nation3/citizen-rewards/blob/main/development-guild/README.md
+992550,132125,2023-12-13T06:10:12.514496+00:00,[0.3h] Added EcoRide Network group to Clarity - https://app.clarity.so/nation3-public/group/N3ERN
+992549,132125,2023-12-13T06:00:07.145941+00:00,[0.5h] DNS configuration for governance forum - https://discord.com/channels/690584551239581708/1144990560504004678/1184373648954490941
+992547,132125,2023-12-13T05:25:52.031367+00:00,[0.3h] Linked new Coordinape Circle to Guild.xyz role.
+992546,132125,2023-12-13T04:55:54.789241+00:00,[0.5h] Archived unnecessary Discord channels.
+992544,132125,2023-12-13T03:37:48.377653+00:00,[1h] Document skill level expectations for the Operator role
 992298,132125,2023-12-12T11:00:58.942011+00:00,[0.33h] Changed base permission from Write to Read in GitHub org.
 992295,132125,2023-12-12T10:01:56.308723+00:00,[0.3h] Multisig ops
 992210,133209,2023-12-11T22:59:30.429154+00:00,[3h] Deep technological review of idea submissions.
@@ -56,127 +62,127 @@ id,user_id,updated_at,description
 965828,163610,2023-11-02T07:35:46.094518+00:00,"sent to coordinape support team about a problem with recording contributions through discord
 "
 964424,132125,2023-11-01T14:54:52.95783+00:00, [0.5h] Reviewed and merged SourceCred grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/209
-510543,133209,2023-10-23T22:06:47.204682+00:00,added descriptive text for th veNATION holders
-510544,133209,2023-10-23T22:06:47.204682+00:00,initiated last week Dework payout
+525962,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Added <@&971005982404657202> role as Dework manager.
+529269,132125,2023-10-23T22:06:47.204682+00:00,"[0.5h] Added ""Active Citizen"" role to https://guild.xyz/nation3"
+513760,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Calculated quorum in past Snapshot proposals - https://discord.com/channels/690584551239581708/1131058444355502120/1151453721235034206
+531712,132125,2023-10-23T22:06:47.204682+00:00,"[0.5h] Configured missing passport-gating for the ""Guilds (Passport-Gated)"" category in Discord."
+503764,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Debug failing weekly cron job - https://github.com/nation3/nationcred-datasets/actions/runs/5914367681
+525956,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Deleted GitHub webhook for <#1138402655618740314> channel - https://discord.com/channels/690584551239581708/1138402655618740314/1156794018966016071
+449047,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Domain renewal review.
+525958,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Executed `N3GOV-54` - https://govern.aragon.org/#/daos/nation3/actions/executions/0x8e99e0c359cca916838f9ad2183b271ed6f824c95d6125de90b14fd2435a9659
 514538,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Guild.xyz configuration.
+514713,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Guild.xyz configuration - follow-up with Guild.xyz support team.
+529533,164344,2023-10-23T22:06:47.204682+00:00,[0.5h] https://app.dework.xyz/profile/0xbhagi?taskId=184779e4-d396-4556-98f2-7c8ca896dc06
+519387,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] https://github.com/nation3/gov-proposals/pull/74#pullrequestreview-1639070986
+513979,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Reminded 0xGallego to transfer the DAO tokens - https://discord.com/channels/690584551239581708/1151860786612945007/1151861071611691149
+513172,132125,2023-10-23T22:06:47.204682+00:00,"[0.5h] Renamed Special Interest Group from ""housing"" to ""property."""
+696872,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Reviewed and merged weekly grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/208
+500406,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Reviewed Discord onboarding - https://app.dework.xyz/nation3/ops-guild-644/view/board-lkyvcajs?taskId=18d7bd04-7c74-4c2c-8d76-c333e446f054
+507917,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Reviewed submission for the Wallet Connect ID - https://app.dework.xyz/nation3/ops-guild-644?taskId=9f7e535f-be10-4753-ac82-d8129447df0a
+531659,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] [Send funding to owner of NationCred smart contract](https://discord.com/channels/690584551239581708/1162335267756187759)
+532303,132125,2023-10-23T22:06:47.204682+00:00,"[0.5h] The weekly Ops Guild epochs stopped for some reason, so I restarted them - https://app.coordinape.com/circles/14305/epochs"
+495642,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Updated Guild.xyz server link to `https://discord.gg/nation3-690584551239581708`
+527915,132125,2023-10-23T22:06:47.204682+00:00,[1.5h] Adjusted the Discord role settings to highlight the new <@&1156883995460644935> role.
+526125,132125,2023-10-23T22:06:47.204682+00:00,"[1.5h] Discord: Change to ""Holder of Valid Passport"" role - https://app.dework.xyz/nation3/ops-guild-644?taskId=88cff256-95fc-43ad-9e1a-5a790e9062e1"
+513762,132125,2023-10-23T22:06:47.204682+00:00,[1h] Added <#1131156157256433704> for Coordinape Vault distributions - https://discord.com/channels/690584551239581708/1131156157256433704/1151469603956990012
+507656,132125,2023-10-23T22:06:47.204682+00:00,[1h] Added Discord notifications for Ops Guild multisig transactions - https://discord.com/channels/690584551239581708/1131156157256433704/1145332890671001663
+392402,132125,2023-10-23T22:06:47.204682+00:00,[1h] Added Ops Guild circle to Coordinape.
+513759,132125,2023-10-23T22:06:47.204682+00:00,[1h] Assisted <@929427337429270538> with public/private key encryption - https://discord.com/channels/690584551239581708/1147035464465920040/1151437015401902101
+528415,163610,2023-10-23T22:06:47.204682+00:00,[1h] Contacted coordinape about making the distributions visible to anyone as an option 
+526126,132125,2023-10-23T22:06:47.204682+00:00,"[1h] Coordinape: Change to ""Holder of Valid Passport"" role - https://app.dework.xyz/nation3/ops-guild-644?taskId=bfff946a-9c47-4985-ac98-ae8fb749b314"
+520739,132125,2023-10-23T22:06:47.204682+00:00,"[1h] Coordinape Circle distribution - [Development Guild, Epoch #33](https://discord.com/channels/690584551239581708/1155353324590223431)"
+526005,132125,2023-10-23T22:06:47.204682+00:00,"[1h] Created Dework space for the Development Guild, and connected it to the <#963778898389237800> channel - https://app.dework.xyz/nation3/development-guild-43499/overview"
+396947,132125,2023-10-23T22:06:47.204682+00:00,[1h] Dework open bounty coordination - https://github.com/nation3/app/pull/174#pullrequestreview-1566398741
+526175,132125,2023-10-23T22:06:47.204682+00:00,[1h] Discord permission configurations.
+525960,132125,2023-10-23T22:06:47.204682+00:00,[1h] Distributed rewards for epoch #34 of Development Guild - https://app.coordinape.com/circles/2735/distributions/30616
+503765,132125,2023-10-23T22:06:47.204682+00:00,[1h] Guild.xyz configuration - https://guild.xyz/nation3.  Trying to fix the broken link between Discord and Guild.xyz.
+514758,132125,2023-10-23T22:06:47.204682+00:00,[1h] Handled Coordinape epoch distributions for <#1138401164526899241> and <#1137581492541857902>
+509808,132125,2023-10-23T22:06:47.204682+00:00,[1h] Organize creation of Manifesto video.
+528045,132125,2023-10-23T22:06:47.204682+00:00,"[1h] Published contribution report for Development Guild, epoch #36 - https://discord.com/channels/690584551239581708/1158670506187305012"
+526052,132125,2023-10-23T22:06:47.204682+00:00,[1h] Re-encrypt admin credentials for Zaff's new public key - https://app.dework.xyz/nation3/ops-guild-644?taskId=1634dea0-d924-462d-838d-6d7fb0f8a24a
+531929,132125,2023-10-23T22:06:47.204682+00:00,[1h] Reviewed and merged weekly [SourceCred grain distribution](https://github.com/nation3/sourcecred-instance/pull/204).
+519395,132125,2023-10-23T22:06:47.204682+00:00,[1h] Scheduled execution of N3GOV-54 - https://govern.aragon.org/#/daos/nation3/actions/executions/0x8e99e0c359cca916838f9ad2183b271ed6f824c95d6125de90b14fd2435a9659
+515069,132125,2023-10-23T22:06:47.204682+00:00,[1h] Scheduled transactions for N3GOV-54 - https://govern.aragon.org/#/daos/nation3/actions/executions/0xf806e528e85d2b310303d05fde65d28900e82b430f028cd92dd54fdf1cb9ea5d
+527960,163610,2023-10-23T22:06:47.204682+00:00,[1h] sent another message (on twitter X and on discord) to Owi to try to retrieve our webFlow account responsible of deploying nation3.org
+527955,132125,2023-10-23T22:06:47.204682+00:00,[1h] Sent e-mail reminder to `@0xGallego` to transfer ownership of the LP rewards smart contract.
+532302,132125,2023-10-23T22:06:47.204682+00:00,"[1h] Sent e-mail to Luis, asking for help with changing the owner address of the veNATION smart contract."
+519048,132125,2023-10-23T22:06:47.204682+00:00,[1h] Summarized research efforts into one post - https://discord.com/channels/690584551239581708/963778953301094410/1154329530274689096
+515065,132125,2023-10-23T22:06:47.204682+00:00,[1h] Wrote proposal to reduce quorum - https://discord.com/channels/690584551239581708/1152961613700268082
+513980,132125,2023-10-23T22:06:47.204682+00:00,"[2.5h] Handled Coordinape Vault distributions for Epoch #6, #7, #8 in the _Transition to DAO_ Circle - https://discord.com/channels/690584551239581708/1147923996998910173"
+526051,132125,2023-10-23T22:06:47.204682+00:00,[2h] Add Guild.xyz role for active passport - https://app.dework.xyz/nation3/ops-guild-644?taskId=d47a24d4-0029-45d6-bafb-47a6f467476b
 513931,132125,2023-10-23T22:06:47.204682+00:00,[2h] Assisted <@210746014351491072> with finding past Discord discussions - https://discord.com/channels/690584551239581708/1143123316761182248/1151733600895643678
+529576,163610,2023-10-23T22:06:47.204682+00:00,"[2h] Chat with Coordinape support about making the Distributions public 
+
+and they agreed to add the option as many DAOs may need this "
+518249,132125,2023-10-23T22:06:47.204682+00:00,[2h] Fixed the broken Guild.xyz Discord bot by re-installing it - https://discord.com/channels/690584551239581708/1154039340184391720/1154065156708499527
+393033,132125,2023-10-23T22:06:47.204682+00:00,[2h] Improved access settings for all GitHub repos by using teams (https://github.com/orgs/nation3/teams) instead of individuals.
+525959,132125,2023-10-23T22:06:47.204682+00:00,[2h] Transfer writings.nation3.eth to Ops Guild multisig - https://app.dework.xyz/nation3/ops-guild-644?taskId=617eeef5-851e-4986-92d8-c47a27e8ff94
+509516,132125,2023-10-23T22:06:47.204682+00:00,[2h] Wrote new Discord onboarding questions - https://app.dework.xyz/nation3/ops-guild-644?taskId=18d7bd04-7c74-4c2c-8d76-c333e446f054
+509931,132125,2023-10-23T22:06:47.204682+00:00,[3h] Added new onboarding questions to Discord - https://app.dework.xyz/nation3/ops-guild-644?taskId=18d7bd04-7c74-4c2c-8d76-c333e446f054
+513764,132125,2023-10-23T22:06:47.204682+00:00,[3h] Handled Vault distributions for Epoch #1 --> #5 in the Transition to DAO Coordinape Circle - https://discord.com/channels/690584551239581708/1132988302694285393/1151503987258953809
+512735,132125,2023-10-23T22:06:47.204682+00:00,[3h] Uploaded submitted videos to a YouTube playlist:  https://discord.com/channels/690584551239581708/1138402655618740314/1150334900826812456
+441632,132125,2023-10-23T22:06:47.204682+00:00,[3h] Wrote proposal N3GOV-51 - https://discord.com/channels/690584551239581708/1138750656451199017
+510425,132125,2023-10-23T22:06:47.204682+00:00,Added <@929427337429270538> as Guild.xyz admin - https://guild.xyz/nation3
+510543,133209,2023-10-23T22:06:47.204682+00:00,added descriptive text for th veNATION holders
+509805,132125,2023-10-23T22:06:47.204682+00:00,"Added ""Ops Guild Owner"" as a new role in Guild.xyz - https://guild.xyz/nation3#role-86619"
+510432,132125,2023-10-23T22:06:47.204682+00:00,Added post-join questions to the Discord onboarding.
+526127,132125,2023-10-23T22:06:47.204682+00:00,Added Snapshot and Mirror links to https://guild.xyz/nation3
+526815,133209,2023-10-23T22:06:47.204682+00:00,Addeed the new Holder of Valid Passport role as a featured role and description on Dework
+515068,133209,2023-10-23T22:06:47.204682+00:00,Assigned Dework bounty and initiated payment for the Manifesto Video task
+526379,132125,2023-10-23T22:06:47.204682+00:00,Assisted Zaff with Discord bot installation - https://discord.com/channels/690584551239581708/1151751777897689222/1157559269957324880
+496053,132125,2023-10-23T22:06:47.204682+00:00,Banned two silly scammers scamming in the <#966360996560142396> channel.
+526317,133209,2023-10-23T22:06:47.204682+00:00,"Clarity: Change to ""Holder of Valid Passport"""
+531076,133209,2023-10-23T22:06:47.204682+00:00,completed the verification pf Nation3 webflow account
+525730,133209,2023-10-23T22:06:47.204682+00:00,completed vault distribution
+396949,132125,2023-10-23T22:06:47.204682+00:00,Connected Dework Space to Discord - https://app.dework.xyz/nation3/ops-guild-644/settings/discord
+396948,132125,2023-10-23T22:06:47.204682+00:00,Connected `https://github.com/nation3/app` to Discord webhook for <#963778898389237800>
+526221,163610,2023-10-23T22:06:47.204682+00:00,"contacted Owi (WebFlow designer) on twitter; trying to get our old webflow Email and Password 
+"
+511912,132125,2023-10-23T22:06:47.204682+00:00,Coordinape configuration
 513933,133209,2023-10-23T22:06:47.204682+00:00,created a different coordinape vault and circle for the marketing guild
 513934,133209,2023-10-23T22:06:47.204682+00:00,created a Discord channel for the marketing guild
-441632,132125,2023-10-23T22:06:47.204682+00:00,[3h] Wrote proposal N3GOV-51 - https://discord.com/channels/690584551239581708/1138750656451199017
-512735,132125,2023-10-23T22:06:47.204682+00:00,[3h] Uploaded submitted videos to a YouTube playlist:  https://discord.com/channels/690584551239581708/1138402655618740314/1150334900826812456
-509931,132125,2023-10-23T22:06:47.204682+00:00,[3h] Added new onboarding questions to Discord - https://app.dework.xyz/nation3/ops-guild-644?taskId=18d7bd04-7c74-4c2c-8d76-c333e446f054
-507917,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Reviewed submission for the Wallet Connect ID - https://app.dework.xyz/nation3/ops-guild-644?taskId=9f7e535f-be10-4753-ac82-d8129447df0a
-513979,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Reminded 0xGallego to transfer the DAO tokens - https://discord.com/channels/690584551239581708/1151860786612945007/1151861071611691149
-513980,132125,2023-10-23T22:06:47.204682+00:00,"[2.5h] Handled Coordinape Vault distributions for Epoch #6, #7, #8 in the _Transition to DAO_ Circle - https://discord.com/channels/690584551239581708/1147923996998910173"
-515065,132125,2023-10-23T22:06:47.204682+00:00,[1h] Wrote proposal to reduce quorum - https://discord.com/channels/690584551239581708/1152961613700268082
-515068,133209,2023-10-23T22:06:47.204682+00:00,Assigned Dework bounty and initiated payment for the Manifesto Video task
-519387,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] https://github.com/nation3/gov-proposals/pull/74#pullrequestreview-1639070986
-515069,132125,2023-10-23T22:06:47.204682+00:00,[1h] Scheduled transactions for N3GOV-54 - https://govern.aragon.org/#/daos/nation3/actions/executions/0xf806e528e85d2b310303d05fde65d28900e82b430f028cd92dd54fdf1cb9ea5d
-519395,132125,2023-10-23T22:06:47.204682+00:00,[1h] Scheduled execution of N3GOV-54 - https://govern.aragon.org/#/daos/nation3/actions/executions/0x8e99e0c359cca916838f9ad2183b271ed6f824c95d6125de90b14fd2435a9659
-513388,132125,2023-10-23T22:06:47.204682+00:00,Discord channel configuration.
-450298,132125,2023-10-23T22:06:47.204682+00:00,Initiated Dework reimbursement for `@JohnMark13`.
-495642,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Updated Guild.xyz server link to `https://discord.gg/nation3-690584551239581708`
-449047,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Domain renewal review.
-500406,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Reviewed Discord onboarding - https://app.dework.xyz/nation3/ops-guild-644/view/board-lkyvcajs?taskId=18d7bd04-7c74-4c2c-8d76-c333e446f054
-526814,133209,2023-10-23T22:06:47.204682+00:00,Reverted permission changes on gated Dework spaces
-526815,133209,2023-10-23T22:06:47.204682+00:00,Addeed the new Holder of Valid Passport role as a featured role and description on Dework
-526818,133209,2023-10-23T22:06:47.204682+00:00,Created pinned message of Marketing guild's description and useful links
-529577,133209,2023-10-23T22:06:47.204682+00:00,created marketing guild dework space: https://app.dework.xyz/nation3/marketing-guild-13975/overview
-526125,132125,2023-10-23T22:06:47.204682+00:00,"[1.5h] Discord: Change to ""Holder of Valid Passport"" role - https://app.dework.xyz/nation3/ops-guild-644?taskId=88cff256-95fc-43ad-9e1a-5a790e9062e1"
-526126,132125,2023-10-23T22:06:47.204682+00:00,"[1h] Coordinape: Change to ""Holder of Valid Passport"" role - https://app.dework.xyz/nation3/ops-guild-644?taskId=bfff946a-9c47-4985-ac98-ae8fb749b314"
-526127,132125,2023-10-23T22:06:47.204682+00:00,Added Snapshot and Mirror links to https://guild.xyz/nation3
-526005,132125,2023-10-23T22:06:47.204682+00:00,"[1h] Created Dework space for the Development Guild, and connected it to the <#963778898389237800> channel - https://app.dework.xyz/nation3/development-guild-43499/overview"
-526379,132125,2023-10-23T22:06:47.204682+00:00,Assisted Zaff with Discord bot installation - https://discord.com/channels/690584551239581708/1151751777897689222/1157559269957324880
-529269,132125,2023-10-23T22:06:47.204682+00:00,"[0.5h] Added ""Active Citizen"" role to https://guild.xyz/nation3"
-528045,132125,2023-10-23T22:06:47.204682+00:00,"[1h] Published contribution report for Development Guild, epoch #36 - https://discord.com/channels/690584551239581708/1158670506187305012"
-527915,132125,2023-10-23T22:06:47.204682+00:00,[1.5h] Adjusted the Discord role settings to highlight the new <@&1156883995460644935> role.
-526052,132125,2023-10-23T22:06:47.204682+00:00,[1h] Re-encrypt admin credentials for Zaff's new public key - https://app.dework.xyz/nation3/ops-guild-644?taskId=1634dea0-d924-462d-838d-6d7fb0f8a24a
-526051,132125,2023-10-23T22:06:47.204682+00:00,[2h] Add Guild.xyz role for active passport - https://app.dework.xyz/nation3/ops-guild-644?taskId=d47a24d4-0029-45d6-bafb-47a6f467476b
-526175,132125,2023-10-23T22:06:47.204682+00:00,[1h] Discord permission configurations.
-526070,133209,2023-10-23T22:06:47.204682+00:00,signed transaction commitee transaction
-526316,133209,2023-10-23T22:06:47.204682+00:00,Set All 3 gated Dework guilds to now be only be seen by “Holder of Valid passport” role.
-526317,133209,2023-10-23T22:06:47.204682+00:00,"Clarity: Change to ""Holder of Valid Passport"""
-527955,132125,2023-10-23T22:06:47.204682+00:00,[1h] Sent e-mail reminder to `@0xGallego` to transfer ownership of the LP rewards smart contract.
-525956,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Deleted GitHub webhook for <#1138402655618740314> channel - https://discord.com/channels/690584551239581708/1138402655618740314/1156794018966016071
-525958,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Executed `N3GOV-54` - https://govern.aragon.org/#/daos/nation3/actions/executions/0x8e99e0c359cca916838f9ad2183b271ed6f824c95d6125de90b14fd2435a9659
-525959,132125,2023-10-23T22:06:47.204682+00:00,[2h] Transfer writings.nation3.eth to Ops Guild multisig - https://app.dework.xyz/nation3/ops-guild-644?taskId=617eeef5-851e-4986-92d8-c47a27e8ff94
-525960,132125,2023-10-23T22:06:47.204682+00:00,[1h] Distributed rewards for epoch #34 of Development Guild - https://app.coordinape.com/circles/2735/distributions/30616
-525962,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Added <@&971005982404657202> role as Dework manager.
-525730,133209,2023-10-23T22:06:47.204682+00:00,completed vault distribution
-531929,132125,2023-10-23T22:06:47.204682+00:00,[1h] Reviewed and merged weekly [SourceCred grain distribution](https://github.com/nation3/sourcecred-instance/pull/204).
-531076,133209,2023-10-23T22:06:47.204682+00:00,completed the verification pf Nation3 webflow account
-531659,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] [Send funding to owner of NationCred smart contract](https://discord.com/channels/690584551239581708/1162335267756187759)
-531712,132125,2023-10-23T22:06:47.204682+00:00,"[0.5h] Configured missing passport-gating for the ""Guilds (Passport-Gated)"" category in Discord."
-532302,132125,2023-10-23T22:06:47.204682+00:00,"[1h] Sent e-mail to Luis, asking for help with changing the owner address of the veNATION smart contract."
-532303,132125,2023-10-23T22:06:47.204682+00:00,"[0.5h] The weekly Ops Guild epochs stopped for some reason, so I restarted them - https://app.coordinape.com/circles/14305/epochs"
-696872,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Reviewed and merged weekly grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/208
 515072,163610,2023-10-23T22:06:47.204682+00:00,"Created a governance proposal Voting on ""Weekly Nation3 DAO Budget""
 
 https://snapshot.org/#/nation3.eth/proposal/0x89384df742ddf0fc89b937a5b2928009befe159f7b4b585cfba75f91cb5c53e2
 "
-529576,163610,2023-10-23T22:06:47.204682+00:00,"[2h] Chat with Coordinape support about making the Distributions public 
-
-and they agreed to add the option as many DAOs may need this "
+530716,163610,2023-10-23T22:06:47.204682+00:00,"create deWork issue : https://app.dework.xyz/nation3/development-guild-43499?taskId=1c86dc73-74cf-44c1-8ae4-116792a643b2
+"
+530715,163610,2023-10-23T22:06:47.204682+00:00,"create deWork issue : https://app.dework.xyz/nation3/development-guild-43499?taskId=c1ec486b-a88b-4a55-bd44-fcd78e58d44b
+"
+530717,163610,2023-10-23T22:06:47.204682+00:00,create deWork issue : https://app.dework.xyz/nation3/development-guild-43499?taskId=e2209fb1-3971-41a8-acb9-fc7d5bbd8814
+529577,133209,2023-10-23T22:06:47.204682+00:00,created marketing guild dework space: https://app.dework.xyz/nation3/marketing-guild-13975/overview
+526818,133209,2023-10-23T22:06:47.204682+00:00,Created pinned message of Marketing guild's description and useful links
+510294,133209,2023-10-23T22:06:47.204682+00:00,Created the Ops Guild epochs
+514817,133209,2023-10-23T22:06:47.204682+00:00,Created transaction to change controller of $veNATION smart contract
+509098,132125,2023-10-23T22:06:47.204682+00:00,Deleted Discord spam messages.
+510264,132125,2023-10-23T22:06:47.204682+00:00,Deployed Coordinape Vault for the Development Guild - https://app.coordinape.com/organizations/2215/vaults
+513388,132125,2023-10-23T22:06:47.204682+00:00,Discord channel configuration.
+511952,133209,2023-10-23T22:06:47.204682+00:00,execution of already signed payments for last week Dework bounties
+512194,132125,2023-10-23T22:06:47.204682+00:00,Guild.xyz debugging.
+509809,132125,2023-10-23T22:06:47.204682+00:00,Guild.xyz troubleshooting.
 526129,163610,2023-10-23T22:06:47.204682+00:00,"helping with the Nation3.org website deployment on new webflow account :
 
 -setting the new WebFlow account
 
 -Contacting the WebFlow support team about uploading the files
 "
-528415,163610,2023-10-23T22:06:47.204682+00:00,[1h] Contacted coordinape about making the distributions visible to anyone as an option 
-529533,164344,2023-10-23T22:06:47.204682+00:00,[0.5h] https://app.dework.xyz/profile/0xbhagi?taskId=184779e4-d396-4556-98f2-7c8ca896dc06
-527960,163610,2023-10-23T22:06:47.204682+00:00,[1h] sent another message (on twitter X and on discord) to Owi to try to retrieve our webFlow account responsible of deploying nation3.org
-526221,163610,2023-10-23T22:06:47.204682+00:00,"contacted Owi (WebFlow designer) on twitter; trying to get our old webflow Email and Password 
-"
-530717,163610,2023-10-23T22:06:47.204682+00:00,create deWork issue : https://app.dework.xyz/nation3/development-guild-43499?taskId=e2209fb1-3971-41a8-acb9-fc7d5bbd8814
+512988,132125,2023-10-23T22:06:47.204682+00:00,https://discord.com/channels/690584551239581708/1150455115728302223/1150455115728302223
+450298,132125,2023-10-23T22:06:47.204682+00:00,Initiated Dework reimbursement for `@JohnMark13`.
+510544,133209,2023-10-23T22:06:47.204682+00:00,initiated last week Dework payout
+392403,132125,2023-10-23T22:06:47.204682+00:00,Invited <@445700462746796033> to the GitHub organization - https://github.com/orgs/nation3/people/pending_invitations
+509512,132125,2023-10-23T22:06:47.204682+00:00,Invited @Markkos89 to the Nation3 GitHub organization.
+393073,132125,2023-10-23T22:06:47.204682+00:00,Merged N3GOV-49 - https://github.com/nation3/gov-proposals/pull/70
+512195,133209,2023-10-23T22:06:47.204682+00:00,NationCred and Citizen Directory epoch funding
+516390,133209,2023-10-23T22:06:47.204682+00:00,on chain rejection signed an executed
+511295,132125,2023-10-23T22:06:47.204682+00:00,Posted an introduction to Coordinape for contributors new to Nation3 - https://discord.com/channels/690584551239581708/1148545829976686622
+514903,132125,2023-10-23T22:06:47.204682+00:00,Reminded 0xGallego to transfer DAO tokens - https://discord.com/channels/690584551239581708/1151860786612945007/1152909887471353896
+392797,132125,2023-10-23T22:06:47.204682+00:00,Renamed from `veNATION` to `PASS3` - https://snapshot.org/#/nation3.eth/settings
+526814,133209,2023-10-23T22:06:47.204682+00:00,Reverted permission changes on gated Dework spaces
+509569,132125,2023-10-23T22:06:47.204682+00:00,Sent 0.005 ETH to the owner of `NationCred.sol` - https://etherscan.io/tx/0xaae62824cc562d3f80b3d449a7dd896b5a88511954e752e7586ad787b7ccfeac
 530719,163610,2023-10-23T22:06:47.204682+00:00,"Sent a message to WebFlow discord help forums : https://discord.com/channels/495477343494602762/1160851237164564560
-"
-530715,163610,2023-10-23T22:06:47.204682+00:00,"create deWork issue : https://app.dework.xyz/nation3/development-guild-43499?taskId=c1ec486b-a88b-4a55-bd44-fcd78e58d44b
-"
-530716,163610,2023-10-23T22:06:47.204682+00:00,"create deWork issue : https://app.dework.xyz/nation3/development-guild-43499?taskId=1c86dc73-74cf-44c1-8ae4-116792a643b2
 "
 530718,163610,2023-10-23T22:06:47.204682+00:00,"sent message to Owi on discord about the webflow account
 "
-512194,132125,2023-10-23T22:06:47.204682+00:00,Guild.xyz debugging.
-512195,133209,2023-10-23T22:06:47.204682+00:00,NationCred and Citizen Directory epoch funding
-392402,132125,2023-10-23T22:06:47.204682+00:00,[1h] Added Ops Guild circle to Coordinape.
-392403,132125,2023-10-23T22:06:47.204682+00:00,Invited <@445700462746796033> to the GitHub organization - https://github.com/orgs/nation3/people/pending_invitations
-392797,132125,2023-10-23T22:06:47.204682+00:00,Renamed from `veNATION` to `PASS3` - https://snapshot.org/#/nation3.eth/settings
-393073,132125,2023-10-23T22:06:47.204682+00:00,Merged N3GOV-49 - https://github.com/nation3/gov-proposals/pull/70
-393033,132125,2023-10-23T22:06:47.204682+00:00,[2h] Improved access settings for all GitHub repos by using teams (https://github.com/orgs/nation3/teams) instead of individuals.
-396948,132125,2023-10-23T22:06:47.204682+00:00,Connected `https://github.com/nation3/app` to Discord webhook for <#963778898389237800>
-396949,132125,2023-10-23T22:06:47.204682+00:00,Connected Dework Space to Discord - https://app.dework.xyz/nation3/ops-guild-644/settings/discord
-396947,132125,2023-10-23T22:06:47.204682+00:00,[1h] Dework open bounty coordination - https://github.com/nation3/app/pull/174#pullrequestreview-1566398741
-520739,132125,2023-10-23T22:06:47.204682+00:00,"[1h] Coordinape Circle distribution - [Development Guild, Epoch #33](https://discord.com/channels/690584551239581708/1155353324590223431)"
-514713,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Guild.xyz configuration - follow-up with Guild.xyz support team.
-519048,132125,2023-10-23T22:06:47.204682+00:00,[1h] Summarized research efforts into one post - https://discord.com/channels/690584551239581708/963778953301094410/1154329530274689096
-516390,133209,2023-10-23T22:06:47.204682+00:00,on chain rejection signed an executed
-496053,132125,2023-10-23T22:06:47.204682+00:00,Banned two silly scammers scamming in the <#966360996560142396> channel.
-503764,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Debug failing weekly cron job - https://github.com/nation3/nationcred-datasets/actions/runs/5914367681
-503765,132125,2023-10-23T22:06:47.204682+00:00,[1h] Guild.xyz configuration - https://guild.xyz/nation3.  Trying to fix the broken link between Discord and Guild.xyz.
-514758,132125,2023-10-23T22:06:47.204682+00:00,[1h] Handled Coordinape epoch distributions for <#1138401164526899241> and <#1137581492541857902>
-509512,132125,2023-10-23T22:06:47.204682+00:00,Invited @Markkos89 to the Nation3 GitHub organization.
-509516,132125,2023-10-23T22:06:47.204682+00:00,[2h] Wrote new Discord onboarding questions - https://app.dework.xyz/nation3/ops-guild-644?taskId=18d7bd04-7c74-4c2c-8d76-c333e446f054
-512988,132125,2023-10-23T22:06:47.204682+00:00,https://discord.com/channels/690584551239581708/1150455115728302223/1150455115728302223
-509569,132125,2023-10-23T22:06:47.204682+00:00,Sent 0.005 ETH to the owner of `NationCred.sol` - https://etherscan.io/tx/0xaae62824cc562d3f80b3d449a7dd896b5a88511954e752e7586ad787b7ccfeac
-514817,133209,2023-10-23T22:06:47.204682+00:00,Created transaction to change controller of $veNATION smart contract
-510264,132125,2023-10-23T22:06:47.204682+00:00,Deployed Coordinape Vault for the Development Guild - https://app.coordinape.com/organizations/2215/vaults
-510294,133209,2023-10-23T22:06:47.204682+00:00,Created the Ops Guild epochs
-507656,132125,2023-10-23T22:06:47.204682+00:00,[1h] Added Discord notifications for Ops Guild multisig transactions - https://discord.com/channels/690584551239581708/1131156157256433704/1145332890671001663
-511912,132125,2023-10-23T22:06:47.204682+00:00,Coordinape configuration
-513759,132125,2023-10-23T22:06:47.204682+00:00,[1h] Assisted <@929427337429270538> with public/private key encryption - https://discord.com/channels/690584551239581708/1147035464465920040/1151437015401902101
-513760,132125,2023-10-23T22:06:47.204682+00:00,[0.5h] Calculated quorum in past Snapshot proposals - https://discord.com/channels/690584551239581708/1131058444355502120/1151453721235034206
-513762,132125,2023-10-23T22:06:47.204682+00:00,[1h] Added <#1131156157256433704> for Coordinape Vault distributions - https://discord.com/channels/690584551239581708/1131156157256433704/1151469603956990012
-513764,132125,2023-10-23T22:06:47.204682+00:00,[3h] Handled Vault distributions for Epoch #1 --> #5 in the Transition to DAO Coordinape Circle - https://discord.com/channels/690584551239581708/1132988302694285393/1151503987258953809
-509098,132125,2023-10-23T22:06:47.204682+00:00,Deleted Discord spam messages.
-518249,132125,2023-10-23T22:06:47.204682+00:00,[2h] Fixed the broken Guild.xyz Discord bot by re-installing it - https://discord.com/channels/690584551239581708/1154039340184391720/1154065156708499527
-511295,132125,2023-10-23T22:06:47.204682+00:00,Posted an introduction to Coordinape for contributors new to Nation3 - https://discord.com/channels/690584551239581708/1148545829976686622
-511952,133209,2023-10-23T22:06:47.204682+00:00,execution of already signed payments for last week Dework bounties
-510425,132125,2023-10-23T22:06:47.204682+00:00,Added <@929427337429270538> as Guild.xyz admin - https://guild.xyz/nation3
-513172,132125,2023-10-23T22:06:47.204682+00:00,"[0.5h] Renamed Special Interest Group from ""housing"" to ""property."""
-510432,132125,2023-10-23T22:06:47.204682+00:00,Added post-join questions to the Discord onboarding.
-514903,132125,2023-10-23T22:06:47.204682+00:00,Reminded 0xGallego to transfer DAO tokens - https://discord.com/channels/690584551239581708/1151860786612945007/1152909887471353896
-509805,132125,2023-10-23T22:06:47.204682+00:00,"Added ""Ops Guild Owner"" as a new role in Guild.xyz - https://guild.xyz/nation3#role-86619"
-509808,132125,2023-10-23T22:06:47.204682+00:00,[1h] Organize creation of Manifesto video.
-509809,132125,2023-10-23T22:06:47.204682+00:00,Guild.xyz troubleshooting.
+526316,133209,2023-10-23T22:06:47.204682+00:00,Set All 3 gated Dework guilds to now be only be seen by “Holder of Valid passport” role.
+526070,133209,2023-10-23T22:06:47.204682+00:00,signed transaction commitee transaction
 513254,133209,2023-10-23T22:06:47.204682+00:00,Uploaded Nation3 video submissions on Snapshot.
