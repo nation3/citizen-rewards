@@ -1,4 +1,5 @@
 id,user_id,updated_at,description
+992659,22071,2023-12-14T13:59:41.877929+00:00,[1h] Improve the code for importing contributions from Coordinape - https://github.com/nation3/citizen-rewards/commit/d47047bcbfc58a6c2e102c19ee7a8159a6366fe5
 992645,22071,2023-12-14T06:24:56.488554+00:00,[0.5h] Configure DNS for governance forum.
 992556,22071,2023-12-13T12:55:52.409524+00:00,[0.3h] Review and merge weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/218#pullrequestreview-1779577665
 992458,22071,2023-12-12T16:03:57.189421+00:00,[0.3h] SMTP configuration.
