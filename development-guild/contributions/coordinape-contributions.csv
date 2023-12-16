@@ -1,4 +1,7 @@
 id,user_id,updated_at,description
+992760,22071,2023-12-15T13:54:19.2328+00:00,[1h] Code marketeer skill level smart contract - https://github.com/nation3/nationcred-contracts/pull/87
+992759,22071,2023-12-15T13:32:39.242522+00:00,[3h] Add smart contract for storing skill level ratings per citizen role - Operator role.
+992754,22071,2023-12-15T05:18:24.903393+00:00,[1.5h] Assist Markkos with DNS configuration for the governance forum - https://discord.com/channels/690584551239581708/1144990560504004678/1185088014737743873
 992659,22071,2023-12-14T13:59:41.877929+00:00,[1h] Improve the code for importing contributions from Coordinape - https://github.com/nation3/citizen-rewards/commit/d47047bcbfc58a6c2e102c19ee7a8159a6366fe5
 992645,22071,2023-12-14T06:24:56.488554+00:00,[0.5h] Configure DNS for governance forum.
 992556,22071,2023-12-13T12:55:52.409524+00:00,[0.3h] Review and merge weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/218#pullrequestreview-1779577665
