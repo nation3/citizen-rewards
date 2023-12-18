@@ -45,7 +45,7 @@ jobs:
           git config user.email 'nationcred.bot@nation3.org'
           git add coordinape-users.csv
           git add coordinape-contributions.csv
-          git commit --allow-empty -m 'fetch coordinape contributions - development guild'
+          git commit --allow-empty -m '🧙 development guild - fetch coordinape contributions'
       
       - name: Push Changes
         run: git push
@@ -86,7 +86,7 @@ jobs:
           git config user.email 'nationcred.bot@nation3.org'
           git add coordinape-users.csv
           git add coordinape-contributions.csv
-          git commit --allow-empty -m 'fetch coordinape contributions - ops guild'
+          git commit --allow-empty -m '⚙️ ops guild - fetch coordinape contributions'
       
       - name: Push Changes
         run: git push
@@ -127,7 +127,49 @@ jobs:
           git config user.email 'nationcred.bot@nation3.org'
           git add coordinape-users.csv
           git add coordinape-contributions.csv
-          git commit --allow-empty -m 'fetch coordinape contributions - marketing guild'
+          git commit --allow-empty -m '🎥 marketing guild - fetch coordinape contributions'
       
       - name: Push Changes
         run: git push
+
+  ecoride_network:
+    needs: marketing_guild
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ecoride-network/contributions/
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pull changes
+        run: |
+          git fetch
+          git pull
+
+      - name: Use Node.js 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+          cache-dependency-path: ecoride-network/contributions/package-lock.json
+      
+      - name: Install Node.js Packages 🔧
+        run: npm install
+
+        # Fetch Coordinape users and store them in a CSV file 🧮
+      - run: node fetch-users.js
+
+        # Fetch Coordinape contributions and store them in a CSV file 🧮
+      - run: node fetch-contributions.js
+      
+      - name: Commit Changes
+        run: |
+          git config user.name 'NationCred bot'
+          git config user.email 'nationcred.bot@nation3.org'
+          git add coordinape-users.csv
+          git add coordinape-contributions.csv
+          git commit --allow-empty -m '🌳 ecoride network - fetch coordinape contributions'
+      
+      - name: Push Changes
+        run: git push
+      
