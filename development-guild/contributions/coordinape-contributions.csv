@@ -1,4 +1,8 @@
 id,user_id,updated_at,description
+993356,22071,2023-12-18T16:52:01.982274+00:00,[2h] Use profile_id instead of user_id - https://github.com/nation3/citizen-rewards/pull/15
+993353,22071,2023-12-18T16:53:52.442268+00:00,[2h] Added EcoRide Network to `citizen-rewards` repo - https://github.com/nation3/citizen-rewards/pull/14
+993351,22071,2023-12-18T15:16:04.675604+00:00,[1.5h] DNS config for forum.nation3.org
+993345,22071,2023-12-18T11:02:39.649449+00:00,Website text adjustments
 993127,22071,2023-12-17T12:32:42.188766+00:00,"[1.5h] Debugged ""out of gas"" error when increasing lock amount/time - https://discord.com/channels/690584551239581708/1185755887080583268/1185785412724207627"
 992760,22071,2023-12-15T13:54:19.2328+00:00,[1h] Code marketeer skill level smart contract - https://github.com/nation3/nationcred-contracts/pull/87
 992759,22071,2023-12-15T13:32:39.242522+00:00,[3h] Add smart contract for storing skill level ratings per citizen role - Operator role.
