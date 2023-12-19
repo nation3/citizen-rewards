@@ -1,4 +1,4 @@
-# Coordinape Contributions - ⚙️ Ops Guild
+# Coordinape Contributions - 🌳 EcoRide Network
 
 ## Coordinape Profiles
 

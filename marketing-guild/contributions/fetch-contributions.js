@@ -17,9 +17,9 @@ async function fetchContributions() {
         body: JSON.stringify({
             query: `
                 query ContributionsQuery {
-                    contributions(where: {circle_id: {_eq: "${coordinapeConfig.circle_id}"}}, order_by: {updated_at: desc}) {
+                    contributions(where: {circle_id: {_eq: "${coordinapeConfig.circle_id}"}}, order_by: {id: desc}) {
                         id
-                        user_id
+                        profile_id
                         updated_at
                         description
                     }
@@ -41,7 +41,7 @@ function exportToCSV(contributions) {
     const writeableStream = fs.createWriteStream(filename);
     const columns = [
         'id',
-        'user_id',
+        'profile_id',
         'updated_at',
         'description'
     ];

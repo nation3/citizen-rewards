@@ -5,8 +5,8 @@ const coordinapeConfig = require('./coordinape_config.json');
 const GRAPHQL_URL = 'https://coordinape-prod.hasura.app/v1/graphql';
 console.log('GRAPHQL_URL:', GRAPHQL_URL);
 
-async function fetchContributions() {
-    console.log('fetchContributions');
+async function fetchProfiles() {
+    console.log('fetchProfiles');
 
     const response = await fetch(GRAPHQL_URL, {
         method: 'POST',
@@ -16,14 +16,12 @@ async function fetchContributions() {
         },
         body: JSON.stringify({
             query: `
-                query ContributionsQuery {
-                    contributions(where: {circle_id: {_eq: "${coordinapeConfig.circle_id}"}}, order_by: {id: desc}) {
+                query ProfilesQuery {
+                    profiles(order_by: {id: asc}) {
                         id
-                        profile_id
-                        updated_at
-                        description
+                        created_at
                     }
-                }              
+                }
             `
         })
     });
@@ -31,27 +29,25 @@ async function fetchContributions() {
     const { data } = await response.json();
     console.log('data:', data);
 
-    exportToCSV(data.contributions);
+    exportToCSV(data.profiles);
 }
 
-function exportToCSV(contributions) {
+function exportToCSV(profiles) {
     console.log('exportToCSV');
 
-    const filename = 'coordinape-contributions.csv';
+    const filename = 'coordinape-profiles.csv';
     const writeableStream = fs.createWriteStream(filename);
     const columns = [
         'id',
-        'profile_id',
-        'updated_at',
-        'description'
+        'created_at'
     ];
     const stringifier = stringify({ header: true, columns: columns });
-    for (const contribution of contributions) {
-        console.log('Writing contribution to CSV:', contribution);
-        stringifier.write(contribution);
+    for (const profile of profiles) {
+        console.log('Writing profile to CSV:', profile);
+        stringifier.write(profile);
     }
     stringifier.pipe(writeableStream);
     console.log('Finished writing data to CSV:', filename);
 }
 
-fetchContributions();
+fetchProfiles();
