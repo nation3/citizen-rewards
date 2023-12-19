@@ -1,13 +1,13 @@
 # Coordinape Contributions - 🌳 EcoRide Network
 
-## Coordinape Users
+## Coordinape Profiles
 
-Fetch Coordinape users and store them in a CSV file, [coordinape-users.csv](coordinape-users.csv).
+Fetch Coordinape profiles and store them in a CSV file, [coordinape-profiles.csv](coordinape-profiles.csv).
 
 ```
 cd ops-guild/contributions/
 npm install
-node fetch-users.js
+node fetch-profiles.js
 ```
 
 ## Coordinape Contributions
