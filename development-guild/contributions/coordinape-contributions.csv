@@ -1,4 +1,8 @@
 id,profile_id,updated_at,description
+994309,77877,2023-12-19T11:01:12.161153+00:00,[3h] Automate contribution tracking and rewards - https://github.com/nation3/nationcred-contracts/pull/87
+994228,77877,2023-12-19T09:37:23.737925+00:00,[1.5h] Add smart contract tests - https://github.com/nation3/nationcred-contracts/pull/87/commits/a2487ef42cf75d1ef85af881e815e77aabe67170
+994136,77877,2023-12-19T06:01:54.808715+00:00,[1.5h] Debug problem with exorbitant gas fees for increasing time-locks - https://discord.com/channels/690584551239581708/1186546031576490014/1186546039507910767
+994130,77877,2023-12-19T05:31:05.266187+00:00,[0.5h] `user_id` --> `profile_id` - https://github.com/nation3/citizen-rewards/pull/15/commits/7af016440968f99f6cb261ff688cf26d239694f5
 993356,77877,2023-12-18T16:52:01.982274+00:00,[2h] Use profile_id instead of user_id - https://github.com/nation3/citizen-rewards/pull/15
 993353,77877,2023-12-18T16:53:52.442268+00:00,[2h] Added EcoRide Network to `citizen-rewards` repo - https://github.com/nation3/citizen-rewards/pull/14
 993351,77877,2023-12-18T15:16:04.675604+00:00,[1.5h] DNS config for forum.nation3.org
