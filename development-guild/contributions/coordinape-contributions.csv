@@ -1,4 +1,7 @@
 id,profile_id,updated_at,description
+995591,77877,2023-12-20T14:10:16.730451+00:00,[7h] Integrate skill level ratings with Ethereum Attestation Service - https://app.dework.xyz/nation3/development-guild-43499?taskId=c065c116-6337-4ea1-892f-6a319c3e470c
+995426,77877,2023-12-20T10:55:25.261908+00:00,[1h] Created EAS schema for rating citizen skills - https://sepolia.easscan.org/schema/view/0x8233d9319f24851e27b79cd7c3afe2e22a125b722435733d8b428b85d6e2ab8b
+995416,77877,2023-12-20T09:46:12.522173+00:00,[1.5h] DNS configuration for the governance forum.
 994309,77877,2023-12-19T11:01:12.161153+00:00,[3h] Automate contribution tracking and rewards - https://github.com/nation3/nationcred-contracts/pull/87
 994228,77877,2023-12-19T09:37:23.737925+00:00,[1.5h] Add smart contract tests - https://github.com/nation3/nationcred-contracts/pull/87/commits/a2487ef42cf75d1ef85af881e815e77aabe67170
 994136,77877,2023-12-19T06:01:54.808715+00:00,[1.5h] Debug problem with exorbitant gas fees for increasing time-locks - https://discord.com/channels/690584551239581708/1186546031576490014/1186546039507910767
