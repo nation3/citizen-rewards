@@ -1,4 +1,5 @@
 id,profile_id,updated_at,description
+996743,77877,2023-12-22T15:40:42.946263+00:00,[1.5h] Integrated Discord with Esprezzo so that we can get Discord notifications when there are smart contract events.
 995990,77877,2023-12-21T02:24:04.543101+00:00,Discord role configuration
 995332,77877,2023-12-20T08:28:38.438858+00:00,Adjusted Discord verification level.
 993344,77877,2023-12-18T10:42:47.358225+00:00,Discord server configuration
