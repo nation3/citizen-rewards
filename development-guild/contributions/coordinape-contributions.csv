@@ -1,4 +1,6 @@
 id,profile_id,updated_at,description
+999476,77877,2023-12-26T17:44:38.060261+00:00,Testing of the Aragon OSx plugin
+999182,77877,2023-12-26T14:23:41.746931+00:00,[10h] Create uniswap.nation3.org
 996128,77877,2023-12-21T11:18:07.540276+00:00,[0.67h] Asked EAS to update their code to be compatible with Nation3 skill level ratings - https://github.com/ethereum-attestation-service/eas-contracts/pull/127
 996119,77877,2023-12-21T11:07:03.19432+00:00,[8h] Integrate skill level ratings with Ethereum Attestation Service - https://app.dework.xyz/nation3/development-guild-43499?taskId=c065c116-6337-4ea1-892f-6a319c3e470c
 996060,77877,2023-12-21T05:37:56.941421+00:00,Reviewed and merged weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/219#pullrequestreview-1792223613
