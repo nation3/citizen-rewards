@@ -1,4 +1,9 @@
 id,profile_id,updated_at,description
+999761,77877,2023-12-27T14:27:38.271583+00:00,[2h] DNS config for governance forum.
+999708,77877,2023-12-27T08:54:05.914244+00:00,[4h] Activated 5 SourceCred identities - https://nation3.github.io/sourcecred-instance/#/ledger
+999583,77877,2023-12-27T06:08:52.19956+00:00,"[2.5h] sourcecred-instance:  Fix ""invalid path"" error - https://github.com/nation3/sourcecred-instance/issues/221"
+999579,77877,2023-12-27T04:35:57.069081+00:00,"[1.5h] app: Fix ""too many requests"" error - https://app.dework.xyz/nation3/development-guild-43499?taskId=24ff401a-3995-4114-811c-6ba02cc66647"
+999577,77877,2023-12-27T03:46:16.837094+00:00,Reviewed and merged weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/220
 999476,77877,2023-12-26T17:44:38.060261+00:00,Testing of the Aragon OSx plugin
 999182,77877,2023-12-26T14:23:41.746931+00:00,[10h] Create uniswap.nation3.org
 996128,77877,2023-12-21T11:18:07.540276+00:00,[0.67h] Asked EAS to update their code to be compatible with Nation3 skill level ratings - https://github.com/ethereum-attestation-service/eas-contracts/pull/127
