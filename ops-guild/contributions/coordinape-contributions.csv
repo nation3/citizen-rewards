@@ -1,4 +1,7 @@
 id,profile_id,updated_at,description
+999623,77877,2023-12-27T06:29:00.674469+00:00,[0.5h] Adjust Snapshot quorum to 10% of number of citizens holding valid passports - https://app.dework.xyz/nation3/ops-guild-644/view/board-lkyvcajs?taskId=9ad712ea-5344-46bd-ac44-b5fa1ef21ead
+999582,77877,2023-12-27T05:13:45.2726+00:00,Funded Ops Guild multisig with 0.01 ETH - https://etherscan.io/tx/0xabfa04fc6e3a3c93a817a48d547816fe0b7b81d00891b114ec5311db38b5a46e
+999578,77877,2023-12-27T04:32:26.485405+00:00,Discord<-->GitHub webhook integration
 996743,77877,2023-12-22T15:40:42.946263+00:00,[1.5h] Integrated Discord with Esprezzo so that we can get Discord notifications when there are smart contract events.
 995990,77877,2023-12-21T02:24:04.543101+00:00,Discord role configuration
 995332,77877,2023-12-20T08:28:38.438858+00:00,Adjusted Discord verification level.
