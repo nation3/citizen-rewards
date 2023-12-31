@@ -1,4 +1,5 @@
 id,profile_id,updated_at,description
+1000346,77877,2023-12-30T14:05:45.275209+00:00,Setup of admin account for the governance forum.
 999886,77877,2023-12-28T01:19:11.813263+00:00,Double-checked Snapshot proposal validation - https://discord.com/channels/690584551239581708/1189237400690495578/1189736633709379594
 999623,77877,2023-12-27T06:29:00.674469+00:00,[0.5h] Adjust Snapshot quorum to 10% of number of citizens holding valid passports - https://app.dework.xyz/nation3/ops-guild-644/view/board-lkyvcajs?taskId=9ad712ea-5344-46bd-ac44-b5fa1ef21ead
 999582,77877,2023-12-27T05:13:45.2726+00:00,Funded Ops Guild multisig with 0.01 ETH - https://etherscan.io/tx/0xabfa04fc6e3a3c93a817a48d547816fe0b7b81d00891b114ec5311db38b5a46e
