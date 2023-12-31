@@ -1,4 +1,5 @@
 id,profile_id,updated_at,description
+1000348,77877,2023-12-30T15:18:37.387489+00:00,[1h] Add handling of revoked passports to Snapshot strategy - https://app.dework.xyz/nation3/development-guild-43499?taskId=d111c11c-dfdb-48c1-b23a-3b9d6c57d026
 999761,77877,2023-12-27T14:27:38.271583+00:00,[2h] DNS config for governance forum.
 999708,77877,2023-12-27T08:54:05.914244+00:00,[4h] Activated 5 SourceCred identities - https://nation3.github.io/sourcecred-instance/#/ledger
 999583,77877,2023-12-27T06:08:52.19956+00:00,"[2.5h] sourcecred-instance:  Fix ""invalid path"" error - https://github.com/nation3/sourcecred-instance/issues/221"
