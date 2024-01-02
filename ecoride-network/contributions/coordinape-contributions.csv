@@ -1,2 +1,2 @@
-id,profile_id,updated_at,description
-993348,77877,2023-12-18T13:26:39.263511+00:00,[1h] Created GitHub repo for the Android app - https://github.com/nation3/ecoride-network-android
+id,profile_id,passport_id,updated_at,hours_spent,description
+993348,77877,233,2023-12-18T13:26:39.263511+00:00,1,[1h] Created GitHub repo for the Android app - https://github.com/nation3/ecoride-network-android
