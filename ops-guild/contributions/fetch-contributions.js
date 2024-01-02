@@ -50,6 +50,7 @@ function exportToCSV(contributions) {
     const stringifier = stringify({ header: true, columns: columns });
     const citizenDetailsJson = require('../../citizen_details_per_coordinape_profile_id.json');
     for (const contribution of contributions) {
+        console.log('contribution:', contribution);
         const citizenDetails = citizenDetailsJson[contribution.profile_id];
         contribution['passport_id'] = citizenDetails.citizen_passport_id;
         contribution['hours_spent'] = extractHoursSpent(contribution.description);
