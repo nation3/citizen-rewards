@@ -1,4 +1,5 @@
 id,profile_id,updated_at,description
+1001041,77877,2024-01-01T11:25:41.813597+00:00,[1.5h] SMTP and DNS configuration for governance forum e-mails.
 1000662,77877,2023-12-31T09:57:10.557269+00:00,Configured Discord notifications for on-chain activity.
 1000346,77877,2023-12-30T14:05:45.275209+00:00,Setup of admin account for the governance forum.
 999886,77877,2023-12-28T01:19:11.813263+00:00,Double-checked Snapshot proposal validation - https://discord.com/channels/690584551239581708/1189237400690495578/1189736633709379594
