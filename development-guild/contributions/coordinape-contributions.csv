@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1002284,77877,233,2024-01-02T16:06:34.569647+00:00,2,[2h] Add Coordinape contributions to profile page - https://app.dework.xyz/nation3/development-guild-43499?taskId=91747b17-f800-42b2-b5f6-11a8ee7a3a32
+1002163,77877,233,2024-01-02T14:44:35.486576+00:00,6,[6h] Add Coordinape as data source - https://app.dework.xyz/nation3/development-guild-43499?taskId=f1f20526-d71e-4ddb-bbf6-6474ed377bcd
+1001826,77877,233,2024-01-02T09:36:44.953475+00:00,2,[2h] Extract hours spent from contribution description - https://github.com/nation3/citizen-rewards/issues/7
 1001655,77877,233,2024-01-02T05:50:44.813419+00:00,2,[2h] Activated <@910447236729683969>'s Discord identity in SourceCred - https://github.com/nation3/sourcecred-instance/commit/1e65aed1647432e4ceba021cd2a9d2bd7a362d00
 1001654,77877,233,2024-01-02T05:26:29.618868+00:00,1.5,[1.5h] Testing of Slade Wilson's Aragon OSx governance plugin - https://app.dework.xyz/nation3/open-bounties-95838?taskId=2e5de0e8-33af-455e-962a-0c47035c8a37
 1001651,77877,233,2024-01-02T04:25:48.824582+00:00,0.33,Review and merge weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/223
