@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1002286,77877,233,2024-01-02T16:11:41.386109+00:00,0.33,DNS/SMTP config for e-mails.
 1001041,77877,233,2024-01-01T11:25:41.813597+00:00,1.5,[1.5h] SMTP and DNS configuration for governance forum e-mails.
 1000662,77877,233,2023-12-31T09:57:10.557269+00:00,0.33,Configured Discord notifications for on-chain activity.
 1000346,77877,233,2023-12-30T14:05:45.275209+00:00,0.33,Setup of admin account for the governance forum.
