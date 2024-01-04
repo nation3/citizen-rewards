@@ -1,2 +1,2 @@
 # Citizen Rewards
-A record of citizen rewards
+A record of citizen contributions and rewards
