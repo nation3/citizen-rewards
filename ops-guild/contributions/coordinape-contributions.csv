@@ -1,4 +1,9 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1003081,77877,233,2024-01-04T10:06:30.284949+00:00,0.33,Revoked expired passport - https://discord.com/channels/690584551239581708/1131156157256433704/1192408221948850217
+1003079,3780245,272,2024-01-04T09:38:55.393088+00:00,0.33,Funded  ETH to the account that owns the NationCred.sol smart contract with gas
+1003077,77877,233,2024-01-04T09:03:09.457334+00:00,0.33,Managed GitHub access settings at https://github.com/nation3/subgraphs/settings/access
+1002988,77877,233,2024-01-04T02:38:56.647114+00:00,0.33,SMTP configuration for Discourse
+1002687,77877,233,2024-01-03T12:18:38.645678+00:00,0.33,Assisted <@384395749225398275> with getting access to Nation3's GitHub repos and The Graph.
 1002286,77877,233,2024-01-02T16:11:41.386109+00:00,0.33,DNS/SMTP config for e-mails.
 1001041,77877,233,2024-01-01T11:25:41.813597+00:00,1.5,[1.5h] SMTP and DNS configuration for governance forum e-mails.
 1000662,77877,233,2023-12-31T09:57:10.557269+00:00,0.33,Configured Discord notifications for on-chain activity.
