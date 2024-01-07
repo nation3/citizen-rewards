@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1003536,77877,233,2024-01-06T17:02:00.330572+00:00,0.33,Discourse configuration - https://discord.com/channels/690584551239581708/1190978538107580488/1193236339244671078
+1003453,77877,233,2024-01-06T12:16:22.379658+00:00,0.33,Discord configuration
+1003410,77877,233,2024-01-06T09:42:47.758862+00:00,0.33,https://forum.nation3.org/t/proposal-set-minimum-requirements-for-ops-guild-multisig-owners/949
 1003267,77877,233,2024-01-05T14:37:50.452025+00:00,1.5,[1.5h] Tested and configured admin account for governance forum.  Added the credentials to the DAO's password manager.
 1003081,77877,233,2024-01-04T10:06:30.284949+00:00,0.33,Revoked expired passport - https://discord.com/channels/690584551239581708/1131156157256433704/1192408221948850217
 1003079,3780245,272,2024-01-04T09:38:55.393088+00:00,0.33,Funded  ETH to the account that owns the NationCred.sol smart contract with gas
