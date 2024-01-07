@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1003538,77877,233,2024-01-06T18:48:17.397992+00:00,1.5,[1.5h] feat: activity status indicator to chart (#55) - https://github.com/nation3/citizen-directory/pull/56
+1003495,77877,233,2024-01-06T16:26:23.668458+00:00,0.33,Added takeabreath's GitHub username to SourceCred.
 1003146,4031919,285,2024-01-04T16:35:55.860114+00:00,3,[3h] Fix delegated snapshot strategy - https://github.com/nation3/snapshot-strategies/pull/6/
 1003087,77877,233,2024-01-04T11:57:33.795275+00:00,0.33,Activated <@384395749225398275>'s SourceCred identity - https://github.com/nation3/sourcecred-instance/commit/a9652120a92388e067743b3ff40a198e8efa414b
 1002793,4031919,285,2024-01-03T17:22:58.86347+00:00,2,[2h] Open PR to add PassportIssuer subgraph to https://github.com/nation3/subgraphs
