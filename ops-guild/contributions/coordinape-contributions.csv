@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1003631,77877,233,2024-01-07T09:28:37.192495+00:00,0.67,[0.67] Added citizen #245 to SourceCred - https://github.com/nation3/sourcecred-instance/commit/c4aae0a9a0458eb21834a3c3bc83c69da2592855
+1003552,77877,233,2024-01-07T07:21:05.01915+00:00,1.5,[1.5h] Added categories for working groups and special interest groups to the governance forum - https://forum.nation3.org/
 1003536,77877,233,2024-01-06T17:02:00.330572+00:00,0.33,Discourse configuration - https://discord.com/channels/690584551239581708/1190978538107580488/1193236339244671078
 1003453,77877,233,2024-01-06T12:16:22.379658+00:00,0.33,Discord configuration
 1003410,77877,233,2024-01-06T09:42:47.758862+00:00,0.33,https://forum.nation3.org/t/proposal-set-minimum-requirements-for-ops-guild-multisig-owners/949
