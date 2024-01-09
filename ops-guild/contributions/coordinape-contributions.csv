@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1003834,77877,233,2024-01-08T09:21:37.280456+00:00,3,[3h] Migrate from Aragon Client to Aragon OSx - https://app.dework.xyz/nation3/development-guild-43499?taskId=b6646f4d-df4d-4436-818e-39f78a9be9e7
+1003813,77877,233,2024-01-08T06:51:45.516874+00:00,2,[2h] Deploy DAO Agent (Aragon OSx) - https://app.dework.xyz/nation3/development-guild-43499?taskId=d6a60373-66b5-4a63-915c-71cc9fc3ecfc
 1003631,77877,233,2024-01-07T09:28:37.192495+00:00,0.67,[0.67] Added citizen #245 to SourceCred - https://github.com/nation3/sourcecred-instance/commit/c4aae0a9a0458eb21834a3c3bc83c69da2592855
 1003552,77877,233,2024-01-07T07:21:05.01915+00:00,1.5,[1.5h] Added categories for working groups and special interest groups to the governance forum - https://forum.nation3.org/
 1003536,77877,233,2024-01-06T17:02:00.330572+00:00,0.33,Discourse configuration - https://discord.com/channels/690584551239581708/1190978538107580488/1193236339244671078
