@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1004484,77877,233,2024-01-11T09:40:38.413578+00:00,3,[3h] Add Snapshot votes to profile page - https://github.com/nation3/citizen-directory/pull/57
+1004475,77877,233,2024-01-11T07:06:16.50938+00:00,1.5,[1.5h] Include Snapshot governance in NationCred score calculation - https://github.com/nation3/nationcred-datasets/pull/121
 1004190,77877,233,2024-01-10T06:31:29.900547+00:00,2.5,[2.5h] Add Snapshot as data source - https://app.dework.xyz/nation3/development-guild-43499?taskId=07117bf6-559a-4841-bcf2-df273f5c42d2
 1003840,77877,233,2024-01-08T12:51:05.244256+00:00,2,[2h] Add Snapshot as data source - https://github.com/nation3/nationcred-datasets/pull/120
 1003551,77877,233,2024-01-07T06:22:23.955654+00:00,0.33,Activated JohnMark13's Discourse identity in SourceCred - https://discord.com/channels/690584551239581708/975725260630532127/1193435539240652932
