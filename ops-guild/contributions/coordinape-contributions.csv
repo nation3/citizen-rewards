@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1004847,3780245,272,2024-01-12T21:25:19.124828+00:00,0.5,[0.5h] Handled dework bounty rewards
+1004846,3780245,272,2024-01-12T21:23:03.86593+00:00,1,[1h] Removed previous Discourse admins
 1004485,77877,233,2024-01-11T09:47:30.527641+00:00,0.15,[0.15h] Deleted <@&1187215598254555187> messages from public Discord channels.
 1003834,77877,233,2024-01-08T09:21:37.280456+00:00,3,[3h] Migrate from Aragon Client to Aragon OSx - https://app.dework.xyz/nation3/development-guild-43499?taskId=b6646f4d-df4d-4436-818e-39f78a9be9e7
 1003813,77877,233,2024-01-08T06:51:45.516874+00:00,2,[2h] Deploy DAO Agent (Aragon OSx) - https://app.dework.xyz/nation3/development-guild-43499?taskId=d6a60373-66b5-4a63-915c-71cc9fc3ecfc
