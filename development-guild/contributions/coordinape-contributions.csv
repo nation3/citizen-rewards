@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1004980,77877,233,2024-01-13T11:56:38.510702+00:00,1.5,[1.5h] Add Snapshot proposals count (#63) - https://github.com/nation3/nationcred-datasets/pull/123
+1004939,77877,233,2024-01-13T11:12:14.447851+00:00,1,[1h] NationCred scores in list of profiles (#35) - https://github.com/nation3/citizen-directory/pull/59
+1004937,77877,233,2024-01-13T10:36:41.978986+00:00,2,[2h] Add NationCred scores CSV - https://github.com/nation3/nationcred-datasets/pull/122
 1004484,77877,233,2024-01-11T09:40:38.413578+00:00,3,[3h] Add Snapshot votes to profile page - https://github.com/nation3/citizen-directory/pull/57
 1004475,77877,233,2024-01-11T07:06:16.50938+00:00,1.5,[1.5h] Include Snapshot governance in NationCred score calculation - https://github.com/nation3/nationcred-datasets/pull/121
 1004190,77877,233,2024-01-10T06:31:29.900547+00:00,2.5,[2.5h] Add Snapshot as data source - https://app.dework.xyz/nation3/development-guild-43499?taskId=07117bf6-559a-4841-bcf2-df273f5c42d2
