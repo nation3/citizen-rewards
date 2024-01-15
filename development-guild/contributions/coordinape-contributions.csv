@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1005169,77877,233,2024-01-14T17:03:57.605149+00:00,2,[2h] Worked on preparing the governance plugins for installation on Nation3's Aragon OSx agents (Goerli testing).
+1005127,77877,233,2024-01-14T16:18:56.175628+00:00,1.5,[1.5h] Add Aragon OSx DAO agents to token supply calculation - https://github.com/nation3/token-supply/pull/53
+1005126,77877,233,2024-01-14T15:52:45.021752+00:00,0.33,Correct the addresses of the two Aragon OSx agents - https://github.com/nation3/law/pull/9
+1005125,77877,233,2024-01-14T15:51:40.019051+00:00,0.33,Migrate to Aragon OSx - https://github.com/nation3/gov-app/pull/22
 1004980,77877,233,2024-01-13T11:56:38.510702+00:00,1.5,[1.5h] Add Snapshot proposals count (#63) - https://github.com/nation3/nationcred-datasets/pull/123
 1004939,77877,233,2024-01-13T11:12:14.447851+00:00,1,[1h] NationCred scores in list of profiles (#35) - https://github.com/nation3/citizen-directory/pull/59
 1004937,77877,233,2024-01-13T10:36:41.978986+00:00,2,[2h] Add NationCred scores CSV - https://github.com/nation3/nationcred-datasets/pull/122
