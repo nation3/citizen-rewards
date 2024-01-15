@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1005168,77877,233,2024-01-14T16:53:42.60868+00:00,0.33,Adjust Snapshot quorum to 10% of number of citizens holding valid passports - https://app.dework.xyz/nation3/ops-guild-644?taskId=f9c81056-b270-4e47-99a5-bc08920cd93d
 1004847,3780245,272,2024-01-12T21:25:19.124828+00:00,0.5,[0.5h] Handled dework bounty rewards
 1004846,3780245,272,2024-01-12T21:23:03.86593+00:00,1,[1h] Removed previous Discourse admins
 1004485,77877,233,2024-01-11T09:47:30.527641+00:00,0.15,[0.15h] Deleted <@&1187215598254555187> messages from public Discord channels.
