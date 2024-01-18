@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1005960,77877,233,2024-01-17T19:14:46.629415+00:00,4,[4h] Publish smart contract library on npm (#89) - https://github.com/nation3/nationcred-contracts/pull/90
+1005907,77877,233,2024-01-17T12:15:24.840996+00:00,0.33,Review and merge weekly SourceCred grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/227
 1005169,77877,233,2024-01-14T17:03:57.605149+00:00,2,[2h] Worked on preparing the governance plugins for installation on Nation3's Aragon OSx agents (Goerli testing).
 1005127,77877,233,2024-01-14T16:18:56.175628+00:00,1.5,[1.5h] Add Aragon OSx DAO agents to token supply calculation - https://github.com/nation3/token-supply/pull/53
 1005126,77877,233,2024-01-14T15:52:45.021752+00:00,0.33,Correct the addresses of the two Aragon OSx agents - https://github.com/nation3/law/pull/9
