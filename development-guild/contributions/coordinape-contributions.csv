@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1006083,77877,233,2024-01-19T10:32:02.6546+00:00,1.5,[1.5h] N3BI: Add NationCred npm library - https://github.com/nation3/n3bi/pull/107
 1006055,77877,233,2024-01-18T16:20:50.017725+00:00,8,[8h] N3BI: Implement enrollment in N3BI.sol - https://github.com/nation3/n3bi/pull/105
 1005960,77877,233,2024-01-17T19:14:46.629415+00:00,4,[4h] Publish smart contract library on npm (#89) - https://github.com/nation3/nationcred-contracts/pull/90
 1005907,77877,233,2024-01-17T12:15:24.840996+00:00,0.33,Review and merge weekly SourceCred grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/227
