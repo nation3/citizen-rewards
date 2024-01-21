@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1006238,77877,233,2024-01-20T19:16:49.647451+00:00,0.33,Activate SourceCred identity for citizen #288 - https://github.com/nation3/sourcecred-instance/commit/6d8de18eacf9a50a1550c489adab44df537c835a
+1006235,77877,233,2024-01-20T18:37:55.050784+00:00,6,[6h] Install governance plugin:  DAO Agent (Goerli)
+1006193,77877,233,2024-01-20T16:27:06.136906+00:00,0.33,Added working Goerli faucet to contributing docs - https://github.com/nation3/.github/commit/12a53f0677b38f4ae0c56ca2b3546ef15e05e60c
+1006152,77877,233,2024-01-20T13:20:58.281211+00:00,1.5,[1.5h] Reviewed and tested PRs for https://github.com/nation3/app/issues/226
 1006083,77877,233,2024-01-19T10:32:02.6546+00:00,1.5,[1.5h] N3BI: Add NationCred npm library - https://github.com/nation3/n3bi/pull/107
 1006055,77877,233,2024-01-18T16:20:50.017725+00:00,8,[8h] N3BI: Implement enrollment in N3BI.sol - https://github.com/nation3/n3bi/pull/105
 1005960,77877,233,2024-01-17T19:14:46.629415+00:00,4,[4h] Publish smart contract library on npm (#89) - https://github.com/nation3/nationcred-contracts/pull/90
