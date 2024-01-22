@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1006548,77877,233,2024-01-22T14:42:42.711244+00:00,0.33,Shared access to Nation3 deployer account with <@186364485651398656>
+1006467,3780245,272,2024-01-22T11:05:36.917731+00:00,0.33,Handled the Dework bounty payout for <@186364485651398656>
+1006465,3780245,272,2024-01-22T10:28:40.192498+00:00,NaN,[Ihr] Created Ethereum wallet for new Nation3 Deployer
+1006285,77877,233,2024-01-21T05:47:28.495898+00:00,0.33,Vercel deployment of wiki.nation3.org
 1005957,77877,233,2024-01-17T18:10:37.867661+00:00,0.33,Discord role configuration for owners of the Ops Guild multisig.
 1005168,77877,233,2024-01-14T16:53:42.60868+00:00,0.33,Adjust Snapshot quorum to 10% of number of citizens holding valid passports - https://app.dework.xyz/nation3/ops-guild-644?taskId=f9c81056-b270-4e47-99a5-bc08920cd93d
 1004847,3780245,272,2024-01-12T21:25:19.124828+00:00,0.5,[0.5h] Handled dework bounty rewards
