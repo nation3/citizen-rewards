@@ -69,6 +69,7 @@ function extractHoursSpent(contributionDescription) {
         contributionDescription = String(contributionDescription).trim();
         contributionDescription = String(contributionDescription).substring(1, String(contributionDescription).length);
         hoursSpent = String(contributionDescription).split(']')[0];
+        hoursSpent = String(hoursSpent).replace('hr', '');
         hoursSpent = String(hoursSpent).replace('h', '');
         hoursSpent = String(hoursSpent).trim();
         return Number(hoursSpent);
