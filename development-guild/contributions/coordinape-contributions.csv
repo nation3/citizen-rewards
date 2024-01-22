@@ -1,4 +1,9 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1006459,4033422,288,2024-01-22T01:01:41.658928+00:00,2.5,[2.5h]  Learn Aragon OSx  Basics- https://devs.aragon.org/docs/osx/
+1006329,4033422,288,2024-01-21T13:26:10.827236+00:00,4,[4h] Setup foundation smartcontract on local machine. Figure out the VotingEscrow.vy contract - https://app.dework.xyz/nation3/development-guild-43499?taskId=28308d89-f718-467d-9306-3efc01daf7ed
+1006286,4033422,288,2024-01-21T05:53:24.703467+00:00,0.5,"[0.5h] Support Ahana to config prod Vercel, including TLS - https://wiki.nation3.org/"
+1006284,4033422,288,2024-01-21T05:05:07.272941+00:00,0.5,[0.5h] Deploy wiki.nation3.org to personal vercel and verify wiki page - https://wiki-fgcc.vercel.app/
+1006283,4033422,288,2024-01-21T05:00:26.606172+00:00,1.5,[1.5h] Find the root cause and configure Vercel for wiki.nation3.org.
 1006238,77877,233,2024-01-20T19:16:49.647451+00:00,0.33,Activate SourceCred identity for citizen #288 - https://github.com/nation3/sourcecred-instance/commit/6d8de18eacf9a50a1550c489adab44df537c835a
 1006235,77877,233,2024-01-20T18:37:55.050784+00:00,6,[6h] Install governance plugin:  DAO Agent (Goerli)
 1006193,77877,233,2024-01-20T16:27:06.136906+00:00,0.33,Added working Goerli faucet to contributing docs - https://github.com/nation3/.github/commit/12a53f0677b38f4ae0c56ca2b3546ef15e05e60c
