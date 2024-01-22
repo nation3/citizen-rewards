@@ -1,4 +1,9 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1006552,77877,233,2024-01-22T15:49:59.30664+00:00,0.33,Add Coordinape profile id for citizen 288 - https://github.com/nation3/citizen-rewards/pull/20
+1006551,4033422,288,2024-01-22T15:48:53.850917+00:00,1.5,[1.5h] Deploy nationcred contracts & update deployment info - https://github.com/nation3/nationcred-contracts/pull/91
+1006550,4033422,288,2024-01-22T15:47:37.13239+00:00,0.5,[0.5h] Deploy foundations contract using NATION deployer account -  https://github.com/nation3/foundations/pull/4
+1006547,4033422,288,2024-01-22T14:02:53.762765+00:00,0.5,[0.5h] pgp config & setup deployer account
+1006466,4033422,288,2024-01-22T10:58:16.600566+00:00,0.5,"[0.5h] fix build error, update instruction - https://github.com/nation3/foundations/pulls"
 1006459,4033422,288,2024-01-22T01:01:41.658928+00:00,2.5,[2.5h]  Learn Aragon OSx  Basics- https://devs.aragon.org/docs/osx/
 1006329,4033422,288,2024-01-21T13:26:10.827236+00:00,4,[4h] Setup foundation smartcontract on local machine. Figure out the VotingEscrow.vy contract - https://app.dework.xyz/nation3/development-guild-43499?taskId=28308d89-f718-467d-9306-3efc01daf7ed
 1006286,4033422,288,2024-01-21T05:53:24.703467+00:00,0.5,"[0.5h] Support Ahana to config prod Vercel, including TLS - https://wiki.nation3.org/"
