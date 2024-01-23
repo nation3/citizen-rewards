@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1006555,4033422,288,2024-01-22T17:20:35.842429+00:00,0.33,Deploy n3bi & update deployment info - https://github.com/nation3/n3bi/pull/109
+1006554,77877,233,2024-01-22T16:12:02.210198+00:00,0.5,[0.5h] Reviewed pull requests - https://github.com/nation3/foundations/pulls
 1006552,77877,233,2024-01-22T15:49:59.30664+00:00,0.33,Add Coordinape profile id for citizen 288 - https://github.com/nation3/citizen-rewards/pull/20
 1006551,4033422,288,2024-01-22T15:48:53.850917+00:00,1.5,[1.5h] Deploy nationcred contracts & update deployment info - https://github.com/nation3/nationcred-contracts/pull/91
 1006550,4033422,288,2024-01-22T15:47:37.13239+00:00,0.5,[0.5h] Deploy foundations contract using NATION deployer account -  https://github.com/nation3/foundations/pull/4
