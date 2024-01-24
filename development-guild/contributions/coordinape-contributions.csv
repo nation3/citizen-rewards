@@ -1,4 +1,9 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1006663,4033422,288,2024-01-23T18:17:01.348916+00:00,0.5,[0.5h] Verification script for $NATION
+1006661,4033422,288,2024-01-23T17:16:25.477566+00:00,4,"[4h] Contract verification, refactor deployment scripts - https://github.com/nation3/nationcred-contracts/pull/91"
+1006660,77877,233,2024-01-23T16:22:50.088569+00:00,0.33,GitHub org role/team configuration
+1006659,4033422,288,2024-01-23T15:50:30.55433+00:00,2,[2h] Refactor deployment script + contract verification - [WIP] https://github.com/nation3/n3bi/blob/build/refactor_deployment_script/hardhat/scripts/deploy-n3bi.ts
+1006653,4033422,288,2024-01-23T11:13:00.595796+00:00,2,[2h] Setup EtherScan API key - contract verification for n3bi - https://sepolia.etherscan.io/address/0x397201fe6CCA8eE9c3bF1a4b4DB27C6bEC47880C#code
 1006555,4033422,288,2024-01-22T17:20:35.842429+00:00,0.33,Deploy n3bi & update deployment info - https://github.com/nation3/n3bi/pull/109
 1006554,77877,233,2024-01-22T16:12:02.210198+00:00,0.5,[0.5h] Reviewed pull requests - https://github.com/nation3/foundations/pulls
 1006552,77877,233,2024-01-22T15:49:59.30664+00:00,0.33,Add Coordinape profile id for citizen 288 - https://github.com/nation3/citizen-rewards/pull/20
