@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1007777,77877,233,2024-01-28T18:31:48.586307+00:00,0.33,Triggered another weekly NationCred workflow  - https://github.com/nation3/nationcred-datasets/actions/runs/7682201561
+1007773,77877,233,2024-01-28T15:43:51.157201+00:00,0.33,Temporarily disable Discourse plugin - https://github.com/nation3/sourcecred-instance/pull/229
 1007334,4033422,288,2024-01-26T12:57:12.709007+00:00,1.5,[1.5] Testnet faucet & deploy Balancer pool  - https://github.com/nation3/.github/pull/10
 1007088,4033422,288,2024-01-25T21:31:52.152937+00:00,1,[1h] deploy new pool to sepolia balancer - https://app.balancer.fi/#/sepolia/pool/0x4228576722a101b2a3929f191990f4d76181976a000200000000000000000079
 1007087,4033422,288,2024-01-25T20:21:35.414693+00:00,1,[1h] contact balancer support & create a PR for nation3 token - https://github.com/balancer/tokenlists/pull/967
