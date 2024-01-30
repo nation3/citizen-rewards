@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1007915,4033422,288,2024-01-29T13:54:44.985846+00:00,3.5,[3.5h] Go through wiki.nation3.org
+1007821,4033422,288,2024-01-29T05:59:51.043634+00:00,0.33,Reviewed PR - https://github.com/nation3/sourcecred-instance/pull/229
 1007777,77877,233,2024-01-28T18:31:48.586307+00:00,0.33,Triggered another weekly NationCred workflow  - https://github.com/nation3/nationcred-datasets/actions/runs/7682201561
 1007773,77877,233,2024-01-28T15:43:51.157201+00:00,0.33,Temporarily disable Discourse plugin - https://github.com/nation3/sourcecred-instance/pull/229
 1007334,4033422,288,2024-01-26T12:57:12.709007+00:00,1.5,[1.5] Testnet faucet & deploy Balancer pool  - https://github.com/nation3/.github/pull/10
