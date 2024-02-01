@@ -1,4 +1,12 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1008546,4033422,288,2024-01-31T09:17:32.600335+00:00,0.5,[0.5h] set future admin  - https://sepolia.etherscan.io/address/0x8100e77899C24b0F7B516153F84868f850C034BF#readContract
+1008545,4033422,288,2024-01-31T09:16:16.0213+00:00,0.5,"[0.5h] fix nonce issue, setParams - https://sepolia.etherscan.io/address/0xdad32e13e73ce4155a181ca0d350fee0f2596940#readContract"
+1008544,4033422,288,2024-01-31T08:30:36.050016+00:00,0.33,Reviewed PR - https://github.com/nation3/wiki/pull/37
+1008543,4033422,288,2024-01-31T08:18:26.098954+00:00,1,[1h] support eth testnet - https://github.com/nation3/app/pull/232
+1008542,4033422,288,2024-01-31T08:17:26.223638+00:00,0.33,PR review - https://github.com/nation3/citizen-rewards/pull/22
+1008529,77877,233,2024-01-31T06:31:58.334237+00:00,1.5,[1.5h] Delete zh locale - https://github.com/nation3/wiki/pull/37
+1008528,77877,233,2024-01-31T05:19:46.587218+00:00,1,[1h] Add Sepolia deployement of app.nation3.org to Vercel - https://app-sepolia.vercel.app/
+1008488,77877,233,2024-01-31T04:47:58.10617+00:00,1,[1h] Reviewed contracts deployed to Sepolia - https://github.com/nation3/foundations/blob/main/deployments/sepolia.json
 1007915,4033422,288,2024-01-29T13:54:44.985846+00:00,3.5,[3.5h] Go through wiki.nation3.org
 1007821,4033422,288,2024-01-29T05:59:51.043634+00:00,0.33,Reviewed PR - https://github.com/nation3/sourcecred-instance/pull/229
 1007777,77877,233,2024-01-28T18:31:48.586307+00:00,0.33,Triggered another weekly NationCred workflow  - https://github.com/nation3/nationcred-datasets/actions/runs/7682201561
