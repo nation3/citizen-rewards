@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1008779,4033422,288,2024-02-01T07:38:00.620437+00:00,0.33,Reviewed PR - https://github.com/nation3/app/pull/197#pullrequestreview-1855734419
+1008778,4033422,288,2024-02-01T07:37:19.185059+00:00,0.33,Reviewed PR - https://github.com/nation3/app/pull/219#pullrequestreview-1855732397
 1008546,4033422,288,2024-01-31T09:17:32.600335+00:00,0.5,[0.5h] set future admin  - https://sepolia.etherscan.io/address/0x8100e77899C24b0F7B516153F84868f850C034BF#readContract
 1008545,4033422,288,2024-01-31T09:16:16.0213+00:00,0.5,"[0.5h] fix nonce issue, setParams - https://sepolia.etherscan.io/address/0xdad32e13e73ce4155a181ca0d350fee0f2596940#readContract"
 1008544,4033422,288,2024-01-31T08:30:36.050016+00:00,0.33,Reviewed PR - https://github.com/nation3/wiki/pull/37
