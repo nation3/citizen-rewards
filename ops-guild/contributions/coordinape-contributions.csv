@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1009411,77877,233,2024-02-05T01:25:45.341837+00:00,0.33,Deleted scam message from Discord.
 1008530,77877,233,2024-01-31T06:44:55.358502+00:00,0.33,Adjust Snapshot quorum to 10% of number of citizens holding valid passports
 1007919,77877,233,2024-01-29T16:30:39.995709+00:00,1.5,"[1.5h] Wrote ""Security for Nation3 Citizens"" - https://app.clarity.so/nation3-public/docs/4c906f3d-cd7f-416b-8c5e-96deba78a8c0"
 1006548,77877,233,2024-01-22T14:42:42.711244+00:00,0.33,Shared access to Nation3 deployer account with <@186364485651398656>
