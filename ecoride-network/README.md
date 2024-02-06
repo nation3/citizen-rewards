@@ -7,3 +7,7 @@ Coordinape Circle: https://app.coordinape.com/welcome/291168b1-df0f-4d1c-b696-03
 ## Coordinape Contributions
 
 See [`contributions/`](contributions/)
+
+## Contribution Rewards
+
+See [`rewards/`](rewards/)
