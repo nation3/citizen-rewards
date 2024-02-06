@@ -1,0 +1,159 @@
+name: Generate Weekly Rewards CSVs (Daily Cron Job)
+
+on:
+  # A new interval every day (midnight)
+  schedule:
+    - cron: 0 1 * * * # 01:00 UTC
+  push:
+    branches:
+      # Allows us to test this workflow
+      - "generate-weekly-rewards-trigger-*"
+
+jobs:
+  development_guild:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: development-guild/rewards/
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pull changes
+        run: |
+          git fetch
+          git pull
+
+      - name: Use Node.js 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+          cache-dependency-path: development-guild/rewards/package-lock.json
+      
+      - name: Install Node.js Packages 🔧
+        run: npm install
+
+        # Generate weekly rewards CSV files 🧮
+      - run: node generate-weekly-csvs.js
+      
+      - name: Commit Changes
+        run: |
+          git config user.name 'NationCred bot'
+          git config user.email 'nationcred.bot@nation3.org'
+          git add weekly/*.csv
+          git commit --allow-empty -m '🧙 development guild - generate weekly rewards csvs'
+      
+      - name: Push Changes
+        run: git push
+
+  ops_guild:
+    needs: development_guild
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ops-guild/rewards/
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pull changes
+        run: |
+          git fetch
+          git pull
+
+      - name: Use Node.js 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+          cache-dependency-path: ops-guild/rewards/package-lock.json
+      
+      - name: Install Node.js Packages 🔧
+        run: npm install
+
+        # Generate weekly rewards CSV files 🧮
+      - run: node generate-weekly-csvs.js
+      
+      - name: Commit Changes
+        run: |
+          git config user.name 'NationCred bot'
+          git config user.email 'nationcred.bot@nation3.org'
+          git add weekly/*.csv
+          git commit --allow-empty -m '⚙️ ops guild - generate weekly rewards csvs'
+      
+      - name: Push Changes
+        run: git push
+
+  marketing_guild:
+    needs: ops_guild
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: marketing-guild/rewards/
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pull changes
+        run: |
+          git fetch
+          git pull
+
+      - name: Use Node.js 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+          cache-dependency-path: marketing-guild/rewards/package-lock.json
+      
+      - name: Install Node.js Packages 🔧
+        run: npm install
+
+        # Generate weekly rewards CSV files 🧮
+      - run: node generate-weekly-csvs.js
+      
+      - name: Commit Changes
+        run: |
+          git config user.name 'NationCred bot'
+          git config user.email 'nationcred.bot@nation3.org'
+          git add weekly/*.csv
+          git commit --allow-empty -m '🎥 marketing guild - generate weekly rewards csvs'
+      
+      - name: Push Changes
+        run: git push
+
+  ecoride_network:
+    needs: marketing_guild
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ecoride-network/rewards/
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pull changes
+        run: |
+          git fetch
+          git pull
+
+      - name: Use Node.js 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: npm
+          cache-dependency-path: ecoride-network/rewards/package-lock.json
+      
+      - name: Install Node.js Packages 🔧
+        run: npm install
+
+        # Generate weekly rewards CSV files 🧮
+      - run: node generate-weekly-csvs.js
+      
+      - name: Commit Changes
+        run: |
+          git config user.name 'NationCred bot'
+          git config user.email 'nationcred.bot@nation3.org'
+          git add weekly/*.csv
+          git commit --allow-empty -m '🌳 ecoride network - generate weekly rewards csvs'
+      
+      - name: Push Changes
+        run: git push
+      
