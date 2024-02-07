@@ -1,0 +1,15 @@
+{
+  "name": "rewards",
+  "version": "1.0.0",
+  "description": "Contributor rewards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nation3 DAO",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "csv-stringify": "^6.4.5",
+    "papaparse": "^5.4.1"
+  }
+}
