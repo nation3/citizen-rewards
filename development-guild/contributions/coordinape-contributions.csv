@@ -1,4 +1,9 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1009840,4033422,288,2024-02-07T13:34:08.346104+00:00,0.33,Check citizen-directory repo
+1009800,4033422,288,2024-02-07T12:57:33.590536+00:00,11,[11] The drafted document for NationCred - https://app.dework.xyz/nation3/development-guild-43499?taskId=43e70984-3b39-4ebb-8a8f-2b1d11d789c0
+1009798,4033422,288,2024-02-07T11:48:09.406003+00:00,1.5,[1.5h] Read NationCred smartcontract - https://app.dework.xyz/nation3/development-guild-43499?taskId=43e70984-3b39-4ebb-8a8f-2b1d11d789c0
+1009797,4033422,288,2024-02-07T11:47:36.710196+00:00,0.5,[0.5h] Review PR - https://github.com/nation3/nationcred-contracts/pull/93#pullrequestreview-1867603432
+1009790,4033422,288,2024-02-07T06:37:38.632414+00:00,1,[1h] Reviewd PR - https://github.com/nation3/citizen-rewards/pull/23#pullrequestreview-1866999162
 1009784,77877,233,2024-02-06T16:01:54.627852+00:00,2,[2h] Distribute rewards - Dev Guild https://github.com/nation3/nationcred-contracts/pull/93
 1009778,77877,233,2024-02-06T14:42:35.422202+00:00,2,[2h] Add weekly rewards CSVs - https://github.com/nation3/citizen-rewards/pull/23
 1009735,77877,233,2024-02-06T12:19:52.498846+00:00,4,[4h] Add weekly Ops Guild rewards - https://github.com/nation3/citizen-rewards/pull/23
