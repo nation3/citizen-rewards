@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1010092,77877,233,2024-02-10T16:03:03.814376+00:00,2,[2h] Distributing weekly citizen rewards - https://github.com/nation3/nationcred-contracts/pull/95
 1010088,77877,233,2024-02-09T21:34:29.828689+00:00,0.33,Reviewed PR - https://github.com/nation3/citizen-directory/pull/61
 1010044,77877,233,2024-02-09T14:15:45.632697+00:00,0.5,[0.5h] Prepared DigitalOcean credentials for `@nttin2002` - https://discord.com/channels/690584551239581708/1198342487304056853/1205516527974088764
 1009952,4033422,288,2024-02-09T04:41:09.235051+00:00,2,[2h] Fix passports display error - https://github.com/nation3/citizen-directory/pull/61
