@@ -1,4 +1,20 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1010203,4033422,288,2024-02-12T12:58:47.666042+00:00,0.33,Reviewed contract - https://github.com/nation3/citizen-directory/pull/63
+1010202,4033422,288,2024-02-12T12:56:34.009478+00:00,2.5,"[2.5h] Disable verification on localnet, refactor code - https://github.com/nation3/nationcred-contracts/pull/107"
+1010201,77877,233,2024-02-12T12:19:19.501026+00:00,2.5,[2.5h] Calculate `total_revoked_passports` - https://github.com/nation3/nationcred-datasets/pull/126
+1010200,4033422,288,2024-02-12T11:34:54.259873+00:00,0.33,Reviewed PR - https://github.com/nation3/nationcred-contracts/pull/102
+1010196,77877,233,2024-02-12T08:14:53.604092+00:00,1.5,"[1.5h] Rename to ""voting escrow"" - https://github.com/nation3/nationcred-datasets/pull/124"
+1010195,77877,233,2024-02-12T07:21:18.468506+00:00,1,[1h] Require valid passport when setting username - https://github.com/nation3/nationcred-contracts/pull/105
+1010194,77877,233,2024-02-12T06:04:48.033446+00:00,0.67,[0.67h] Store gas report in file during local testing - https://github.com/nation3/nationcred-contracts/pull/102
+1010193,77877,233,2024-02-12T05:45:06.801005+00:00,0.33,Released v0.6.6 of the npm package - https://www.npmjs.com/package/@nation3/nationcred-contracts?activeTab=versions
+1010192,77877,233,2024-02-12T05:40:20.655764+00:00,0.33,"Renamed from ""uniswap"" to ""swap"" in GitHub and Vercel config - https://github.com/nation3/swap"
+1010191,77877,233,2024-02-12T05:38:13.429995+00:00,0.33,Archived the `redirects` repo - https://github.com/nation3/redirects
+1010189,77877,233,2024-02-12T05:22:52.035704+00:00,0.33,Migrate UI tests to Sepolia - https://github.com/nation3/app/pull/234
+1010188,77877,233,2024-02-12T05:08:53.811018+00:00,0.5,[0.5h] Deploy Discord/Discourse usernames smart contracts to Sepolia - https://github.com/nation3/nationcred-contracts/pull/98
+1010187,4033422,288,2024-02-12T03:34:40.367927+00:00,0.33,Reviewed PR -  https://github.com/nation3/sourcecred-instance/pull/233
+1010186,4033422,288,2024-02-12T03:34:09.613092+00:00,0.33,Reviewed PR - https://github.com/nation3/sourcecred-instance/pull/232
+1010185,77877,233,2024-02-12T01:40:15.908447+00:00,0.33,Enable Discourse plugin - https://github.com/nation3/sourcecred-instance/pull/233
+1010184,77877,233,2024-02-12T01:37:30.140722+00:00,0.33,Reviewed and merged weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/232
 1010178,77877,233,2024-02-11T11:17:09.731975+00:00,2,[2h] Refactor folder structure - https://github.com/nation3/nationcred-contracts/pull/96
 1010177,77877,233,2024-02-11T09:17:13.125636+00:00,3,[3h] Distributing weekly citizen rewards - https://github.com/nation3/nationcred-contracts/pull/95
 1010092,77877,233,2024-02-10T16:03:03.814376+00:00,2,[2h] Distributing weekly citizen rewards - https://github.com/nation3/nationcred-contracts/pull/95
