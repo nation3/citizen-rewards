@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1010251,4033422,288,2024-02-13T12:55:32.106181+00:00,3,[3h] Document NATION3 Infrastructure - [WIP] https://chris-nguyen.notion.site/Foundation-repo-7bcffdcad6e14f118c63f5bdccc98e6e?pvs=4
 1010203,4033422,288,2024-02-12T12:58:47.666042+00:00,0.33,Reviewed contract - https://github.com/nation3/citizen-directory/pull/63
 1010202,4033422,288,2024-02-12T12:56:34.009478+00:00,2.5,"[2.5h] Disable verification on localnet, refactor code - https://github.com/nation3/nationcred-contracts/pull/107"
 1010201,77877,233,2024-02-12T12:19:19.501026+00:00,2.5,[2.5h] Calculate `total_revoked_passports` - https://github.com/nation3/nationcred-datasets/pull/126
