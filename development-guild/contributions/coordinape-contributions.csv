@@ -1,4 +1,9 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1010309,4033422,288,2024-02-14T17:39:00.890589+00:00,4,"[4h]  Support sepolia, verification scripts - https://github.com/nation3/jurisdiction/pull/6"
+1010307,4033422,288,2024-02-14T16:23:14.067255+00:00,1,"[1h] Transfer ownership for Passport, PassportIssuer & veNation"
+1010306,4033422,288,2024-02-14T14:58:55.597668+00:00,0.75,[0.75h] Wrong chain - https://github.com/nation3/app/pull/236
+1010303,4033422,288,2024-02-14T08:24:48.641957+00:00,0.33,Reviewed PR - https://github.com/nation3/.github/pull/11#pullrequestreview-1879645423
+1010302,77877,233,2024-02-14T07:50:41.003503+00:00,1.5,[1.5h] Deployed Aragon OSx DAO Agent on Sepolia testnet - https://app.aragon.org/#/daos/sepolia/0xfbb66bc799308435ed2a0e0c0ac3ad1d46749b7b
 1010251,4033422,288,2024-02-13T12:55:32.106181+00:00,3,[3h] Document NATION3 Infrastructure - [WIP] https://chris-nguyen.notion.site/Foundation-repo-7bcffdcad6e14f118c63f5bdccc98e6e?pvs=4
 1010203,4033422,288,2024-02-12T12:58:47.666042+00:00,0.33,Reviewed contract - https://github.com/nation3/citizen-directory/pull/63
 1010202,4033422,288,2024-02-12T12:56:34.009478+00:00,2.5,"[2.5h] Disable verification on localnet, refactor code - https://github.com/nation3/nationcred-contracts/pull/107"
