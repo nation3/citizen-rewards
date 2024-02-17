@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1010494,77877,233,2024-02-16T14:33:47.247769+00:00,0.33,Reviewed PR - https://github.com/nation3/jurisdiction/pull/7
+1010491,4033422,288,2024-02-16T08:56:31.835403+00:00,2,"[2h] Redeploy contracts, verification and update README - https://github.com/nation3/jurisdiction/pull/7"
+1010490,4033422,288,2024-02-16T08:19:50.899995+00:00,2,[2h] Fix foundry version issue - https://github.com/nation3/jurisdiction
 1010309,4033422,288,2024-02-14T17:39:00.890589+00:00,4,"[4h]  Support sepolia, verification scripts - https://github.com/nation3/jurisdiction/pull/6"
 1010307,4033422,288,2024-02-14T16:23:14.067255+00:00,1,"[1h] Transfer ownership for Passport, PassportIssuer & veNation"
 1010306,4033422,288,2024-02-14T14:58:55.597668+00:00,0.75,[0.75h] Wrong chain - https://github.com/nation3/app/pull/236
