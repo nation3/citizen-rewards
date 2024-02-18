@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1010585,77877,233,2024-02-17T12:16:57.923273+00:00,0.33,PR review - https://github.com/nation3/jurisdiction/pull/7
+1010584,4033422,288,2024-02-17T11:58:22.209934+00:00,0.33,Update instruction for verification script - https://github.com/nation3/jurisdiction/pull/7
+1010543,4033422,288,2024-02-17T04:40:57.665205+00:00,0.33,Reviewed PR - https://github.com/nation3/app/pull/237
 1010494,77877,233,2024-02-16T14:33:47.247769+00:00,0.33,Reviewed PR - https://github.com/nation3/jurisdiction/pull/7
 1010491,4033422,288,2024-02-16T08:56:31.835403+00:00,2,"[2h] Redeploy contracts, verification and update README - https://github.com/nation3/jurisdiction/pull/7"
 1010490,4033422,288,2024-02-16T08:19:50.899995+00:00,2,[2h] Fix foundry version issue - https://github.com/nation3/jurisdiction
