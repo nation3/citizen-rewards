@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1011127,77877,233,2024-02-22T05:04:11.576439+00:00,0.5,[0.5h] Removed `swap` subdomain after abuse report from domain name registrar.
 1010305,77877,233,2024-02-14T12:29:32.906834+00:00,1,"[1h] Add Sepolia URL to contributing guidelines, and created new subdomain in Vercel & DNS - https://github.com/nation3/.github/pull/12"
 1010198,77877,233,2024-02-12T09:46:00.487336+00:00,0.33,Scheduled reimbursement to citizen 202 from the Ops Guild multisig - https://discord.com/channels/690584551239581708/1206533187485040650/1206535632424411137
 1010197,3780245,272,2024-02-12T09:22:52.327205+00:00,0.33,signed and executed 2 transactions.
