@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1011410,77877,233,2024-02-25T14:47:29.453344+00:00,0.33,Published v0.6.8 on npm - https://www.npmjs.com/package/@nation3/nationcred-contracts
+1011409,77877,233,2024-02-25T14:22:48.917767+00:00,3,[3h] Upgrade to OpenZeppelin v5 - https://github.com/nation3/nationcred-contracts/pull/109
+1011408,77877,233,2024-02-25T12:28:50.595071+00:00,0.33,Debug failed weekly NationCred dataset generation - https://github.com/nation3/nationcred-datasets/actions/runs/8034296053
+1011328,4033422,288,2024-02-25T02:47:36.237727+00:00,0.33,Reviewed PR - https://github.com/nation3/sourcecred-instance/pull/237
 1011323,4033422,288,2024-02-24T08:24:09.937886+00:00,0.33,Reviewed PR - https://github.com/nation3/app/pull/242
 1011224,4033422,288,2024-02-23T05:31:12.637934+00:00,0.33,Reviewed PR - https://github.com/nation3/app/pull/241
 1011080,4033422,288,2024-02-22T02:01:26.961003+00:00,0.33,Reviewed PR - https://github.com/nation3/app/pull/240
