@@ -1,4 +1,10 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1011467,77877,233,2024-02-26T15:20:42.222497+00:00,3.5,[3.5h] Add UI for checking eligibility - https://github.com/nation3/n3bi/issues/108
+1011462,4033422,288,2024-02-26T12:22:22.964911+00:00,0.33,Reviewed PR - https://github.com/nation3/n3bi/pull/116
+1011461,77877,233,2024-02-26T11:45:25.504265+00:00,1,[1h] Rename smart contract to BasicIncomeDistributor - https://github.com/nation3/n3bi/pull/116
+1011460,4033422,288,2024-02-26T10:27:25.920869+00:00,0.5,[0.5h] Disable contract verification on localnet - https://github.com/nation3/n3bi/pull/115
+1011459,4033422,288,2024-02-26T09:58:31.054836+00:00,0.33,Reviewed PR - https://github.com/nation3/n3bi/pull/114
+1011458,77877,233,2024-02-26T09:29:01.02629+00:00,1.5,[1.5h] Upgrade OpenZeppelin to v5 - https://github.com/nation3/n3bi/pull/114
 1011410,77877,233,2024-02-25T14:47:29.453344+00:00,0.33,Published v0.6.8 on npm - https://www.npmjs.com/package/@nation3/nationcred-contracts
 1011409,77877,233,2024-02-25T14:22:48.917767+00:00,3,[3h] Upgrade to OpenZeppelin v5 - https://github.com/nation3/nationcred-contracts/pull/109
 1011408,77877,233,2024-02-25T12:28:50.595071+00:00,0.33,Debug failed weekly NationCred dataset generation - https://github.com/nation3/nationcred-datasets/actions/runs/8034296053
