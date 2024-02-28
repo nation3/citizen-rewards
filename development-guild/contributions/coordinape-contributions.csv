@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1011475,4033422,288,2024-02-27T05:50:00.028315+00:00,0.33,Reviewed PR - https://github.com/nation3/website/pull/26
+1011472,4033422,288,2024-02-27T04:41:41.666859+00:00,0.33,Reviewed PR - https://github.com/nation3/nationcred-contracts/pull/110
 1011467,77877,233,2024-02-26T15:20:42.222497+00:00,3.5,[3.5h] Add UI for checking eligibility - https://github.com/nation3/n3bi/issues/108
 1011462,4033422,288,2024-02-26T12:22:22.964911+00:00,0.33,Reviewed PR - https://github.com/nation3/n3bi/pull/116
 1011461,77877,233,2024-02-26T11:45:25.504265+00:00,1,[1h] Rename smart contract to BasicIncomeDistributor - https://github.com/nation3/n3bi/pull/116
