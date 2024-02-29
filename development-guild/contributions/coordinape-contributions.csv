@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1011613,77877,233,2024-02-28T13:32:29.114075+00:00,2,[2h] Worked on restoring functionality for agreements.nation3.org
+1011612,4033422,288,2024-02-28T12:42:50.05536+00:00,1,[1h] Debug agreements-app
+1011570,77877,233,2024-02-28T05:59:57.783741+00:00,2,[2h] Researched possible integration with Midcontract - https://discord.com/channels/690584551239581708/1211979646476881980
 1011475,4033422,288,2024-02-27T05:50:00.028315+00:00,0.33,Reviewed PR - https://github.com/nation3/website/pull/26
 1011472,4033422,288,2024-02-27T04:41:41.666859+00:00,0.33,Reviewed PR - https://github.com/nation3/nationcred-contracts/pull/110
 1011467,77877,233,2024-02-26T15:20:42.222497+00:00,3.5,[3.5h] Add UI for checking eligibility - https://github.com/nation3/n3bi/issues/108
