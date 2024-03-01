@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1011772,77877,233,2024-02-29T13:11:00.17558+00:00,0.33,Reviewing and testing of PR for restoring the Agreements UI - https://github.com/nation3/agreements-app/pull/143
+1011768,4033422,288,2024-02-29T12:30:52.618908+00:00,1.5,"[1.5h] Fix web3.storage, use nft.storage provider - https://github.com/nation3/agreements-app/pull/143"
+1011767,4033422,288,2024-02-29T12:03:36.839981+00:00,1,[1h] Fix agreement dependencies
+1011683,4033422,288,2024-02-29T07:54:34.953361+00:00,2.5,"[2.5h] Upgrade web3storage version, fix ipfs-car"
 1011613,77877,233,2024-02-28T13:32:29.114075+00:00,2,[2h] Worked on restoring functionality for agreements.nation3.org
 1011612,4033422,288,2024-02-28T12:42:50.05536+00:00,1,[1h] Debug agreements-app
 1011570,77877,233,2024-02-28T05:59:57.783741+00:00,2,[2h] Researched possible integration with Midcontract - https://discord.com/channels/690584551239581708/1211979646476881980
