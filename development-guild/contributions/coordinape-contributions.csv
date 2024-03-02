@@ -1,4 +1,10 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1011916,4033422,288,2024-03-01T13:18:55.973036+00:00,2.5,"[2.5h] Resolve merge conflict, Test agreement creation"
+1011906,4033422,288,2024-03-01T12:18:30.529808+00:00,0.33,Reviewed PR - https://github.com/nation3/sourcecred-instance/pull/239
+1011904,77877,233,2024-03-01T11:41:13.508908+00:00,0.33,Review https://github.com/nation3/agreements-app/pull/145
+1011899,4033422,288,2024-03-01T08:54:23.550112+00:00,2,[2h] Setup and deploy subgraph - https://thegraph.com/hosted-service/subgraph/ttnguyendev/nation3-court-subgraph
+1011893,4033422,288,2024-03-01T07:35:53.183943+00:00,2.5,[2.5h] Remove unsupported testnets - https://github.com/nation3/agreements-app/pull/145
+1011892,4033422,288,2024-03-01T04:33:29.848965+00:00,0.33,Reviewed PR - https://github.com/nation3/nationcred-contracts/pull/113
 1011772,77877,233,2024-02-29T13:11:00.17558+00:00,0.33,Reviewing and testing of PR for restoring the Agreements UI - https://github.com/nation3/agreements-app/pull/143
 1011768,4033422,288,2024-02-29T12:30:52.618908+00:00,1.5,"[1.5h] Fix web3.storage, use nft.storage provider - https://github.com/nation3/agreements-app/pull/143"
 1011767,4033422,288,2024-02-29T12:03:36.839981+00:00,1,[1h] Fix agreement dependencies
