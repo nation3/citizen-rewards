@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1012131,77877,233,2024-03-02T11:37:22.233814+00:00,0.5,[0.5h] Add link to citizen directory in citizen app - https://github.com/nation3/citizen-app/pull/244
+1012130,4033422,288,2024-03-02T11:23:49.721822+00:00,1,"[1h] Subgraph instruction, refactor - https://github.com/nation3/agreements-contracts/pull/10"
+1012129,4033422,288,2024-03-02T10:53:23.438639+00:00,1,[1h] New subgraphs for agreements app - https://github.com/nation3/agreements-app/pull/150
+1012008,4033422,288,2024-03-02T02:52:27.304317+00:00,0.33,"Resolved 2 issuses, test agreement creation on sepolia - #148, #149"
 1011916,4033422,288,2024-03-01T13:18:55.973036+00:00,2.5,"[2.5h] Resolve merge conflict, Test agreement creation"
 1011906,4033422,288,2024-03-01T12:18:30.529808+00:00,0.33,Reviewed PR - https://github.com/nation3/sourcecred-instance/pull/239
 1011904,77877,233,2024-03-01T11:41:13.508908+00:00,0.33,Review https://github.com/nation3/agreements-app/pull/145
