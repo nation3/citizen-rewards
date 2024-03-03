@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1012132,77877,233,2024-03-02T11:40:16.958047+00:00,0.33,Renamed from `citizen-app` to `citizen-app-mainnet` in Vercel
+1012009,77877,233,2024-03-02T03:32:51.057654+00:00,0.33,Grant GitHub org access to ttnguyen so that he can administrate the Nation3 Subgraphs
 1011476,77877,233,2024-02-27T06:31:43.131668+00:00,2,[2h] Renamed GitHub repos
 1011474,77877,233,2024-02-27T05:41:53.434048+00:00,0.33,Added `agreements-sepolia` to DNS
 1011471,77877,233,2024-02-27T04:29:37.466341+00:00,0.33,Updated Discourse password
