@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1012304,77877,233,2024-03-03T08:19:54.74406+00:00,0.33,Adjust Snapshot quorum to 10% of 113 - https://app.dework.xyz/nation3/ops-guild-644?taskId=6678217c-bc16-4c90-8c6b-07e908bd0f36
+1012303,77877,233,2024-03-03T07:04:25.788959+00:00,0.33,Review and merge weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/240
+1012301,77877,233,2024-03-03T01:41:25.474121+00:00,0.33,Re-run failing weekly GitHub Action - https://github.com/nation3/nationcred-datasets/actions/runs/8126521514/job/22210361627
 1012132,77877,233,2024-03-02T11:40:16.958047+00:00,0.33,Renamed from `citizen-app` to `citizen-app-mainnet` in Vercel
 1012009,77877,233,2024-03-02T03:32:51.057654+00:00,0.33,Grant GitHub org access to ttnguyen so that he can administrate the Nation3 Subgraphs
 1011476,77877,233,2024-02-27T06:31:43.131668+00:00,2,[2h] Renamed GitHub repos
