@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1012308,4033422,288,2024-03-03T12:05:30.017148+00:00,0.5,[0.5h] Reviewed & tested PR - https://github.com/nation3/agreements-app/pull/151
+1012306,77877,233,2024-03-03T10:17:28.094205+00:00,2.5,[2.5h] Refactor environment variables - https://github.com/nation3/agreements-app/pull/151
 1012131,77877,233,2024-03-02T11:37:22.233814+00:00,0.5,[0.5h] Add link to citizen directory in citizen app - https://github.com/nation3/citizen-app/pull/244
 1012130,4033422,288,2024-03-02T11:23:49.721822+00:00,1,"[1h] Subgraph instruction, refactor - https://github.com/nation3/agreements-contracts/pull/10"
 1012129,4033422,288,2024-03-02T10:53:23.438639+00:00,1,[1h] New subgraphs for agreements app - https://github.com/nation3/agreements-app/pull/150
