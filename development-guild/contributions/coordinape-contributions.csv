@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1012602,4033422,288,2024-03-05T15:05:33.861623+00:00,0.33,Reviewed PR - https://github.com/nation3/agreements-app/pull/154
+1012583,4033422,288,2024-03-05T08:35:32.108885+00:00,2,[2h] Debug graphql error
+1012582,77877,233,2024-03-05T07:04:19.706254+00:00,0.33,Test Agreements dApp - https://agreements-sepolia.nation3.org/agreements
 1012433,4033422,288,2024-03-04T04:41:33.703304+00:00,0.33,Reviewed PR - https://github.com/nation3/nationcred-contracts/pull/114
 1012308,4033422,288,2024-03-03T12:05:30.017148+00:00,0.5,[0.5h] Reviewed & tested PR - https://github.com/nation3/agreements-app/pull/151
 1012306,77877,233,2024-03-03T10:17:28.094205+00:00,2.5,[2.5h] Refactor environment variables - https://github.com/nation3/agreements-app/pull/151
