@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1014009,77877,233,2024-03-15T07:50:17.983064+00:00,0.33,Review and merge weekly SourceCred grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/241
+1013965,4033422,288,2024-03-15T03:28:29.438483+00:00,0.33,Reviewed PR - https://github.com/nation3/sourcecred-instance/pull/242
 1012602,4033422,288,2024-03-05T15:05:33.861623+00:00,0.33,Reviewed PR - https://github.com/nation3/agreements-app/pull/154
 1012583,4033422,288,2024-03-05T08:35:32.108885+00:00,2,[2h] Debug graphql error
 1012582,77877,233,2024-03-05T07:04:19.706254+00:00,0.33,Test Agreements dApp - https://agreements-sepolia.nation3.org/agreements
