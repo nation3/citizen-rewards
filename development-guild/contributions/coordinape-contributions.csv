@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1014955,77877,233,2024-03-24T09:35:24.423947+00:00,0.33,Merge weekly SourceCred PR - https://github.com/nation3/sourcecred-instance/pull/246
 1014282,77877,233,2024-03-18T13:29:50.817864+00:00,0.33,Review and merge weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/243
 1014278,4033422,288,2024-03-18T07:00:59.43711+00:00,0.33,PR Reviewed - https://github.com/nation3/sourcecred-instance/pull/244
 1014009,77877,233,2024-03-15T07:50:17.983064+00:00,0.33,Review and merge weekly SourceCred grain distribution PR - https://github.com/nation3/sourcecred-instance/pull/241
