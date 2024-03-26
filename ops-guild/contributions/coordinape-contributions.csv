@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1015009,77877,233,2024-03-25T15:09:04.412373+00:00,0.33,Scheduled payment of https://app.dework.xyz/nation3/open-bounties-95838?taskId=8c5123e9-bb2b-4efe-a3fe-7d832e91186e via Ops Guild multisig
 1012304,77877,233,2024-03-03T08:19:54.74406+00:00,0.33,Adjust Snapshot quorum to 10% of 113 - https://app.dework.xyz/nation3/ops-guild-644?taskId=6678217c-bc16-4c90-8c6b-07e908bd0f36
 1012303,77877,233,2024-03-03T07:04:25.788959+00:00,0.33,Review and merge weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/240
 1012301,77877,233,2024-03-03T01:41:25.474121+00:00,0.33,Re-run failing weekly GitHub Action - https://github.com/nation3/nationcred-datasets/actions/runs/8126521514/job/22210361627
