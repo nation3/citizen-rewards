@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1017116,77877,233,2024-04-04T17:42:46.28607+00:00,0.33,Fund Ops Guild multisig
+1017032,77877,233,2024-04-04T12:16:47.192457+00:00,0.33,Reminded Okhai and Abu to sign the pending transaction in the old Safe multisig.
+1017031,77877,233,2024-04-04T12:01:56.103143+00:00,0.33,"Asked Luis to transfer the `nation3.eth` NFT to the DAO, and transfer the 479 $NATION tokens in `solarguild.eth` to the DAO."
 1015322,77877,233,2024-03-29T06:54:10.287676+00:00,0.33,Reset increasing gas cost for veNATION smart contract - https://etherscan.io/tx/0x805f34dc0e363b98de50acc67aea718d0045dc1f2232cc308679cec21567b13b
 1015009,77877,233,2024-03-25T15:09:04.412373+00:00,0.33,Scheduled payment of https://app.dework.xyz/nation3/open-bounties-95838?taskId=8c5123e9-bb2b-4efe-a3fe-7d832e91186e via Ops Guild multisig
 1012304,77877,233,2024-03-03T08:19:54.74406+00:00,0.33,Adjust Snapshot quorum to 10% of 113 - https://app.dework.xyz/nation3/ops-guild-644?taskId=6678217c-bc16-4c90-8c6b-07e908bd0f36
