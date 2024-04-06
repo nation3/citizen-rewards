@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1017258,77877,233,2024-04-05T13:09:41.844993+00:00,0.5,[0.5h] Transfer passport from hacked account to new address - Add to DAO Agent.
 1017116,77877,233,2024-04-04T17:42:46.28607+00:00,0.33,Fund Ops Guild multisig
 1017032,77877,233,2024-04-04T12:16:47.192457+00:00,0.33,Reminded Okhai and Abu to sign the pending transaction in the old Safe multisig.
 1017031,77877,233,2024-04-04T12:01:56.103143+00:00,0.33,"Asked Luis to transfer the `nation3.eth` NFT to the DAO, and transfer the 479 $NATION tokens in `solarguild.eth` to the DAO."
