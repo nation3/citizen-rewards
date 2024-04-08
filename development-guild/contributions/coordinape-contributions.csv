@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1017620,4033422,288,2024-04-07T17:31:53.018584+00:00,1,"[1h] update readme, test 2 weeks config"
+1017575,77877,233,2024-04-07T05:05:36.487312+00:00,0.33,Review and merge weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/248
 1017488,77877,233,2024-04-06T16:27:52.462859+00:00,0.33,Reviewed PR - https://github.com/nation3/nationcred-datasets/pull/127
 1017487,4033422,288,2024-04-06T13:08:44.045982+00:00,1,[1h] Adjust activity logic - https://github.com/nation3/nationcred-datasets/pull/127
 1017171,77877,233,2024-04-05T09:00:30.500321+00:00,0.33,Merged passport utils PR.
