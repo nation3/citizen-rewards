@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1017679,77877,233,2024-04-08T15:05:17.345477+00:00,0.5,[0.5h] Review NationCred PR - https://github.com/nation3/nationcred-datasets/pull/127#issuecomment-2043001146
+1017678,77877,233,2024-04-08T14:44:47.281136+00:00,1.5,[1.5h] Debug failing transferOwnership for citizen #288
+1017676,4033422,288,2024-04-08T12:39:54.082411+00:00,0.5,[0.5h] Update active citizen logic - https://github.com/nation3/nationcred-datasets/pull/127
+1017675,77877,233,2024-04-08T11:03:37.434327+00:00,0.33,Review PR - https://github.com/nation3/nationcred-datasets/pull/127#pullrequestreview-1986094753
 1017620,4033422,288,2024-04-07T17:31:53.018584+00:00,1,"[1h] update readme, test 2 weeks config"
 1017575,77877,233,2024-04-07T05:05:36.487312+00:00,0.33,Review and merge weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/248
 1017488,77877,233,2024-04-06T16:27:52.462859+00:00,0.33,Reviewed PR - https://github.com/nation3/nationcred-datasets/pull/127
