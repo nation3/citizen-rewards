@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1017672,77877,233,2024-04-08T10:51:46.522801+00:00,0.33,Created Dework bounty - https://app.dework.xyz/nation3/open-bounties-95838?taskId=c2fe2f2f-feb1-4694-9b39-aa33f00f3b1b
+1017671,77877,233,2024-04-08T10:38:42.722042+00:00,0.33,"Ratification of ""Increase Cost of Minting a Passport"" proposal - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x1"
+1017670,77877,233,2024-04-08T10:36:52.395487+00:00,0.33,Fund NationCred operator - https://discord.com/channels/690584551239581708/1226843053088571412
+1017669,77877,233,2024-04-08T10:01:37.899578+00:00,0.5,"[0.5h] Sent bug report to Aragon about the failing proposal execution at nation3agent.dao.eth - ""Thanks! Your reference is ACS-776. Check hi@nation3.org for a confirmation and updates."""
 1017258,77877,233,2024-04-05T13:09:41.844993+00:00,0.5,[0.5h] Transfer passport from hacked account to new address - Add to DAO Agent.
 1017116,77877,233,2024-04-04T17:42:46.28607+00:00,0.33,Fund Ops Guild multisig
 1017032,77877,233,2024-04-04T12:16:47.192457+00:00,0.33,Reminded Okhai and Abu to sign the pending transaction in the old Safe multisig.
