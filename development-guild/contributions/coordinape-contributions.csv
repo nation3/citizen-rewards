@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1017918,4033422,288,2024-04-11T13:49:37.798728+00:00,0.5,[0.5h] Reviewed PR - https://github.com/nation3/nationcred-datasets/pull/129
 1017813,77877,233,2024-04-09T14:51:15.556972+00:00,3,[3h] allow 1 week of inactivity https://github.com/nation3/nationcred-datasets/pull/129
 1017679,77877,233,2024-04-08T15:05:17.345477+00:00,0.5,[0.5h] Review NationCred PR - https://github.com/nation3/nationcred-datasets/pull/127#issuecomment-2043001146
 1017678,77877,233,2024-04-08T14:44:47.281136+00:00,1.5,[1.5h] Debug failing transferOwnership for citizen #288
