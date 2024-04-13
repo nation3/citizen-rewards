@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1018172,77877,233,2024-04-12T16:28:53.490228+00:00,1.5,[1.5h] Deploy `DeveloperSkillLevels.sol` - https://etherscan.io/tx/0x0f60e8e727c1cc550878ea6cc0499bf8cce7c59177e4734ca7fd3de1b698cf12
+1018171,77877,233,2024-04-12T15:53:07.234032+00:00,1,[1h] 🫥 chore: upgrade to solidity 0.8.25 - https://github.com/nation3/nationcred-contracts/pull/125
 1017918,4033422,288,2024-04-11T13:49:37.798728+00:00,0.5,[0.5h] Reviewed PR - https://github.com/nation3/nationcred-datasets/pull/129
 1017813,77877,233,2024-04-09T14:51:15.556972+00:00,3,[3h] allow 1 week of inactivity https://github.com/nation3/nationcred-datasets/pull/129
 1017679,77877,233,2024-04-08T15:05:17.345477+00:00,0.5,[0.5h] Review NationCred PR - https://github.com/nation3/nationcred-datasets/pull/127#issuecomment-2043001146
