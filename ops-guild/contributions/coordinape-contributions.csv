@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1018592,77877,233,2024-04-15T09:36:27.777176+00:00,0.33,Set correct address of PassportUtils smart contract - https://etherscan.io/tx/0xfd49c7231186e328c5e02fad6b129564ecab45bb327405c1a5716a5301865cf8
+1018590,77877,233,2024-04-15T08:57:37.505135+00:00,2,[2h] Add new roles for Developer Level 1-5 and Operator Level 1-5 - https://guild.xyz/nation3
+1018588,77877,233,2024-04-15T06:31:29.783477+00:00,0.33,Reviewed and merged weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/249
+1018585,77877,233,2024-04-15T06:03:20.028586+00:00,0.5,[0.5h] Set env variables - https://github.com/nation3/citizen-app/pull/247
 1018535,77877,233,2024-04-14T08:03:50.024037+00:00,0.33,Execute transfer of passport #288
 1018169,77877,233,2024-04-12T14:59:45.619951+00:00,2,[2h] Create DAO Agent proposal for transferring passport from hacked account - https://etherscan.io/tx/0x6f7d39e59be826cec0cbb6feb2176eddb6495645e39668021bfa1b1d842ad168
 1018127,77877,233,2024-04-12T09:18:34.786644+00:00,0.33,Fund Nation3 Deployer - https://etherscan.io/tx/0x1c44ff0e5c8492bea6d21d2f6461d42d632c2f53a34edcf681ed716094958db5
