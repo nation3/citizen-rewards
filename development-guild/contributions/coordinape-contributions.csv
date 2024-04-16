@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1018593,77877,233,2024-04-15T10:04:53.999739+00:00,0.75,[0.75h] Enable Solidity optimizer - https://github.com/nation3/n3bi/pull/120
+1018591,77877,233,2024-04-15T09:26:01.313979+00:00,0.33,Released version 0.7.0 of npm package - https://www.npmjs.com/package/@nation3/nationcred-contracts
 1018538,77877,233,2024-04-14T14:37:04.499038+00:00,0.33,Deploy Operator skill levels smart contract - https://etherscan.io/tx/0x34c072386d5977f51d5a3c8216af893352cc239770e67f8588699e54b10b433e
 1018536,77877,233,2024-04-14T14:26:01.244397+00:00,1,[1h] Deploy dev skill levels smart contract - https://github.com/nation3/nationcred-contracts/pull/126
 1018534,4033422,288,2024-04-14T06:09:53.953847+00:00,0.5,[0.5h] Review https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x2
