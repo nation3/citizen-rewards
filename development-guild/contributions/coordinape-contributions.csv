@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1018730,4033422,288,2024-04-16T11:37:54.239015+00:00,1.5,[1.5h] Claim function
+1018729,4033422,288,2024-04-16T11:31:26.788632+00:00,1,[1h] Learn n3bi contract
+1018689,77877,233,2024-04-16T06:48:22.91275+00:00,0.5,[0.5h] Refactoring of BasicIncomeDistributor
+1018688,4033422,288,2024-04-16T06:27:39.225568+00:00,0.33,Reviewed PR - https://github.com/nation3/n3bi/pull/122#pullrequestreview-2002689921
 1018593,77877,233,2024-04-15T10:04:53.999739+00:00,0.75,[0.75h] Enable Solidity optimizer - https://github.com/nation3/n3bi/pull/120
 1018591,77877,233,2024-04-15T09:26:01.313979+00:00,0.33,Released version 0.7.0 of npm package - https://www.npmjs.com/package/@nation3/nationcred-contracts
 1018538,77877,233,2024-04-14T14:37:04.499038+00:00,0.33,Deploy Operator skill levels smart contract - https://etherscan.io/tx/0x34c072386d5977f51d5a3c8216af893352cc239770e67f8588699e54b10b433e
