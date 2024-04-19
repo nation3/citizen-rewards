@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1018948,77877,233,2024-04-18T07:37:52.631438+00:00,2,[2h] Refactor voting escrow mock - https://github.com/nation3/nationcred-contracts/pull/128
+1018947,4033422,288,2024-04-18T07:27:58.599913+00:00,1,[1h] Review changes - https://github.com/nation3/n3bi/pull/123
+1018944,77877,233,2024-04-18T01:40:41.549985+00:00,4,[4h] BasicIncomeDisttibutor unit test refactoring - https://github.com/nation3/n3bi/pull/123
 1018903,4033422,288,2024-04-17T16:39:37.960296+00:00,0.5,[0.5h] Reward in ETH
 1018900,4033422,288,2024-04-17T10:36:51.109535+00:00,1.5,[1.5h] Calculate reward tokens - https://github.com/nation3/n3bi/commit/b30eac4dfc967bef6ecf7375c511c6149c82372b
 1018898,4033422,288,2024-04-17T08:07:37.899311+00:00,1.5,[1.5] Calculate reward tokens - https://github.com/nation3/n3bi/commit/b30eac4dfc967bef6ecf7375c511c6149c82372b
