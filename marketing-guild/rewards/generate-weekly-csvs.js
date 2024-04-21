@@ -2,6 +2,8 @@ const fs = require('fs')
 const Papa = require('papaparse')
 const { stringify } = require('csv-stringify');
 
+const weeklyBudget = 4 // https://discord.com/channels/690584551239581708/1177835821596938372/1181552431444791356
+
 generate()
 
 async function generate() {
@@ -79,6 +81,7 @@ async function generate() {
       const reward = rewards[passportID]
       const rewardPercentage = 100 * reward.hours_spent_total / hoursSpentAllCitizens
       reward.reward_percentage = Number(rewardPercentage.toFixed(2))
+      reward.reward_nation = Number((weeklyBudget * rewardPercentage / 100).toFixed(2))
     })
 
     // Export to CSV
@@ -118,7 +121,8 @@ function exportToCSV(weekEndDate, rewards) {
       'passport_id',
       'profile_id',
       'hours_spent_total',
-      'reward_percentage'
+      'reward_percentage',
+      'reward_nation'
   ];
   const stringifier = stringify({ header: true, columns: columns })
   for (const passportID in rewards) {

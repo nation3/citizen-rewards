@@ -1,3 +1,3 @@
-passport_id,profile_id,hours_spent_total,reward_percentage
-233,77877,15.31,46.58
-288,4033422,17.56,53.42
+passport_id,profile_id,hours_spent_total,reward_percentage,reward_nation
+233,77877,15.31,46.58,7.45
+288,4033422,17.56,53.42,8.55
