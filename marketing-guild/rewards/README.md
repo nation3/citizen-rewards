@@ -5,7 +5,7 @@
 Generate weekly rewards CSV files:
 
 ```
-cd ops-guild/rewards/
+cd marketing-guild/rewards/
 npm install
 node generate-weekly-csvs.js
 ```

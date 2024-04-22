@@ -5,7 +5,7 @@
 Fetch Coordinape profiles and store them in a CSV file, [coordinape-profiles.csv](coordinape-profiles.csv).
 
 ```
-cd ops-guild/contributions/
+cd ecoride-network/contributions/
 npm install
 node fetch-profiles.js
 ```
@@ -15,7 +15,7 @@ node fetch-profiles.js
 Fetch Coordinape contributions and store them in a CSV file, [coordinape-contributions.csv](coordinape-contributions.csv).
 
 ```
-cd ops-guild/contributions/
+cd ecoride-network/contributions/
 npm install
 node fetch-contributions.js
 ```
