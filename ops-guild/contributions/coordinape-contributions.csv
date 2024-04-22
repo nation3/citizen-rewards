@@ -1,4 +1,10 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1020786,77877,233,2024-04-21T14:02:29.279937+00:00,0.33,Review and merge weekly SourceCred grain distribution PR -  https://github.com/nation3/sourcecred-instance/pull/253#pullrequestreview-2013436975
+1020784,77877,233,2024-04-21T13:28:27.532622+00:00,0.33,Re-run weekly cron job - https://github.com/nation3/nationcred-datasets/actions/runs/8768860964
+1020778,77877,233,2024-04-21T11:18:59.706595+00:00,0.33,Aragon OSx update - https://app.aragon.org/#/daos/ethereum/nation3.dao.eth/governance/proposals/0xf52658f65fadb561bcbacc9d27c361210b453609_0x4
+1020737,77877,233,2024-04-21T09:26:15.168836+00:00,0.33,Revoked expired passport #263 funded by gallego.eth (citizen #16) - https://etherscan.io/tx/0x2b38109598822b9ace4485b2331cf4af9254006ace491d38fc2ff6d4ab1988ae
+1020696,77877,233,2024-04-21T08:12:37.134698+00:00,0.33,Removed outdated Tenderly notifications.
+1020692,77877,233,2024-04-21T03:02:06.729365+00:00,0.33,Debug and re-run failed weekly dataset generation - https://github.com/nation3/nationcred-datasets/actions/runs/8768860964
 1018592,77877,233,2024-04-15T09:36:27.777176+00:00,0.33,Set correct address of PassportUtils smart contract - https://etherscan.io/tx/0xfd49c7231186e328c5e02fad6b129564ecab45bb327405c1a5716a5301865cf8
 1018590,77877,233,2024-04-15T08:57:37.505135+00:00,2,[2h] Add new roles for Developer Level 1-5 and Operator Level 1-5 - https://guild.xyz/nation3
 1018588,77877,233,2024-04-15T06:31:29.783477+00:00,0.33,Reviewed and merged weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/249
