@@ -1,4 +1,9 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1020785,77877,233,2024-04-21T13:44:05.252291+00:00,1,[1h] ⚙️ feat: ops skill level - https://github.com/nation3/citizen-directory/pull/68
+1020782,77877,233,2024-04-21T13:09:48.682082+00:00,2,[2h] 🧙 feat: dev skill level - https://github.com/nation3/citizen-directory/pull/67
+1020695,77877,233,2024-04-21T08:11:27.126374+00:00,0.33,Review PR - https://github.com/nation3/citizen-app/pull/252
+1020691,77877,233,2024-04-21T02:53:47.797393+00:00,1,[1h] Mock refactoring - https://github.com/nation3/nationcred-contracts/pull/128
+1020690,77877,233,2024-04-21T02:52:16.963608+00:00,2,[2h] Updated unit tests - https://github.com/nation3/n3bi/pull/123
 1020011,4033422,288,2024-04-19T16:40:55.408624+00:00,1,[1h] enrollments struct
 1018948,77877,233,2024-04-18T07:37:52.631438+00:00,2,[2h] Refactor voting escrow mock - https://github.com/nation3/nationcred-contracts/pull/128
 1018947,4033422,288,2024-04-18T07:27:58.599913+00:00,1,[1h] Review changes - https://github.com/nation3/n3bi/pull/123
