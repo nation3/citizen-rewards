@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1021238,77877,233,2024-04-22T15:30:47.048711+00:00,2,[2h] Implement and test claim() function - https://github.com/nation3/n3bi/pull/123
+1021039,77877,233,2024-04-22T11:08:59.98272+00:00,5,[5h] unit testing - https://github.com/nation3/n3bi/pull/123
 1020785,77877,233,2024-04-21T13:44:05.252291+00:00,1,[1h] ⚙️ feat: ops skill level - https://github.com/nation3/citizen-directory/pull/68
 1020782,77877,233,2024-04-21T13:09:48.682082+00:00,2,[2h] 🧙 feat: dev skill level - https://github.com/nation3/citizen-directory/pull/67
 1020695,77877,233,2024-04-21T08:11:27.126374+00:00,0.33,Review PR - https://github.com/nation3/citizen-app/pull/252
