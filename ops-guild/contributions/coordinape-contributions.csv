@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1028022,77877,233,2024-04-28T12:52:30.205892+00:00,0.33,Execute N3GOV-58 - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x5
 1027030,77877,233,2024-04-25T13:00:20.855794+00:00,0.33,Pay out Dework bounties - https://app.safe.global/transactions/queue?safe=eth:0x7eB51dd0AB4240681343dFf061f203C7DcfE7082
 1025793,77877,233,2024-04-24T03:53:00.440176+00:00,0.33,Execute Aragon OSx upgrade - https://etherscan.io/tx/0x043be0394b8a637db704841e3f2a2538125eed61ed427dd0e427cc659f59e085
 1020786,77877,233,2024-04-21T14:02:29.279937+00:00,0.33,Review and merge weekly SourceCred grain distribution PR -  https://github.com/nation3/sourcecred-instance/pull/253#pullrequestreview-2013436975
