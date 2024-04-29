@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1028104,77877,233,2024-04-28T17:55:05.436212+00:00,4,[4h] Deployed and initialized `BoostedLiquidityDistributor` on Sepolia - https://sepolia.etherscan.io/tx/0x956ce295b83c793a45a65ca09d30bf4497ec42ded0217338a1aecf2424037c4a
 1027042,77877,233,2024-04-25T13:43:47.049306+00:00,0.5,[0.5h] Unit testing and refactoring - https://github.com/nation3/n3bi/pull/123
 1021238,77877,233,2024-04-22T15:30:47.048711+00:00,2,[2h] Implement and test claim() function - https://github.com/nation3/n3bi/pull/123
 1021039,77877,233,2024-04-22T11:08:59.98272+00:00,5,[5h] unit testing - https://github.com/nation3/n3bi/pull/123
