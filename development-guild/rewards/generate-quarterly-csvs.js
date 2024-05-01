@@ -37,22 +37,24 @@ async function generate() {
       if (contributionsDataWeekly) {
         // Summarize quarterly hours spent for each citizen
         contributionsDataWeekly.forEach((dataRow) => {
-          // console.log('dataRow:', dataRow)
-          if (rewardsQuarterly[String(dataRow.passport_id)] == undefined) {
-            const reward = {
-              passport_id: Number(dataRow.passport_id),
-              profile_id: Number(dataRow.profile_id),
-              hours_spent_total: Number(dataRow.hours_spent_total),
-              reward_nation: Number(dataRow.reward_nation)
+          console.log('dataRow:', dataRow)
+          if (dataRow.passport_id) {
+            if (rewardsQuarterly[String(dataRow.passport_id)] == undefined) {
+              const reward = {
+                passport_id: Number(dataRow.passport_id),
+                profile_id: Number(dataRow.profile_id),
+                hours_spent_total: Number(dataRow.hours_spent_total),
+                reward_nation: Number(dataRow.reward_nation)
+              }
+              rewardsQuarterly[String(dataRow.passport_id)] = reward
+            } else {
+              const reward = rewardsQuarterly[String(dataRow.passport_id)]
+              reward.hours_spent_total += Number(dataRow.hours_spent_total)
+              reward.hours_spent_total = Number(Number(reward.hours_spent_total).toFixed(2))
+              reward.reward_nation += Number(dataRow.reward_nation)
+              reward.reward_nation = Number(Number(reward.reward_nation).toFixed(2))
+              rewardsQuarterly[String(dataRow.passport_id)] = reward
             }
-            rewardsQuarterly[String(dataRow.passport_id)] = reward
-          } else {
-            const reward = rewardsQuarterly[String(dataRow.passport_id)]
-            reward.hours_spent_total += Number(dataRow.hours_spent_total)
-            reward.hours_spent_total = Number(Number(reward.hours_spent_total).toFixed(2))
-            reward.reward_nation += Number(dataRow.reward_nation)
-            reward.reward_nation = Number(Number(reward.reward_nation).toFixed(2))
-            rewardsQuarterly[String(dataRow.passport_id)] = reward
           }
         })
         console.debug('rewardsQuarterly:', rewardsQuarterly)
