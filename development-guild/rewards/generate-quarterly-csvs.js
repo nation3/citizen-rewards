@@ -13,14 +13,14 @@ async function generate() {
   const nowDate = new Date()
   console.debug('nowDate:', nowDate)
   while (nowDate.getTime() > quarterEndDate.getTime()) {
-    const quarterBeginDate = new Date(quarterEndDate.getTime() - 13*7*24*60*60*1000)
+    const quarterBeginDate = new Date(quarterEndDate.getTime() - (13-1)*7*24*60*60*1000)
     console.info('quarter:', `[${quarterBeginDate.toISOString()} → ${quarterEndDate.toISOString()}]`)
 
     let rewardsQuarterly = {}
     
     // Iterate weekly CSVs within each quarter
     const weekEndDate = quarterBeginDate
-    while (quarterEndDate.getTime() > weekEndDate.getTime()) {
+    while (quarterEndDate.getTime() >= weekEndDate.getTime()) {
       console.log('weekEndDate:', weekEndDate)
 
       // Load the weekly CSV
@@ -37,7 +37,7 @@ async function generate() {
       if (contributionsDataWeekly) {
         // Summarize quarterly hours spent for each citizen
         contributionsDataWeekly.forEach((dataRow) => {
-          console.log('dataRow:', dataRow)
+          // console.log('dataRow:', dataRow)
           if (dataRow.passport_id) {
             if (rewardsQuarterly[String(dataRow.passport_id)] == undefined) {
               const reward = {
