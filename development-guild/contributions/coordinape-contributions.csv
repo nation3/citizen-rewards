@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1028445,77877,233,2024-04-30T06:26:59.471083+00:00,0.5,[0.5h] Set deployment addresses - https://github.com/nation3/nationcred-contracts/pull/130
 1028153,77877,233,2024-04-29T07:58:21.363476+00:00,0.33,Tested PR - https://github.com/nation3/citizen-app/pull/256#pullrequestreview-2027788187
 1028152,77877,233,2024-04-29T07:38:24.533401+00:00,3,[3h] 🍝 refactor: deployment config (#118) - https://github.com/nation3/nationcred-contracts/pull/129
 1028104,77877,233,2024-04-28T17:55:05.436212+00:00,4,[4h] Deployed and initialized `BoostedLiquidityDistributor` on Sepolia - https://sepolia.etherscan.io/tx/0x956ce295b83c793a45a65ca09d30bf4497ec42ded0217338a1aecf2424037c4a
