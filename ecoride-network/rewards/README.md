@@ -1,8 +1,6 @@
-# Contributor Rewards - 🎥 Marketing Guild
+# Contributor Rewards - 🌳 EcoRide Network
 
 ## Generate CSVs
-
-Generate weekly rewards CSV files:
 
 ```
 cd ecoride-network/rewards/
@@ -13,3 +11,7 @@ node generate-weekly-csvs.js
 ## Weekly Rewards
 
 See [`weekly/`](weekly/)
+
+## Quarterly Rewards
+
+See [`quarterly/`](quarterly/)
