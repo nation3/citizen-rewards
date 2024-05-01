@@ -15,3 +15,5 @@ See [`weekly/`](weekly/)
 ## Quarterly Rewards
 
 See [`quarterly/`](quarterly/)
+
+Rewards distributor smart contract: https://github.com/nation3/nationcred-contracts/blob/main/deployments/mainnet.json
