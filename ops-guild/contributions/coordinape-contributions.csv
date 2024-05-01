@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1028446,77877,233,2024-04-30T06:31:15.612247+00:00,0.33,Review and merge weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/258/files
+1028444,77877,233,2024-04-30T05:29:55.056033+00:00,0.5,[0.5h] Restore veNATION balance for citizen #288
 1028151,77877,233,2024-04-29T06:28:01.516842+00:00,0.33,Funded deployer account - https://etherscan.io/tx/0x8ecda8817ab6a6371c1595192dcb3137b696250c94e42fdebab2a54019fa33ac
 1028022,77877,233,2024-04-28T12:52:30.205892+00:00,0.33,Execute N3GOV-58 - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x5
 1027030,77877,233,2024-04-25T13:00:20.855794+00:00,0.33,Pay out Dework bounties - https://app.safe.global/transactions/queue?safe=eth:0x7eB51dd0AB4240681343dFf061f203C7DcfE7082
