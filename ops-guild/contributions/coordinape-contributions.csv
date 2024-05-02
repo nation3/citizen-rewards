@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1029703,77877,233,2024-05-01T18:33:08.771186+00:00,0.33,Set `nation3agent.dao.eth` as the owner of the `DevGuildRewardsDistributor` - https://etherscan.io/tx/0x910af4edc044aeaa1ed2454fcb1ab81ce4f2a80f1a5e63fd998e3d1778d1bc36
+1029654,77877,233,2024-05-01T11:46:32.114139+00:00,0.5,[0.5h] Distribute citizen rewards for work done in Q4 2023 - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x6
 1028446,77877,233,2024-04-30T06:31:15.612247+00:00,0.33,Review and merge weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/258/files
 1028444,77877,233,2024-04-30T05:29:55.056033+00:00,0.5,[0.5h] Restore veNATION balance for citizen #288
 1028151,77877,233,2024-04-29T06:28:01.516842+00:00,0.33,Funded deployer account - https://etherscan.io/tx/0x8ecda8817ab6a6371c1595192dcb3137b696250c94e42fdebab2a54019fa33ac
