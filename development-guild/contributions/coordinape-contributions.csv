@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1029655,77877,233,2024-05-01T12:38:03.002498+00:00,0.33,PR review - https://github.com/nation3/citizen-app/pull/260#pullrequestreview-2033541124
+1029653,77877,233,2024-05-01T11:36:24.909357+00:00,4,[4h] 🍕 feat: quarterly allocations - https://github.com/nation3/citizen-rewards/pull/28
 1028445,77877,233,2024-04-30T06:26:59.471083+00:00,0.5,[0.5h] Set deployment addresses - https://github.com/nation3/nationcred-contracts/pull/130
 1028153,77877,233,2024-04-29T07:58:21.363476+00:00,0.33,Tested PR - https://github.com/nation3/citizen-app/pull/256#pullrequestreview-2027788187
 1028152,77877,233,2024-04-29T07:38:24.533401+00:00,3,[3h] 🍝 refactor: deployment config (#118) - https://github.com/nation3/nationcred-contracts/pull/129
