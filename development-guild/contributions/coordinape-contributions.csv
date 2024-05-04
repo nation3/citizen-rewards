@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1029912,77877,233,2024-05-03T16:15:39.945+00:00,1,[1h] Fix from Balancer LP token address for BoostedLiquidityDistributor on Sepolia - https://app.aragon.org/#/daos/sepolia/0xfbb66bc799308435ed2a0e0c0ac3ad1d46749b7b/governance/proposals/0xd2b68f756fb4dd533a3662ed3d70fafd75b3c332_0x2
 1029655,77877,233,2024-05-01T12:38:03.002498+00:00,0.33,PR review - https://github.com/nation3/citizen-app/pull/260#pullrequestreview-2033541124
 1029653,77877,233,2024-05-01T11:36:24.909357+00:00,4,[4h] 🍕 feat: quarterly allocations - https://github.com/nation3/citizen-rewards/pull/28
 1028445,77877,233,2024-04-30T06:26:59.471083+00:00,0.5,[0.5h] Set deployment addresses - https://github.com/nation3/nationcred-contracts/pull/130
