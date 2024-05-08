@@ -1,4 +1,9 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1030222,4033422,288,2024-05-08T05:50:24.695535+00:00,0.33,PR Review - https://github.com/nation3/citizen-rewards/pull/30
+1030220,77877,233,2024-05-08T04:55:40.629944+00:00,0.5,[0.5h] Fix GitHub Action error - https://github.com/nation3/citizen-rewards/pull/30
+1030009,4033995,288,2024-05-05T15:35:44.798815+00:00,0.33,"
+Reviewed PR - https://github.com/nation3/wiki/pull/39#pullrequestreview-2039723568"
+1029968,4033995,288,2024-05-05T10:56:26.571818+00:00,0.33,Create proposal - https://snapshot.org/#/nation3.eth/proposal/0x312a507649f9479b6de2b0417d82f192afb1c9875b0412f84344fe1926408230
 1029912,77877,233,2024-05-03T16:15:39.945+00:00,1,[1h] Fix from Balancer LP token address for BoostedLiquidityDistributor on Sepolia - https://app.aragon.org/#/daos/sepolia/0xfbb66bc799308435ed2a0e0c0ac3ad1d46749b7b/governance/proposals/0xd2b68f756fb4dd533a3662ed3d70fafd75b3c332_0x2
 1029655,77877,233,2024-05-01T12:38:03.002498+00:00,0.33,PR review - https://github.com/nation3/citizen-app/pull/260#pullrequestreview-2033541124
 1029653,77877,233,2024-05-01T11:36:24.909357+00:00,4,[4h] 🍕 feat: quarterly allocations - https://github.com/nation3/citizen-rewards/pull/28
