@@ -1,4 +1,12 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1030237,77877,233,2024-05-08T16:43:46.535708+00:00,0.5,[0.5h] Reimburse Abu for lost tokens in Aragon Govern contract - https://app.dework.xyz/nation3/ops-guild-644?taskId=c0dda2ec-1c57-45dd-a36c-52a168351dc9
+1030227,77877,233,2024-05-08T14:27:43.677515+00:00,0.33,Update docs - https://github.com/nation3/citizen-app/pull/268
+1030166,77877,233,2024-05-07T06:12:28.045464+00:00,0.33,Review and merge weekly SourceCred grain 🌾 distribution PR - https://github.com/nation3/sourcecred-instance/pull/259
+1030068,77877,233,2024-05-06T07:23:47.995179+00:00,0.33,Debug failing GitHub Action in `citizen-rewards` repo - https://discord.com/channels/690584551239581708/1138401164526899241/1236940932625203261
+1029967,77877,233,2024-05-05T08:58:12.066446+00:00,1,[1h] N3GOV-61: Q2 2024 Nation3 DAO Budget - https://snapshot.org/#/nation3.eth/proposal/0x9364518f4f114946f078072e6bbb29f38ce247165de9268dd6e69d409f75b954
+1029963,77877,233,2024-05-05T08:13:53.479724+00:00,1,[1h] Top up 2.11 $veNATION for citizen #288 - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0xa + https://etherscan.io/tx/0xee8e483954cca045b5cc74d25ac13dbf539b703b0cc685c8e70d801c9ef89edd
+1029957,77877,233,2024-05-05T07:47:43.356723+00:00,0.33,Adjust Snapshot quorum to 10% of 84 - https://app.dework.xyz/nation3/ops-guild-644?taskId=abd624fc-f758-47e8-bb08-d1f8223a2994
+1029949,77877,233,2024-05-05T06:04:11.411674+00:00,0.5,[0.5h] Ratify `N3GOV-59` - https://app.aragon.org/#/daos/ethereum/nation3.dao.eth/governance/proposals/0xf52658f65fadb561bcbacc9d27c361210b453609_0x5
 1029911,77877,233,2024-05-03T16:05:05.88049+00:00,0.33,Updated address of DAO Agent at https://snapshot.org/#/nation3.eth/treasury
 1029750,77877,233,2024-05-02T04:51:26.046168+00:00,0.5,[0.5h] Add rewards for Q4 2023 - Ops Guild - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x9
 1029749,77877,233,2024-05-02T04:37:11.42981+00:00,0.33,Make `nation3agent.dao.eth` the owner of the OpsGuildRewardsDistributor - https://etherscan.io/tx/0xf92f4a192091e712044958e6a02dc27fed737782e0c6761667be92094f910a2a
