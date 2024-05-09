@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1030234,77877,233,2024-05-08T16:01:14.456299+00:00,0.33,PR review - https://github.com/nation3/wiki/pull/41#pullrequestreview-2046069806
+1030233,77877,233,2024-05-08T15:39:53.457752+00:00,1,[1h] Fix wrong Balancer LP token address - https://github.com/nation3/citizen-app/commit/7d391da5c021f15fd46aaf575e8305df3877e5e1
+1030229,77877,233,2024-05-08T15:18:20.30619+00:00,1,[1h] sepolia: add balancer vault and pool id - https://github.com/nation3/foundations/pull/7
+1030224,77877,233,2024-05-08T10:50:30.150404+00:00,0.33,Fix wrong syntax - https://github.com/nation3/citizen-rewards/commit/d45ac8a6e0e202daf151b6efb9c0129f26e56ea8
 1030222,4033422,288,2024-05-08T05:50:24.695535+00:00,0.33,PR Review - https://github.com/nation3/citizen-rewards/pull/30
 1030220,77877,233,2024-05-08T04:55:40.629944+00:00,0.5,[0.5h] Fix GitHub Action error - https://github.com/nation3/citizen-rewards/pull/30
 1030009,4033995,288,2024-05-05T15:35:44.798815+00:00,0.33,"
