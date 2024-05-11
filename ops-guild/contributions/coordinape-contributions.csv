@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1030254,77877,233,2024-05-10T09:36:57.208831+00:00,0.33,Fund Nation3 Deployer - https://etherscan.io/tx/0xdcfd2ae0c648740f3b7c56de93ed6afeb09cd0ba9faf6b48eec90c685127d18f
 1030237,77877,233,2024-05-08T16:43:46.535708+00:00,0.5,[0.5h] Reimburse Abu for lost tokens in Aragon Govern contract - https://app.dework.xyz/nation3/ops-guild-644?taskId=c0dda2ec-1c57-45dd-a36c-52a168351dc9
 1030227,77877,233,2024-05-08T14:27:43.677515+00:00,0.33,Update docs - https://github.com/nation3/citizen-app/pull/268
 1030166,77877,233,2024-05-07T06:12:28.045464+00:00,0.33,Review and merge weekly SourceCred grain 🌾 distribution PR - https://github.com/nation3/sourcecred-instance/pull/259
