@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1030255,77877,233,2024-05-10T11:33:30.38741+00:00,1.5,[1.5h] Deploy `BoostedLiquidityDistributor.sol` to Mainnet - https://etherscan.io/tx/0x15f27f6150728d7d53c4120c4afcab84fbfbc745e197bdc2fb14d91f57af7338
+1030253,77877,233,2024-05-10T09:15:14.78284+00:00,1,[1h] Sepolia:  Deploy LP rewards - https://github.com/nation3/citizen-app/pull/270
 1030234,77877,233,2024-05-08T16:01:14.456299+00:00,0.33,PR review - https://github.com/nation3/wiki/pull/41#pullrequestreview-2046069806
 1030233,77877,233,2024-05-08T15:39:53.457752+00:00,1,[1h] Fix wrong Balancer LP token address - https://github.com/nation3/citizen-app/commit/7d391da5c021f15fd46aaf575e8305df3877e5e1
 1030229,77877,233,2024-05-08T15:18:20.30619+00:00,1,[1h] sepolia: add balancer vault and pool id - https://github.com/nation3/foundations/pull/7
