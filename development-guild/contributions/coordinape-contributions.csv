@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1030419,77877,233,2024-05-11T06:53:22.096822+00:00,1.5,[1.5h] Test and review PR - https://github.com/nation3/citizen-app/pull/260
+1030416,77877,233,2024-05-11T05:45:07.627993+00:00,2.5,"[2.5h] Deploy boosted liquidity distributor to Mainnet, initialize it, transfer ownership to DAO Agent"
 1030255,77877,233,2024-05-10T11:33:30.38741+00:00,1.5,[1.5h] Deploy `BoostedLiquidityDistributor.sol` to Mainnet - https://etherscan.io/tx/0x15f27f6150728d7d53c4120c4afcab84fbfbc745e197bdc2fb14d91f57af7338
 1030253,77877,233,2024-05-10T09:15:14.78284+00:00,1,[1h] Sepolia:  Deploy LP rewards - https://github.com/nation3/citizen-app/pull/270
 1030234,77877,233,2024-05-08T16:01:14.456299+00:00,0.33,PR review - https://github.com/nation3/wiki/pull/41#pullrequestreview-2046069806
