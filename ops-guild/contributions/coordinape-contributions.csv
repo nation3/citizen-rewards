@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1030716,77877,233,2024-05-14T04:01:02.720952+00:00,0.5,[0.5h] Requested 250 `$NATION` to be returned from `0x93dd5d711ffabb650c02119f244ec4ae440fef8d` to the DAO.
+1030714,77877,233,2024-05-14T02:22:29.7716+00:00,0.5,[0.5h] Transfer `$SAFE` tokens from former multisig to `nation3agent.dao.eth`
 1030670,77877,233,2024-05-13T14:43:36.368593+00:00,0.33,Fund Nation3 Deployer on Sepolia - https://sepolia.etherscan.io/tx/0x4e378d21a80d7dce59ada236836f25fd9354ecb482ab530adf95fa5f7667b5bd
 1030586,77877,233,2024-05-13T04:20:14.382305+00:00,0.33,Review and merge weekly SourceCred grain 🌾 distribution - https://github.com/nation3/sourcecred-instance/pull/261
 1030422,77877,233,2024-05-11T12:38:26.918315+00:00,1.5,[1.5h] Write proposal - N3GOV-62: Stream Tokens From Sablier to DAO Agents
