@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1030717,77877,233,2024-05-14T04:20:08.618872+00:00,0.167,[0.167] Correct docs - https://github.com/nation3/n3bi/commit/366ce95dca1a8e6ff985c55a1ae52e52e836ef65
 1030627,77877,233,2024-05-13T09:08:27.61692+00:00,0.16,[0.16h] Merge PR - https://github.com/nation3/citizen-app/pull/269
 1030419,77877,233,2024-05-11T06:53:22.096822+00:00,1.5,[1.5h] Test and review PR - https://github.com/nation3/citizen-app/pull/260
 1030416,77877,233,2024-05-11T05:45:07.627993+00:00,2.5,"[2.5h] Deploy boosted liquidity distributor to Mainnet, initialize it, transfer ownership to DAO Agent"
