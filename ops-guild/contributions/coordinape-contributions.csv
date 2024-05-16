@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1030768,77877,233,2024-05-15T07:01:18.906555+00:00,1,[1h] Set ENS name - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0xd
+1030767,77877,233,2024-05-15T06:43:24.687848+00:00,1,[1h] Make DAO Agent the ENS manager - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0xc
 1030716,77877,233,2024-05-14T04:01:02.720952+00:00,0.5,[0.5h] Requested 250 `$NATION` to be returned from `0x93dd5d711ffabb650c02119f244ec4ae440fef8d` to the DAO.
 1030714,77877,233,2024-05-14T02:22:29.7716+00:00,0.5,[0.5h] Transfer `$SAFE` tokens from former multisig to `nation3agent.dao.eth`
 1030670,77877,233,2024-05-13T14:43:36.368593+00:00,0.33,Fund Nation3 Deployer on Sepolia - https://sepolia.etherscan.io/tx/0x4e378d21a80d7dce59ada236836f25fd9354ecb482ab530adf95fa5f7667b5bd
