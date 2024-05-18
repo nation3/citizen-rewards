@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1030947,77877,233,2024-05-17T10:25:24.513403+00:00,0.5,[0.5h] Review PR - https://github.com/nation3/sourcecred-instance/pull/264
+1030946,77877,233,2024-05-17T10:11:28.812873+00:00,0.5,[0.5h] Tested and reviewed PR - https://github.com/nation3/citizen-app/pull/277#pullrequestreview-2062904290
+1030945,4033422,288,2024-05-17T06:49:11.994831+00:00,1,[1h] Update citizen address  - https://github.com/nation3/sourcecred-instance/pull/264
 1030821,77877,233,2024-05-16T08:42:56.379113+00:00,0.33,Triage IPFS error - https://github.com/nation3/citizen-app/issues/276
 1030820,77877,233,2024-05-16T08:25:07.749131+00:00,0.5,[0.5h] Fix Balancer URL - https://github.com/nation3/citizen-app/pull/274
 1030717,77877,233,2024-05-14T04:20:08.618872+00:00,0.167,[0.167] Correct docs - https://github.com/nation3/n3bi/commit/366ce95dca1a8e6ff985c55a1ae52e52e836ef65
