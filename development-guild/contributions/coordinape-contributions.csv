@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1030968,77877,233,2024-05-19T01:17:44.229317+00:00,0.33,Debug and restart failing workflow - https://github.com/nation3/nationcred-datasets/actions/runs/9143779545
 1030961,77877,233,2024-05-18T07:39:50.26674+00:00,0.33,Adjust hardcoded gas - https://github.com/nation3/citizen-app/commit/962ee745e20bb3a2e4607d3a86e62778d2234ba1
 1030960,77877,233,2024-05-18T07:18:23.417902+00:00,1.5,[1.5h] add sablier streams - https://github.com/nation3/token-supply/pull/56
 1030959,77877,233,2024-05-18T06:43:01.300364+00:00,1,[1h] refactor: remove ops guild - https://github.com/nation3/token-supply/pull/55
