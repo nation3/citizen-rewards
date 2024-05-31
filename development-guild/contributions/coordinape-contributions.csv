@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1032796,4033422,288,2024-05-30T15:58:11.202187+00:00,2,[2h] research multisig
+1032744,77877,233,2024-05-30T11:41:53.807754+00:00,0.5,[0.5h] Triage error with withdrawing tokens after lock expiration  date - https://github.com/nation3/citizen-app/issues/279
 1031849,77877,233,2024-05-26T11:46:05.424426+00:00,0.33,Test and merge PR - https://github.com/nation3/citizen-app/pull/274
 1031186,77877,233,2024-05-21T05:35:38.368143+00:00,0.33,Review and merge PR - https://github.com/nation3/nationcred-contracts/pull/133
 1031185,77877,233,2024-05-21T03:25:16.545433+00:00,0.33,Test and merge PR - https://github.com/nation3/citizen-app/pull/275
