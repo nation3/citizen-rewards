@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1033247,77877,233,2024-06-02T07:42:08.908613+00:00,0.33,Review and merge weekly SourceCred grain 🌾 distribution - https://github.com/nation3/sourcecred-instance/pull/268
+1033246,77877,233,2024-06-02T07:37:40.798339+00:00,0.33,Reviewed PR - https://github.com/nation3/sourcecred-instance/pull/264#pullrequestreview-2092233789
 1033146,77877,233,2024-06-01T07:25:58.33165+00:00,0.33,Review and merge PR - https://github.com/nation3/sourcecred-instance/pull/262
 1033138,77877,233,2024-06-01T06:42:29.735882+00:00,1,[1h] Test pull request - https://github.com/nation3/citizen-app/pull/280#pullrequestreview-2092035199
 1032914,77877,233,2024-05-31T04:20:12.61435+00:00,0.5,[0.5h] Test PR - https://github.com/nation3/citizen-app/pull/280
