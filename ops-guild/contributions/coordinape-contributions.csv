@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1033374,77877,233,2024-06-03T06:45:48.097993+00:00,0.33,Assist <@186364485651398656> with changing Coordinape profile - https://discord.com/channels/690584551239581708/1245772953875124236/1247077997618528297
 1033288,77877,233,2024-06-02T09:56:13.166536+00:00,0.5,[0.5h] Publish proposal for rewarding @jepetersen - https://snapshot.org/#/nation3.eth/proposal/0xfe752a62499e883df24a9503156b08b1e4c12a3993ccfcf7370285467fcdc954
 1033201,77877,233,2024-06-02T03:49:06.885359+00:00,0.33,Re-run weekly dataset generation - https://github.com/nation3/nationcred-datasets/actions/runs/9334355205/job/25692488279
 1033143,77877,233,2024-06-01T07:18:07.689468+00:00,0.5,[0.5h] Assist <@186364485651398656> with using the DAO Agent on Sepolia - https://discord.com/channels/690584551239581708/1246360449998389288/1246361847985078323
