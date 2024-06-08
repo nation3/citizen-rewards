@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1034420,77877,233,2024-06-07T12:52:17.419434+00:00,0.33,Create open bounty for the N3BI smart contract - https://app.dework.xyz/nation3/open-bounties-95838?taskId=35b4c228-4bfa-47af-b030-8e010808be10
 1034088,77877,233,2024-06-06T09:09:02.664342+00:00,0.33,🧹 chore: remove @types/mocha - https://github.com/nation3/n3bi/pull/145
 1034087,77877,233,2024-06-06T08:34:17.238314+00:00,0.33,🧹 chore: remove @typechain/hardhat - https://github.com/nation3/n3bi/pull/144
 1034086,77877,233,2024-06-06T08:23:16.827573+00:00,0.33,🧹 chore: remove ethers-v5 - https://github.com/nation3/n3bi/pull/143
