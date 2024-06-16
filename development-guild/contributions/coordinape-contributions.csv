@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1036199,77877,233,2024-06-15T15:03:24.519101+00:00,1,"[1h] Test, review and merge PR - https://github.com/nation3/n3bi/pull/149"
+1036195,77877,233,2024-06-15T14:18:56.789589+00:00,0.5,[0.5h] Tested PR - https://github.com/nation3/n3bi/pull/148#pullrequestreview-2120463511
+1036194,77877,233,2024-06-15T14:05:39.477401+00:00,0.33,Review and merge weekly SourceCred grain🌾 distribution - https://github.com/nation3/sourcecred-instance/pull/271
 1034791,77877,233,2024-06-09T07:49:41.264865+00:00,0.33,Re-run failing datasets generation job - https://github.com/nation3/nationcred-datasets/actions/runs/9432699306
 1034420,77877,233,2024-06-07T12:52:17.419434+00:00,0.33,Create open bounty for the N3BI smart contract - https://app.dework.xyz/nation3/open-bounties-95838?taskId=35b4c228-4bfa-47af-b030-8e010808be10
 1034088,77877,233,2024-06-06T09:09:02.664342+00:00,0.33,🧹 chore: remove @types/mocha - https://github.com/nation3/n3bi/pull/145
