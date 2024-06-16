@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1036196,77877,233,2024-06-15T14:26:45.673971+00:00,0.33,Execute Ops Guild transaction #35 - https://app.safe.global/transactions/tx?id=multisig_0x7eB51dd0AB4240681343dFf061f203C7DcfE7082_0x37c3eb78e484a5d0ff567e777d4d205685a823a73fa45fd39643eadbc933e4b7&safe=eth:0x7eB51dd0AB4240681343dFf061f203C7DcfE7082
+1036191,77877,233,2024-06-15T12:33:54.108893+00:00,0.33,Blocked Discord scammer account.
 1034795,77877,233,2024-06-10T04:12:50.00123+00:00,0.33,Add Esprezzo patch for the Sablier Airstream ⏳ - https://dispatch.esprezzo.io/patches/overview
 1033858,77877,233,2024-06-05T06:32:57.019725+00:00,0.33,Deleted Spam and updated list of words in Discord AutoMod.
 1033749,77877,233,2024-06-04T03:52:57.499976+00:00,0.33,Add bi-weekly task for Juicebox project - https://app.dework.xyz/nation3/ops-guild-644?taskId=435fe07a-9be2-47b1-be6a-3cdcf8bd2892
