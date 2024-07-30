@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1040214,77877,233,2024-07-29T12:00:17.666765+00:00,0.5,[0.5h] Juicebox cycle payout - https://app.dework.xyz/nation3/ops-guild-644?taskId=512f7f58-d1d1-44a3-8632-6122eafba0ab
+1040213,77877,233,2024-07-29T11:32:11.721085+00:00,0.33,Help `@metasailor` with passport minting - https://discord.com/channels/690584551239581708/966360996560142396/1267444139784667299
+1040212,77877,233,2024-07-29T11:26:14.294681+00:00,1,[1h] Reset increasing gas cost for veNATION smart contract - https://app.dework.xyz/nation3/ops-guild-644?taskId=4760899a-6160-4107-9f57-9b8912665554
 1037248,77877,233,2024-06-26T09:01:59.159909+00:00,0.33,Adjust Snapshot quorum to 10% of 70 - https://app.dework.xyz/nation3/ops-guild-644?taskId=2e99c827-c662-489a-aacd-c414c160667c
 1037247,77877,233,2024-06-26T08:28:46.481148+00:00,0.33,Banned Discord spam accounts.
 1037246,77877,233,2024-06-26T08:05:11.714498+00:00,0.5,[0.5h] Reset gas cost for veNATION smart contract - https://etherscan.io/tx/0xe7f6d4d3533df8041732aa4d25367af80b0621b2ef5b633d2d1a94cd79b1c9f9
