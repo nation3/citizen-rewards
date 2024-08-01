@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1040498,77877,233,2024-07-31T10:37:06.737398+00:00,2,[2h] Improve performance with multicall - https://github.com/nation3/nationcred-datasets/pull/131
+1040495,77877,233,2024-07-31T07:54:09.458945+00:00,0.33,Reviewed https://github.com/nation3/n3bi/pull/151
+1040489,77877,233,2024-07-31T06:16:50.800658+00:00,2,[2h] Debug error with voting escrow dataset - https://github.com/nation3/nationcred-datasets/actions/runs/10127632066/job/28098064519
 1040305,77877,233,2024-07-30T10:23:43.731691+00:00,0.33,Review and merge SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/283
 1039316,77877,233,2024-07-17T15:55:51.803887+00:00,0.33,Review and merge https://github.com/nation3/sourcecred-instance/pull/281
 1038235,77877,233,2024-07-05T12:23:18.566939+00:00,0.33,Review and merge weekly SourceCred grain🌾 distribution - https://github.com/nation3/sourcecred-instance/pull/277
