@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1040651,77877,233,2024-08-01T06:18:39.186549+00:00,2,[2h] Only include data for past 52 weeks - https://github.com/nation3/citizen-directory/commit/e7a24195d529d1d62076f46814b377fdfe654b5f
+1040649,77877,233,2024-08-01T05:09:08.029193+00:00,1,[1h] Improve performance of the generate-3-voting-escrow script - https://github.com/nation3/nationcred-datasets/issues/130
+1040648,77877,233,2024-08-01T04:51:50.236126+00:00,1,[1h] Debug NationCred datasets - https://github.com/nation3/nationcred-datasets/actions/runs/10127632066/job/28154196136
 1040498,77877,233,2024-07-31T10:37:06.737398+00:00,2,[2h] Improve performance with multicall - https://github.com/nation3/nationcred-datasets/pull/131
 1040495,77877,233,2024-07-31T07:54:09.458945+00:00,0.33,Reviewed https://github.com/nation3/n3bi/pull/151
 1040489,77877,233,2024-07-31T06:16:50.800658+00:00,2,[2h] Debug error with voting escrow dataset - https://github.com/nation3/nationcred-datasets/actions/runs/10127632066/job/28098064519
