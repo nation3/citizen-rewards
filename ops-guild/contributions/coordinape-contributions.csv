@@ -1,4 +1,11 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1041182,77877,233,2024-08-07T10:48:56.879779+00:00,0.5,[0.5h] Add citizen rewards for Q2 2024 - 🧙 Dev Guild - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x1a
+1041102,77877,233,2024-08-07T09:54:18.742576+00:00,0.5,[0.5h] Add citizen rewards for Q1 2024 - 🧙 Dev Guild - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x18
+1041098,77877,233,2024-08-07T09:30:51.856491+00:00,0.5,[0.5h] Add citizen rewards for Q2 2024 - ⚙️ Ops Guild - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x17
+1041095,77877,233,2024-08-07T09:16:31.246789+00:00,1,[1h] Add citizen rewards for Q1 2024 - ⚙️ Ops Guild - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x16
+1041092,77877,233,2024-08-07T08:34:54.300885+00:00,0.5,[0.5h] Retroactively reward @jepetersen for Manifesto recording - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x15
+1041091,77877,233,2024-08-07T07:20:52.043351+00:00,0.33,Review and merge weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/284
+1041090,77877,233,2024-08-07T07:10:59.335989+00:00,0.15,[0.15h] Assist metasailor with gas fee error
 1040647,77877,233,2024-08-01T04:41:46.059242+00:00,0.5,"[0.5h] Clarification of $10,000 transfer to judges - https://discord.com/channels/690584551239581708/1084799185628438700/1268428253211791390"
 1040490,77877,233,2024-07-31T06:23:51.553903+00:00,0.33,On-chain execution of https://snapshot.org/#/nation3.eth/proposal/0xfe752a62499e883df24a9503156b08b1e4c12a3993ccfcf7370285467fcdc954 - https://etherscan.io/tx/0x3732f38efdcad4201fcae0b2c4001f30de1231bdab97a37c3c7d5aa8ec7892dc
 1040214,77877,233,2024-07-29T12:00:17.666765+00:00,0.5,[0.5h] Juicebox cycle payout - https://app.dework.xyz/nation3/ops-guild-644?taskId=512f7f58-d1d1-44a3-8632-6122eafba0ab
