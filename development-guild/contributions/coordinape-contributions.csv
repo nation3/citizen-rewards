@@ -1,4 +1,5 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1041380,77877,233,2024-08-10T08:41:33.815093+00:00,0.5,[0.5h] Review open bounty - https://app.dework.xyz/nation3/open-bounties-95838?taskId=234720c3-b0e4-4142-9e74-7a730a8950c7
 1041183,77877,233,2024-08-07T10:57:03.011914+00:00,0.33,Add dependabot - https://github.com/nation3/citizen-directory/pull/70
 1040651,77877,233,2024-08-01T06:18:39.186549+00:00,2,[2h] Only include data for past 52 weeks - https://github.com/nation3/citizen-directory/commit/e7a24195d529d1d62076f46814b377fdfe654b5f
 1040649,77877,233,2024-08-01T05:09:08.029193+00:00,1,[1h] Improve performance of the generate-3-voting-escrow script - https://github.com/nation3/nationcred-datasets/issues/130
