@@ -1,4 +1,10 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1041601,77877,233,2024-08-13T06:26:12.471132+00:00,0.33,Send payout from Juicebox cycle - https://app.dework.xyz/nation3/ops-guild-644?taskId=435fe07a-9be2-47b1-be6a-3cdcf8bd2892#
+1041600,77877,233,2024-08-13T06:21:07.19652+00:00,0.5,[0.5h] Pay out open bounties - https://app.dework.xyz/nation3/open-bounties-95838
+1041599,77877,233,2024-08-13T06:06:05.903263+00:00,0.33,Fund ⚙️ Ops Guild wallet - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x1d
+1041597,77877,233,2024-08-13T04:55:16.793803+00:00,0.33,Weekly grain distribution - https://github.com/nation3/sourcecred-instance/pull/286
+1041596,77877,233,2024-08-13T04:33:48.790896+00:00,0.33,Reset increasing gas cost for veNATION smart contract - https://app.dework.xyz/nation3/ops-guild-644?taskId=46b413bb-1700-40fe-95fb-182d19f19a1e
+1041594,77877,233,2024-08-13T03:52:58.165132+00:00,0.5,[0.5h] Change owner of CollateralAgreementFramework - https://app.dework.xyz/nation3/ops-guild-644?taskId=a348e2fd-756b-41df-b541-0b873288f4bb
 1041285,77877,233,2024-08-09T05:20:29.295638+00:00,1,[1h] Swap `$SAFE` for `$ETH` - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x1c
 1041284,77877,233,2024-08-09T04:48:47.150957+00:00,1,[1h] Change owner of CollateralAgreementFramework - https://app.dework.xyz/nation3/ops-guild-644?taskId=a348e2fd-756b-41df-b541-0b873288f4bb
 1041182,77877,233,2024-08-07T10:48:56.879779+00:00,0.5,[0.5h] Add citizen rewards for Q2 2024 - 🧙 Dev Guild - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x1a
