@@ -1,4 +1,8 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1041695,77877,233,2024-08-14T09:44:58.657492+00:00,4,[4h] Add UI for checking eligibility - https://github.com/nation3/n3bi/pull/158
+1041694,77877,233,2024-08-14T07:21:48.561614+00:00,0.33,Review PR - https://github.com/nation3/citizen-app/pull/291
+1041693,77877,233,2024-08-14T05:29:50.211361+00:00,0.33,PR review - https://github.com/nation3/citizen-app/pull/291#pullrequestreview-2237196085
+1041691,77877,233,2024-08-14T04:19:38.540645+00:00,1,[1h] Debug claim error - https://discord.com/channels/690584551239581708/1268547526403821738/1273133781787742331
 1041598,77877,233,2024-08-13T05:26:26.99559+00:00,0.33,Reviewed PR - https://github.com/nation3/citizen-directory/pull/78
 1041380,77877,233,2024-08-10T08:41:33.815093+00:00,0.5,[0.5h] Review open bounty - https://app.dework.xyz/nation3/open-bounties-95838?taskId=234720c3-b0e4-4142-9e74-7a730a8950c7
 1041183,77877,233,2024-08-07T10:57:03.011914+00:00,0.33,Add dependabot - https://github.com/nation3/citizen-directory/pull/70
