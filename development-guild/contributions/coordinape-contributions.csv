@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1042349,77877,233,2024-08-23T04:47:48.362311+00:00,2,[2h] Fix failing SourceCred instance - https://github.com/nation3/sourcecred-instance/commit/a75bb8bc878edf8a9cc197b366bb49094e3a4d6c
+1042345,77877,233,2024-08-23T02:34:24.020128+00:00,0.5,[0.5h] PR review and merge - https://github.com/nation3/citizen-app/pull/296
 1042261,77877,233,2024-08-22T07:52:05.351438+00:00,0.33,Review PR - https://github.com/nation3/citizen-app/pull/296#pullrequestreview-2253754917
 1042216,77877,233,2024-08-22T04:20:29.668013+00:00,2,[2h] 🫠 test(cypress): /liquidity #299 - https://github.com/nation3/citizen-app/pull/299
 1042214,77877,233,2024-08-22T02:50:57.40986+00:00,0.33,Division-by-zero error on /liquidity page - https://github.com/nation3/citizen-app/issues/295#issuecomment-2303573205
