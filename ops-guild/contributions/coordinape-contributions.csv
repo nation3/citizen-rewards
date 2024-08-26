@@ -1,8 +1,9 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1042478,77877,233,2024-08-26T02:19:04.488497+00:00,0.33,Weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/291
 1042213,77877,233,2024-08-22T02:17:32.007618+00:00,0.33,Change owner of Arbitrator smart contract
 1042204,77877,233,2024-08-21T04:51:37.377707+00:00,1,"[1h] Assist Eric with returning his $2,000 collateral from the Supreme Court Multisig."
 1042159,77877,233,2024-08-20T06:59:03.206005+00:00,2,[2h] Assist Eric with returning his collateral from the Supreme Court Multisig - https://discord.com/channels/690584551239581708/1084799185628438700/1275347846790385779
-1042114,77877,233,2024-08-19T04:11:50.131151+00:00,NaN,[🔃WEEKLY] Pay out open bounties - https://app.dework.xyz/nation3/ops-guild-644?taskId=9f475668-402d-4ae9-b4db-485b2f4e129d#
+1042114,77877,233,2024-08-26T02:39:22.108601+00:00,0.33,Pay out open bounties - https://app.dework.xyz/nation3/ops-guild-644?taskId=9f475668-402d-4ae9-b4db-485b2f4e129d#
 1042113,77877,233,2024-08-19T04:04:00.838534+00:00,0.33,Add citizen rewards for Q2 2024 - 🧙 Dev Guild - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x22
 1042112,77877,233,2024-08-19T03:55:39.242729+00:00,0.33,Withdraw vested tokens from Sablier Stream - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x21
 1042111,77877,233,2024-08-19T03:42:04.93757+00:00,0.33,Reimburse Citizen #172 for domain renewal - https://app.aragon.org/#/daos/ethereum/nation3agent.dao.eth/governance/proposals/0x18371e70d7c0cd13e4fd1356d3140b35301455d0_0x20
