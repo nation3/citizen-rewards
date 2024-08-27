@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1042482,77877,233,2024-08-26T03:49:01.69129+00:00,0.6,[0.6h] Reset increasing gas cost for veNATION smart contract - https://app.dework.xyz/nation3/ops-guild-644?taskId=800a5dc7-c4dc-4a1d-bd0e-78bfb9ff923a
+1042481,77877,233,2024-08-26T03:27:33.449661+00:00,0.33,Send payout from Juicebox cycle - https://app.dework.xyz/nation3/ops-guild-644?taskId=435fe07a-9be2-47b1-be6a-3cdcf8bd2892#
+1042480,77877,233,2024-08-26T03:20:20.593985+00:00,0.33,Adjust Snapshot quorum - https://app.dework.xyz/nation3/ops-guild-644?taskId=b88b474f-7e31-4e7e-825f-9d629ba0cc6a#
 1042478,77877,233,2024-08-26T02:19:04.488497+00:00,0.33,Weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/291
 1042213,77877,233,2024-08-22T02:17:32.007618+00:00,0.33,Change owner of Arbitrator smart contract
 1042204,77877,233,2024-08-21T04:51:37.377707+00:00,1,"[1h] Assist Eric with returning his $2,000 collateral from the Supreme Court Multisig."
