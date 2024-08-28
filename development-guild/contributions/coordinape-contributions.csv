@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1042570,77877,233,2024-08-27T04:05:25.302687+00:00,1,[1h] IPFS debugging
+1042568,77877,233,2024-08-27T03:12:46.783267+00:00,0.5,[0.5h] PR review - https://github.com/nation3/citizen-app/pulls
 1042479,77877,233,2024-08-26T03:00:47.963395+00:00,0.5,[0.5h] Review PR - https://github.com/nation3/citizen-app/pull/308
 1042349,77877,233,2024-08-23T04:47:48.362311+00:00,2,[2h] Fix failing SourceCred instance - https://github.com/nation3/sourcecred-instance/commit/a75bb8bc878edf8a9cc197b366bb49094e3a4d6c
 1042345,77877,233,2024-08-23T02:34:24.020128+00:00,0.5,[0.5h] PR review and merge - https://github.com/nation3/citizen-app/pull/296
