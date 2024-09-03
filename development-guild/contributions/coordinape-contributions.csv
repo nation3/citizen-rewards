@@ -1,4 +1,7 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1043404,77877,233,2024-09-02T06:04:52.972239+00:00,0.33,Weekly SourceCred grain distribution - https://github.com/nation3/sourcecred-instance/pull/292
+1043403,77877,233,2024-09-02T05:56:57.780547+00:00,0.5,[0.5h] PR  review - https://github.com/nation3/citizen-app/pull/316
+1043402,77877,233,2024-09-02T05:48:49.430188+00:00,0.33,Re-run failing GitHub Action - https://github.com/nation3/nationcred-datasets/actions/runs/10649608207
 1042979,77877,233,2024-08-30T04:13:20.863543+00:00,2,[2h] Add Cypress - https://github.com/nation3/citizen-directory/pull/86
 1042742,77877,233,2024-08-28T03:42:10.12036+00:00,0.33,PR review.
 1042570,77877,233,2024-08-27T04:05:25.302687+00:00,1,[1h] IPFS debugging
