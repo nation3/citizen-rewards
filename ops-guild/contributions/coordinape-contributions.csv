@@ -1,4 +1,6 @@
 id,profile_id,passport_id,updated_at,hours_spent,description
+1046290,77877,233,2024-09-28T14:58:13.264309+00:00,0.33,Pay out open bounties - https://app.dework.xyz/nation3/ops-guild-644?taskId=ca8f23cc-130f-43a4-b69c-e343883f6e73
+1046289,77877,233,2024-09-28T14:41:04.150487+00:00,0.33,Send payout from Juicebox cycle - https://app.dework.xyz/nation3/ops-guild-644?taskId=84147e9b-75a6-44bd-a980-b7e9c0cca910
 1042482,77877,233,2024-08-26T03:49:01.69129+00:00,0.6,[0.6h] Reset increasing gas cost for veNATION smart contract - https://app.dework.xyz/nation3/ops-guild-644?taskId=800a5dc7-c4dc-4a1d-bd0e-78bfb9ff923a
 1042481,77877,233,2024-08-26T03:27:33.449661+00:00,0.33,Send payout from Juicebox cycle - https://app.dework.xyz/nation3/ops-guild-644?taskId=435fe07a-9be2-47b1-be6a-3cdcf8bd2892#
 1042480,77877,233,2024-08-26T03:20:20.593985+00:00,0.33,Adjust Snapshot quorum - https://app.dework.xyz/nation3/ops-guild-644?taskId=b88b474f-7e31-4e7e-825f-9d629ba0cc6a#
